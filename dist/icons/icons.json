@@ -1,0 +1,2606 @@
+[
+    {
+        "codepoint": "0xe001", 
+        "liga": "add", 
+        "name": "add", 
+        "src": "add.svg"
+    }, 
+    {
+        "codepoint": "0xe002", 
+        "liga": "adjust", 
+        "name": "adjust", 
+        "src": "adjust.svg"
+    }, 
+    {
+        "codepoint": "0xe003", 
+        "liga": "agenda", 
+        "name": "agenda", 
+        "src": "agenda.svg"
+    }, 
+    {
+        "codepoint": "0xe004", 
+        "liga": "airport", 
+        "name": "airport", 
+        "src": "airport.svg"
+    }, 
+    {
+        "codepoint": "0xe005", 
+        "liga": "alert", 
+        "name": "alert", 
+        "src": "alert.svg"
+    }, 
+    {
+        "codepoint": "0xe006", 
+        "liga": "alpine", 
+        "name": "alpine", 
+        "src": "alpine.svg"
+    }, 
+    {
+        "codepoint": "0xe007", 
+        "liga": "anchor", 
+        "name": "anchor", 
+        "src": "anchor.svg"
+    }, 
+    {
+        "codepoint": "0xe008", 
+        "liga": "array", 
+        "name": "array", 
+        "src": "array.svg"
+    }, 
+    {
+        "codepoint": "0xe009", 
+        "liga": "arrow_back", 
+        "name": "arrow-back", 
+        "src": "arrow-back.svg"
+    }, 
+    {
+        "codepoint": "0xe00a", 
+        "liga": "arrow_e", 
+        "name": "arrow-e", 
+        "src": "arrow-e.svg"
+    }, 
+    {
+        "codepoint": "0xe00b", 
+        "liga": "arrow_n", 
+        "name": "arrow-n", 
+        "src": "arrow-n.svg"
+    }, 
+    {
+        "codepoint": "0xe00c", 
+        "liga": "arrow_ne", 
+        "name": "arrow-ne", 
+        "src": "arrow-ne.svg"
+    }, 
+    {
+        "codepoint": "0xe00d", 
+        "liga": "arrow_nw", 
+        "name": "arrow-nw", 
+        "src": "arrow-nw.svg"
+    }, 
+    {
+        "codepoint": "0xe00e", 
+        "liga": "arrow_quick_se", 
+        "name": "arrow-quick-se", 
+        "src": "arrow-quick-se.svg"
+    }, 
+    {
+        "codepoint": "0xe00f", 
+        "liga": "arrow_quick_sw", 
+        "name": "arrow-quick-sw", 
+        "src": "arrow-quick-sw.svg"
+    }, 
+    {
+        "codepoint": "0xe010", 
+        "liga": "arrow_s", 
+        "name": "arrow-s", 
+        "src": "arrow-s.svg"
+    }, 
+    {
+        "codepoint": "0xe011", 
+        "liga": "arrow_se", 
+        "name": "arrow-se", 
+        "src": "arrow-se.svg"
+    }, 
+    {
+        "codepoint": "0xe012", 
+        "liga": "arrow_sw", 
+        "name": "arrow-sw", 
+        "src": "arrow-sw.svg"
+    }, 
+    {
+        "codepoint": "0xe013", 
+        "liga": "arrow_w", 
+        "name": "arrow-w", 
+        "src": "arrow-w.svg"
+    }, 
+    {
+        "codepoint": "0xe014", 
+        "liga": "at", 
+        "name": "at", 
+        "src": "at.svg"
+    }, 
+    {
+        "codepoint": "0xe015", 
+        "liga": "attachment", 
+        "name": "attachment", 
+        "src": "attachment.svg"
+    }, 
+    {
+        "codepoint": "0xe016", 
+        "liga": "award", 
+        "name": "award", 
+        "src": "award.svg"
+    }, 
+    {
+        "codepoint": "0xe017", 
+        "liga": "aws", 
+        "name": "aws", 
+        "src": "aws.svg"
+    }, 
+    {
+        "codepoint": "0xe018", 
+        "liga": "balance", 
+        "name": "balance", 
+        "src": "balance.svg"
+    }, 
+    {
+        "codepoint": "0xe019", 
+        "liga": "bank", 
+        "name": "bank", 
+        "src": "bank.svg"
+    }, 
+    {
+        "codepoint": "0xe01a", 
+        "liga": "barrier_closed", 
+        "name": "barrier-closed", 
+        "src": "barrier-closed.svg"
+    }, 
+    {
+        "codepoint": "0xe01b", 
+        "liga": "barrier_open", 
+        "name": "barrier-open", 
+        "src": "barrier-open.svg"
+    }, 
+    {
+        "codepoint": "0xe01c", 
+        "liga": "battery_charging", 
+        "name": "battery-charging", 
+        "src": "battery-charging.svg"
+    }, 
+    {
+        "codepoint": "0xe01d", 
+        "liga": "battery_empty", 
+        "name": "battery-empty", 
+        "src": "battery-empty.svg"
+    }, 
+    {
+        "codepoint": "0xe01e", 
+        "liga": "battery_full_alt", 
+        "name": "battery-full-alt", 
+        "src": "battery-full-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe01f", 
+        "liga": "battery_full", 
+        "name": "battery-full", 
+        "src": "battery-full.svg"
+    }, 
+    {
+        "codepoint": "0xe020", 
+        "liga": "battery", 
+        "name": "battery", 
+        "src": "battery.svg"
+    }, 
+    {
+        "codepoint": "0xe021", 
+        "liga": "bill", 
+        "name": "bill", 
+        "src": "bill.svg"
+    }, 
+    {
+        "codepoint": "0xe022", 
+        "liga": "bin_full", 
+        "name": "bin-full", 
+        "src": "bin-full.svg"
+    }, 
+    {
+        "codepoint": "0xe023", 
+        "liga": "bin", 
+        "name": "bin", 
+        "src": "bin.svg"
+    }, 
+    {
+        "codepoint": "0xe024", 
+        "liga": "bolt_alt", 
+        "name": "bolt-alt", 
+        "src": "bolt-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe025", 
+        "liga": "bolt", 
+        "name": "bolt", 
+        "src": "bolt.svg"
+    }, 
+    {
+        "codepoint": "0xe026", 
+        "liga": "book_sign", 
+        "name": "book-sign", 
+        "src": "book-sign.svg"
+    }, 
+    {
+        "codepoint": "0xe027", 
+        "liga": "book_text", 
+        "name": "book-text", 
+        "src": "book-text.svg"
+    }, 
+    {
+        "codepoint": "0xe028", 
+        "liga": "book_unfold", 
+        "name": "book-unfold", 
+        "src": "book-unfold.svg"
+    }, 
+    {
+        "codepoint": "0xe029", 
+        "liga": "book", 
+        "name": "book", 
+        "src": "book.svg"
+    }, 
+    {
+        "codepoint": "0xe02a", 
+        "liga": "box", 
+        "name": "box", 
+        "src": "box.svg"
+    }, 
+    {
+        "codepoint": "0xe02b", 
+        "liga": "broadcast", 
+        "name": "broadcast", 
+        "src": "broadcast.svg"
+    }, 
+    {
+        "codepoint": "0xe02c", 
+        "liga": "bucket", 
+        "name": "bucket", 
+        "src": "bucket.svg"
+    }, 
+    {
+        "codepoint": "0xe02d", 
+        "liga": "bug", 
+        "name": "bug", 
+        "src": "bug.svg"
+    }, 
+    {
+        "codepoint": "0xe02e", 
+        "liga": "build", 
+        "name": "build", 
+        "src": "build.svg"
+    }, 
+    {
+        "codepoint": "0xe02f", 
+        "liga": "cache", 
+        "name": "cache", 
+        "src": "cache.svg"
+    }, 
+    {
+        "codepoint": "0xe030", 
+        "liga": "calculator", 
+        "name": "calculator", 
+        "src": "calculator.svg"
+    }, 
+    {
+        "codepoint": "0xe031", 
+        "liga": "calendar_day", 
+        "name": "calendar-day", 
+        "src": "calendar-day.svg"
+    }, 
+    {
+        "codepoint": "0xe032", 
+        "liga": "calendar_from", 
+        "name": "calendar-from", 
+        "src": "calendar-from.svg"
+    }, 
+    {
+        "codepoint": "0xe033", 
+        "liga": "calendar_month", 
+        "name": "calendar-month", 
+        "src": "calendar-month.svg"
+    }, 
+    {
+        "codepoint": "0xe034", 
+        "liga": "calendar_period", 
+        "name": "calendar-period", 
+        "src": "calendar-period.svg"
+    }, 
+    {
+        "codepoint": "0xe035", 
+        "liga": "calendar_to", 
+        "name": "calendar-to", 
+        "src": "calendar-to.svg"
+    }, 
+    {
+        "codepoint": "0xe036", 
+        "liga": "calendar_week", 
+        "name": "calendar-week", 
+        "src": "calendar-week.svg"
+    }, 
+    {
+        "codepoint": "0xe037", 
+        "liga": "call", 
+        "name": "call", 
+        "src": "call.svg"
+    }, 
+    {
+        "codepoint": "0xe038", 
+        "liga": "camera", 
+        "name": "camera", 
+        "src": "camera.svg"
+    }, 
+    {
+        "codepoint": "0xe039", 
+        "liga": "car", 
+        "name": "car", 
+        "src": "car.svg"
+    }, 
+    {
+        "codepoint": "0xe03a", 
+        "liga": "caret_e", 
+        "name": "caret-e", 
+        "src": "caret-e.svg"
+    }, 
+    {
+        "codepoint": "0xe03b", 
+        "liga": "caret_n", 
+        "name": "caret-n", 
+        "src": "caret-n.svg"
+    }, 
+    {
+        "codepoint": "0xe03c", 
+        "liga": "caret_ns", 
+        "name": "caret-ns", 
+        "src": "caret-ns.svg"
+    }, 
+    {
+        "codepoint": "0xe03d", 
+        "liga": "caret_s", 
+        "name": "caret-s", 
+        "src": "caret-s.svg"
+    }, 
+    {
+        "codepoint": "0xe03e", 
+        "liga": "caret_w", 
+        "name": "caret-w", 
+        "src": "caret-w.svg"
+    }, 
+    {
+        "codepoint": "0xe03f", 
+        "liga": "carrot", 
+        "name": "carrot", 
+        "src": "carrot.svg"
+    }, 
+    {
+        "codepoint": "0xe040", 
+        "liga": "cash_cycle_ccw", 
+        "name": "cash-cycle-ccw", 
+        "src": "cash-cycle-ccw.svg"
+    }, 
+    {
+        "codepoint": "0xe041", 
+        "liga": "cash_cycle_cw", 
+        "name": "cash-cycle-cw", 
+        "src": "cash-cycle-cw.svg"
+    }, 
+    {
+        "codepoint": "0xe042", 
+        "liga": "center_alt", 
+        "name": "center-alt", 
+        "src": "center-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe043", 
+        "liga": "center", 
+        "name": "center", 
+        "src": "center.svg"
+    }, 
+    {
+        "codepoint": "0xe044", 
+        "liga": "certificate", 
+        "name": "certificate", 
+        "src": "certificate.svg"
+    }, 
+    {
+        "codepoint": "0xe045", 
+        "liga": "charging_off", 
+        "name": "charging-off", 
+        "src": "charging-off.svg"
+    }, 
+    {
+        "codepoint": "0xe046", 
+        "liga": "charging_on", 
+        "name": "charging-on", 
+        "src": "charging-on.svg"
+    }, 
+    {
+        "codepoint": "0xe047", 
+        "liga": "chart_area", 
+        "name": "chart-area", 
+        "src": "chart-area.svg"
+    }, 
+    {
+        "codepoint": "0xe048", 
+        "liga": "chart_bars", 
+        "name": "chart-bars", 
+        "src": "chart-bars.svg"
+    }, 
+    {
+        "codepoint": "0xe049", 
+        "liga": "chart_line", 
+        "name": "chart-line", 
+        "src": "chart-line.svg"
+    }, 
+    {
+        "codepoint": "0xe04a", 
+        "liga": "chart_nodes", 
+        "name": "chart-nodes", 
+        "src": "chart-nodes.svg"
+    }, 
+    {
+        "codepoint": "0xe04b", 
+        "liga": "chart_pie_alt", 
+        "name": "chart-pie-alt", 
+        "src": "chart-pie-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe04c", 
+        "liga": "chart_pie", 
+        "name": "chart-pie", 
+        "src": "chart-pie.svg"
+    }, 
+    {
+        "codepoint": "0xe04d", 
+        "liga": "chart_stacked_area", 
+        "name": "chart-stacked-area", 
+        "src": "chart-stacked-area.svg"
+    }, 
+    {
+        "codepoint": "0xe04e", 
+        "liga": "chart_stacked_bars", 
+        "name": "chart-stacked-bars", 
+        "src": "chart-stacked-bars.svg"
+    }, 
+    {
+        "codepoint": "0xe04f", 
+        "liga": "chart_stripes", 
+        "name": "chart-stripes", 
+        "src": "chart-stripes.svg"
+    }, 
+    {
+        "codepoint": "0xe050", 
+        "liga": "chart_symetric_bars", 
+        "name": "chart-symetric-bars", 
+        "src": "chart-symetric-bars.svg"
+    }, 
+    {
+        "codepoint": "0xe051", 
+        "liga": "chip", 
+        "name": "chip", 
+        "src": "chip.svg"
+    }, 
+    {
+        "codepoint": "0xe052", 
+        "liga": "circle_add", 
+        "name": "circle-add", 
+        "src": "circle-add.svg"
+    }, 
+    {
+        "codepoint": "0xe053", 
+        "liga": "circle_delete", 
+        "name": "circle-delete", 
+        "src": "circle-delete.svg"
+    }, 
+    {
+        "codepoint": "0xe054", 
+        "liga": "circle_ok", 
+        "name": "circle-ok", 
+        "src": "circle-ok.svg"
+    }, 
+    {
+        "codepoint": "0xe055", 
+        "liga": "circle_remove", 
+        "name": "circle-remove", 
+        "src": "circle-remove.svg"
+    }, 
+    {
+        "codepoint": "0xe056", 
+        "liga": "circle", 
+        "name": "circle", 
+        "src": "circle.svg"
+    }, 
+    {
+        "codepoint": "0xe057", 
+        "liga": "clipboard_copy", 
+        "name": "clipboard-copy", 
+        "src": "clipboard-copy.svg"
+    }, 
+    {
+        "codepoint": "0xe058", 
+        "liga": "clipboard_paste", 
+        "name": "clipboard-paste", 
+        "src": "clipboard-paste.svg"
+    }, 
+    {
+        "codepoint": "0xe059", 
+        "liga": "clipboard", 
+        "name": "clipboard", 
+        "src": "clipboard.svg"
+    }, 
+    {
+        "codepoint": "0xe05a", 
+        "liga": "clock", 
+        "name": "clock", 
+        "src": "clock.svg"
+    }, 
+    {
+        "codepoint": "0xe05b", 
+        "liga": "clone_add", 
+        "name": "clone-add", 
+        "src": "clone-add.svg"
+    }, 
+    {
+        "codepoint": "0xe05c", 
+        "liga": "clone_remove", 
+        "name": "clone-remove", 
+        "src": "clone-remove.svg"
+    }, 
+    {
+        "codepoint": "0xe05d", 
+        "liga": "clone", 
+        "name": "clone", 
+        "src": "clone.svg"
+    }, 
+    {
+        "codepoint": "0xe05e", 
+        "liga": "cloud_download", 
+        "name": "cloud-download", 
+        "src": "cloud-download.svg"
+    }, 
+    {
+        "codepoint": "0xe05f", 
+        "liga": "cloud_ok", 
+        "name": "cloud-ok", 
+        "src": "cloud-ok.svg"
+    }, 
+    {
+        "codepoint": "0xe060", 
+        "liga": "cloud_upload", 
+        "name": "cloud-upload", 
+        "src": "cloud-upload.svg"
+    }, 
+    {
+        "codepoint": "0xe061", 
+        "liga": "cloud", 
+        "name": "cloud", 
+        "src": "cloud.svg"
+    }, 
+    {
+        "codepoint": "0xe062", 
+        "liga": "code_add", 
+        "name": "code-add", 
+        "src": "code-add.svg"
+    }, 
+    {
+        "codepoint": "0xe063", 
+        "liga": "code_delete", 
+        "name": "code-delete", 
+        "src": "code-delete.svg"
+    }, 
+    {
+        "codepoint": "0xe064", 
+        "liga": "code_download", 
+        "name": "code-download", 
+        "src": "code-download.svg"
+    }, 
+    {
+        "codepoint": "0xe065", 
+        "liga": "code_ok", 
+        "name": "code-ok", 
+        "src": "code-ok.svg"
+    }, 
+    {
+        "codepoint": "0xe066", 
+        "liga": "code_pending", 
+        "name": "code-pending", 
+        "src": "code-pending.svg"
+    }, 
+    {
+        "codepoint": "0xe067", 
+        "liga": "code_remove", 
+        "name": "code-remove", 
+        "src": "code-remove.svg"
+    }, 
+    {
+        "codepoint": "0xe068", 
+        "liga": "code_schedule", 
+        "name": "code-schedule", 
+        "src": "code-schedule.svg"
+    }, 
+    {
+        "codepoint": "0xe069", 
+        "liga": "code_upload", 
+        "name": "code-upload", 
+        "src": "code-upload.svg"
+    }, 
+    {
+        "codepoint": "0xe06a", 
+        "liga": "code", 
+        "name": "code", 
+        "src": "code.svg"
+    }, 
+    {
+        "codepoint": "0xe06b", 
+        "liga": "coffee_to_go", 
+        "name": "coffee-to-go", 
+        "src": "coffee-to-go.svg"
+    }, 
+    {
+        "codepoint": "0xe06c", 
+        "liga": "coffee", 
+        "name": "coffee", 
+        "src": "coffee.svg"
+    }, 
+    {
+        "codepoint": "0xe06d", 
+        "liga": "comment_empty", 
+        "name": "comment-empty", 
+        "src": "comment-empty.svg"
+    }, 
+    {
+        "codepoint": "0xe06e", 
+        "liga": "comment", 
+        "name": "comment", 
+        "src": "comment.svg"
+    }, 
+    {
+        "codepoint": "0xe06f", 
+        "liga": "compass_alt", 
+        "name": "compass-alt", 
+        "src": "compass-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe070", 
+        "liga": "compass", 
+        "name": "compass", 
+        "src": "compass.svg"
+    }, 
+    {
+        "codepoint": "0xe071", 
+        "liga": "creditcard", 
+        "name": "creditcard", 
+        "src": "creditcard.svg"
+    }, 
+    {
+        "codepoint": "0xe072", 
+        "liga": "cube", 
+        "name": "cube", 
+        "src": "cube.svg"
+    }, 
+    {
+        "codepoint": "0xe073", 
+        "liga": "cycle_ccw", 
+        "name": "cycle-ccw", 
+        "src": "cycle-ccw.svg"
+    }, 
+    {
+        "codepoint": "0xe074", 
+        "liga": "cycle_cw", 
+        "name": "cycle-cw", 
+        "src": "cycle-cw.svg"
+    }, 
+    {
+        "codepoint": "0xe075", 
+        "liga": "database_add", 
+        "name": "database-add", 
+        "src": "database-add.svg"
+    }, 
+    {
+        "codepoint": "0xe076", 
+        "liga": "database_delete", 
+        "name": "database-delete", 
+        "src": "database-delete.svg"
+    }, 
+    {
+        "codepoint": "0xe077", 
+        "liga": "database_download", 
+        "name": "database-download", 
+        "src": "database-download.svg"
+    }, 
+    {
+        "codepoint": "0xe078", 
+        "liga": "database_ok", 
+        "name": "database-ok", 
+        "src": "database-ok.svg"
+    }, 
+    {
+        "codepoint": "0xe079", 
+        "liga": "database_pending", 
+        "name": "database-pending", 
+        "src": "database-pending.svg"
+    }, 
+    {
+        "codepoint": "0xe07a", 
+        "liga": "database_remove", 
+        "name": "database-remove", 
+        "src": "database-remove.svg"
+    }, 
+    {
+        "codepoint": "0xe07b", 
+        "liga": "database_scheduled", 
+        "name": "database-scheduled", 
+        "src": "database-scheduled.svg"
+    }, 
+    {
+        "codepoint": "0xe07c", 
+        "liga": "database_upload", 
+        "name": "database-upload", 
+        "src": "database-upload.svg"
+    }, 
+    {
+        "codepoint": "0xe07d", 
+        "liga": "database", 
+        "name": "database", 
+        "src": "database.svg"
+    }, 
+    {
+        "codepoint": "0xe07e", 
+        "liga": "delete", 
+        "name": "delete", 
+        "src": "delete.svg"
+    }, 
+    {
+        "codepoint": "0xe07f", 
+        "liga": "deny", 
+        "name": "deny", 
+        "src": "deny.svg"
+    }, 
+    {
+        "codepoint": "0xe080", 
+        "liga": "desktop", 
+        "name": "desktop", 
+        "src": "desktop.svg"
+    }, 
+    {
+        "codepoint": "0xe081", 
+        "liga": "devide", 
+        "name": "devide", 
+        "src": "devide.svg"
+    }, 
+    {
+        "codepoint": "0xe082", 
+        "liga": "diamond", 
+        "name": "diamond", 
+        "src": "diamond.svg"
+    }, 
+    {
+        "codepoint": "0xe083", 
+        "liga": "direction_ccw_e", 
+        "name": "direction-ccw-e", 
+        "src": "direction-ccw-e.svg"
+    }, 
+    {
+        "codepoint": "0xe084", 
+        "liga": "direction_ccw_n", 
+        "name": "direction-ccw-n", 
+        "src": "direction-ccw-n.svg"
+    }, 
+    {
+        "codepoint": "0xe085", 
+        "liga": "direction_ccw_s", 
+        "name": "direction-ccw-s", 
+        "src": "direction-ccw-s.svg"
+    }, 
+    {
+        "codepoint": "0xe086", 
+        "liga": "direction_ccw_w", 
+        "name": "direction-ccw-w", 
+        "src": "direction-ccw-w.svg"
+    }, 
+    {
+        "codepoint": "0xe087", 
+        "liga": "direction_cw_e", 
+        "name": "direction-cw-e", 
+        "src": "direction-cw-e.svg"
+    }, 
+    {
+        "codepoint": "0xe088", 
+        "liga": "direction_cw_n", 
+        "name": "direction-cw-n", 
+        "src": "direction-cw-n.svg"
+    }, 
+    {
+        "codepoint": "0xe089", 
+        "liga": "direction_cw_s", 
+        "name": "direction-cw-s", 
+        "src": "direction-cw-s.svg"
+    }, 
+    {
+        "codepoint": "0xe08a", 
+        "liga": "direction_cw_w", 
+        "name": "direction-cw-w", 
+        "src": "direction-cw-w.svg"
+    }, 
+    {
+        "codepoint": "0xe08b", 
+        "liga": "disk_download", 
+        "name": "disk-download", 
+        "src": "disk-download.svg"
+    }, 
+    {
+        "codepoint": "0xe08c", 
+        "liga": "disk_upload", 
+        "name": "disk-upload", 
+        "src": "disk-upload.svg"
+    }, 
+    {
+        "codepoint": "0xe08d", 
+        "liga": "disk", 
+        "name": "disk", 
+        "src": "disk.svg"
+    }, 
+    {
+        "codepoint": "0xe08e", 
+        "liga": "domain", 
+        "name": "domain", 
+        "src": "domain.svg"
+    }, 
+    {
+        "codepoint": "0xe08f", 
+        "liga": "draw", 
+        "name": "draw", 
+        "src": "draw.svg"
+    }, 
+    {
+        "codepoint": "0xe090", 
+        "liga": "edit", 
+        "name": "edit", 
+        "src": "edit.svg"
+    }, 
+    {
+        "codepoint": "0xe091", 
+        "liga": "ellipsis", 
+        "name": "ellipsis", 
+        "src": "ellipsis.svg"
+    }, 
+    {
+        "codepoint": "0xe092", 
+        "liga": "eu_flag_dark", 
+        "name": "eu-flag-dark", 
+        "src": "eu-flag-dark.svg"
+    }, 
+    {
+        "codepoint": "0xe093", 
+        "liga": "eu_flag_light", 
+        "name": "eu-flag-light", 
+        "src": "eu-flag-light.svg"
+    }, 
+    {
+        "codepoint": "0xe094", 
+        "liga": "eye_off", 
+        "name": "eye-off", 
+        "src": "eye-off.svg"
+    }, 
+    {
+        "codepoint": "0xe095", 
+        "liga": "eye", 
+        "name": "eye", 
+        "src": "eye.svg"
+    }, 
+    {
+        "codepoint": "0xe096", 
+        "liga": "eyeglass", 
+        "name": "eyeglass", 
+        "src": "eyeglass.svg"
+    }, 
+    {
+        "codepoint": "0xe097", 
+        "liga": "facebook", 
+        "name": "facebook", 
+        "src": "facebook.svg"
+    }, 
+    {
+        "codepoint": "0xe098", 
+        "liga": "file_add", 
+        "name": "file-add", 
+        "src": "file-add.svg"
+    }, 
+    {
+        "codepoint": "0xe099", 
+        "liga": "file_archive", 
+        "name": "file-archive", 
+        "src": "file-archive.svg"
+    }, 
+    {
+        "codepoint": "0xe09a", 
+        "liga": "file_code", 
+        "name": "file-code", 
+        "src": "file-code.svg"
+    }, 
+    {
+        "codepoint": "0xe09b", 
+        "liga": "file_database", 
+        "name": "file-database", 
+        "src": "file-database.svg"
+    }, 
+    {
+        "codepoint": "0xe09c", 
+        "liga": "file_delete", 
+        "name": "file-delete", 
+        "src": "file-delete.svg"
+    }, 
+    {
+        "codepoint": "0xe09d", 
+        "liga": "file_download", 
+        "name": "file-download", 
+        "src": "file-download.svg"
+    }, 
+    {
+        "codepoint": "0xe09e", 
+        "liga": "file_image", 
+        "name": "file-image", 
+        "src": "file-image.svg"
+    }, 
+    {
+        "codepoint": "0xe09f", 
+        "liga": "file_markup", 
+        "name": "file-markup", 
+        "src": "file-markup.svg"
+    }, 
+    {
+        "codepoint": "0xe0a0", 
+        "liga": "file_ok", 
+        "name": "file-ok", 
+        "src": "file-ok.svg"
+    }, 
+    {
+        "codepoint": "0xe0a1", 
+        "liga": "file_patch", 
+        "name": "file-patch", 
+        "src": "file-patch.svg"
+    }, 
+    {
+        "codepoint": "0xe0a2", 
+        "liga": "file_pdf", 
+        "name": "file-pdf", 
+        "src": "file-pdf.svg"
+    }, 
+    {
+        "codepoint": "0xe0a3", 
+        "liga": "file_pending", 
+        "name": "file-pending", 
+        "src": "file-pending.svg"
+    }, 
+    {
+        "codepoint": "0xe0a4", 
+        "liga": "file_remove", 
+        "name": "file-remove", 
+        "src": "file-remove.svg"
+    }, 
+    {
+        "codepoint": "0xe0a5", 
+        "liga": "file_schedule", 
+        "name": "file-schedule", 
+        "src": "file-schedule.svg"
+    }, 
+    {
+        "codepoint": "0xe0a6", 
+        "liga": "file_signed", 
+        "name": "file-signed", 
+        "src": "file-signed.svg"
+    }, 
+    {
+        "codepoint": "0xe0a7", 
+        "liga": "file_style", 
+        "name": "file-style", 
+        "src": "file-style.svg"
+    }, 
+    {
+        "codepoint": "0xe0a8", 
+        "liga": "file_text", 
+        "name": "file-text", 
+        "src": "file-text.svg"
+    }, 
+    {
+        "codepoint": "0xe0a9", 
+        "liga": "file_upload", 
+        "name": "file-upload", 
+        "src": "file-upload.svg"
+    }, 
+    {
+        "codepoint": "0xe0aa", 
+        "liga": "file", 
+        "name": "file", 
+        "src": "file.svg"
+    }, 
+    {
+        "codepoint": "0xe0ab", 
+        "liga": "files_add", 
+        "name": "files-add", 
+        "src": "files-add.svg"
+    }, 
+    {
+        "codepoint": "0xe0ac", 
+        "liga": "files_delete", 
+        "name": "files-delete", 
+        "src": "files-delete.svg"
+    }, 
+    {
+        "codepoint": "0xe0ad", 
+        "liga": "files_download", 
+        "name": "files-download", 
+        "src": "files-download.svg"
+    }, 
+    {
+        "codepoint": "0xe0ae", 
+        "liga": "files_ok", 
+        "name": "files-ok", 
+        "src": "files-ok.svg"
+    }, 
+    {
+        "codepoint": "0xe0af", 
+        "liga": "files_pending", 
+        "name": "files-pending", 
+        "src": "files-pending.svg"
+    }, 
+    {
+        "codepoint": "0xe0b0", 
+        "liga": "files_remove", 
+        "name": "files-remove", 
+        "src": "files-remove.svg"
+    }, 
+    {
+        "codepoint": "0xe0b1", 
+        "liga": "files_schedule", 
+        "name": "files-schedule", 
+        "src": "files-schedule.svg"
+    }, 
+    {
+        "codepoint": "0xe0b2", 
+        "liga": "files_upload", 
+        "name": "files-upload", 
+        "src": "files-upload.svg"
+    }, 
+    {
+        "codepoint": "0xe0b3", 
+        "liga": "files", 
+        "name": "files", 
+        "src": "files.svg"
+    }, 
+    {
+        "codepoint": "0xe0b4", 
+        "liga": "filter", 
+        "name": "filter", 
+        "src": "filter.svg"
+    }, 
+    {
+        "codepoint": "0xe0b5", 
+        "liga": "flag", 
+        "name": "flag", 
+        "src": "flag.svg"
+    }, 
+    {
+        "codepoint": "0xe0b6", 
+        "liga": "floppy_disk", 
+        "name": "floppy-disk", 
+        "src": "floppy-disk.svg"
+    }, 
+    {
+        "codepoint": "0xe0b7", 
+        "liga": "focus", 
+        "name": "focus", 
+        "src": "focus.svg"
+    }, 
+    {
+        "codepoint": "0xe0b8", 
+        "liga": "folder_clone", 
+        "name": "folder-clone", 
+        "src": "folder-clone.svg"
+    }, 
+    {
+        "codepoint": "0xe0b9", 
+        "liga": "folder_symlink_alt", 
+        "name": "folder-symlink-alt", 
+        "src": "folder-symlink-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe0ba", 
+        "liga": "folder_symlink", 
+        "name": "folder-symlink", 
+        "src": "folder-symlink.svg"
+    }, 
+    {
+        "codepoint": "0xe0bb", 
+        "liga": "folder", 
+        "name": "folder", 
+        "src": "folder.svg"
+    }, 
+    {
+        "codepoint": "0xe0bc", 
+        "liga": "gauge", 
+        "name": "gauge", 
+        "src": "gauge.svg"
+    }, 
+    {
+        "codepoint": "0xe0bd", 
+        "liga": "git_branch", 
+        "name": "git-branch", 
+        "src": "git-branch.svg"
+    }, 
+    {
+        "codepoint": "0xe0be", 
+        "liga": "git_clone", 
+        "name": "git-clone", 
+        "src": "git-clone.svg"
+    }, 
+    {
+        "codepoint": "0xe0bf", 
+        "liga": "git_compare_left", 
+        "name": "git-compare-left", 
+        "src": "git-compare-left.svg"
+    }, 
+    {
+        "codepoint": "0xe0c0", 
+        "liga": "git_compare_right", 
+        "name": "git-compare-right", 
+        "src": "git-compare-right.svg"
+    }, 
+    {
+        "codepoint": "0xe0c1", 
+        "liga": "git_compare", 
+        "name": "git-compare", 
+        "src": "git-compare.svg"
+    }, 
+    {
+        "codepoint": "0xe0c2", 
+        "liga": "git_fork", 
+        "name": "git-fork", 
+        "src": "git-fork.svg"
+    }, 
+    {
+        "codepoint": "0xe0c3", 
+        "liga": "git_merge_alt", 
+        "name": "git-merge-alt", 
+        "src": "git-merge-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe0c4", 
+        "liga": "git_merge", 
+        "name": "git-merge", 
+        "src": "git-merge.svg"
+    }, 
+    {
+        "codepoint": "0xe0c5", 
+        "liga": "git_pull_request_new", 
+        "name": "git-pull-request-new", 
+        "src": "git-pull-request-new.svg"
+    }, 
+    {
+        "codepoint": "0xe0c6", 
+        "liga": "git_pull_request", 
+        "name": "git-pull-request", 
+        "src": "git-pull-request.svg"
+    }, 
+    {
+        "codepoint": "0xe0c7", 
+        "liga": "git_tree", 
+        "name": "git-tree", 
+        "src": "git-tree.svg"
+    }, 
+    {
+        "codepoint": "0xe0c8", 
+        "liga": "git", 
+        "name": "git", 
+        "src": "git.svg"
+    }, 
+    {
+        "codepoint": "0xe0c9", 
+        "liga": "github", 
+        "name": "github", 
+        "src": "github.svg"
+    }, 
+    {
+        "codepoint": "0xe0ca", 
+        "liga": "give_eur", 
+        "name": "give-eur", 
+        "src": "give-eur.svg"
+    }, 
+    {
+        "codepoint": "0xe0cb", 
+        "liga": "give_usd", 
+        "name": "give-usd", 
+        "src": "give-usd.svg"
+    }, 
+    {
+        "codepoint": "0xe0cc", 
+        "liga": "give", 
+        "name": "give", 
+        "src": "give.svg"
+    }, 
+    {
+        "codepoint": "0xe0cd", 
+        "liga": "globe", 
+        "name": "globe", 
+        "src": "globe.svg"
+    }, 
+    {
+        "codepoint": "0xe0ce", 
+        "liga": "growth", 
+        "name": "growth", 
+        "src": "growth.svg"
+    }, 
+    {
+        "codepoint": "0xe0cf", 
+        "liga": "hamburger_alt", 
+        "name": "hamburger-alt", 
+        "src": "hamburger-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe0d0", 
+        "liga": "hamburger", 
+        "name": "hamburger", 
+        "src": "hamburger.svg"
+    }, 
+    {
+        "codepoint": "0xe0d1", 
+        "liga": "handle", 
+        "name": "handle", 
+        "src": "handle.svg"
+    }, 
+    {
+        "codepoint": "0xe0d2", 
+        "liga": "hands", 
+        "name": "hands", 
+        "src": "hands.svg"
+    }, 
+    {
+        "codepoint": "0xe0d3", 
+        "liga": "headphones", 
+        "name": "headphones", 
+        "src": "headphones.svg"
+    }, 
+    {
+        "codepoint": "0xe0d4", 
+        "liga": "headset", 
+        "name": "headset", 
+        "src": "headset.svg"
+    }, 
+    {
+        "codepoint": "0xe0d5", 
+        "liga": "home", 
+        "name": "home", 
+        "src": "home.svg"
+    }, 
+    {
+        "codepoint": "0xe0d6", 
+        "liga": "hourglass", 
+        "name": "hourglass", 
+        "src": "hourglass.svg"
+    }, 
+    {
+        "codepoint": "0xe0d7", 
+        "liga": "human", 
+        "name": "human", 
+        "src": "human.svg"
+    }, 
+    {
+        "codepoint": "0xe0d8", 
+        "liga": "image", 
+        "name": "image", 
+        "src": "image.svg"
+    }, 
+    {
+        "codepoint": "0xe0d9", 
+        "liga": "images", 
+        "name": "images", 
+        "src": "images.svg"
+    }, 
+    {
+        "codepoint": "0xe0da", 
+        "liga": "inbox", 
+        "name": "inbox", 
+        "src": "inbox.svg"
+    }, 
+    {
+        "codepoint": "0xe0db", 
+        "liga": "incoming", 
+        "name": "incoming", 
+        "src": "incoming.svg"
+    }, 
+    {
+        "codepoint": "0xe0dc", 
+        "liga": "infinite", 
+        "name": "infinite", 
+        "src": "infinite.svg"
+    }, 
+    {
+        "codepoint": "0xe0dd", 
+        "liga": "info", 
+        "name": "info", 
+        "src": "info.svg"
+    }, 
+    {
+        "codepoint": "0xe0de", 
+        "liga": "instagram", 
+        "name": "instagram", 
+        "src": "instagram.svg"
+    }, 
+    {
+        "codepoint": "0xe0df", 
+        "liga": "issue_closed", 
+        "name": "issue-closed", 
+        "src": "issue-closed.svg"
+    }, 
+    {
+        "codepoint": "0xe0e0", 
+        "liga": "issue_cycle", 
+        "name": "issue-cycle", 
+        "src": "issue-cycle.svg"
+    }, 
+    {
+        "codepoint": "0xe0e1", 
+        "liga": "issue_remove", 
+        "name": "issue-remove", 
+        "src": "issue-remove.svg"
+    }, 
+    {
+        "codepoint": "0xe0e2", 
+        "liga": "issue_reopen", 
+        "name": "issue-reopen", 
+        "src": "issue-reopen.svg"
+    }, 
+    {
+        "codepoint": "0xe0e3", 
+        "liga": "issue", 
+        "name": "issue", 
+        "src": "issue.svg"
+    }, 
+    {
+        "codepoint": "0xe0e4", 
+        "liga": "javascript", 
+        "name": "javascript", 
+        "src": "javascript.svg"
+    }, 
+    {
+        "codepoint": "0xe0e5", 
+        "liga": "key_alt", 
+        "name": "key-alt", 
+        "src": "key-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe0e6", 
+        "liga": "key_command", 
+        "name": "key-command", 
+        "src": "key-command.svg"
+    }, 
+    {
+        "codepoint": "0xe0e7", 
+        "liga": "key_return", 
+        "name": "key-return", 
+        "src": "key-return.svg"
+    }, 
+    {
+        "codepoint": "0xe0e8", 
+        "liga": "key_shift", 
+        "name": "key-shift", 
+        "src": "key-shift.svg"
+    }, 
+    {
+        "codepoint": "0xe0e9", 
+        "liga": "key_windows", 
+        "name": "key-windows", 
+        "src": "key-windows.svg"
+    }, 
+    {
+        "codepoint": "0xe0ea", 
+        "liga": "key", 
+        "name": "key", 
+        "src": "key.svg"
+    }, 
+    {
+        "codepoint": "0xe0eb", 
+        "liga": "keyboard_alt", 
+        "name": "keyboard-alt", 
+        "src": "keyboard-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe0ec", 
+        "liga": "keyboard", 
+        "name": "keyboard", 
+        "src": "keyboard.svg"
+    }, 
+    {
+        "codepoint": "0xe0ed", 
+        "liga": "landscape", 
+        "name": "landscape", 
+        "src": "landscape.svg"
+    }, 
+    {
+        "codepoint": "0xe0ee", 
+        "liga": "laptop", 
+        "name": "laptop", 
+        "src": "laptop.svg"
+    }, 
+    {
+        "codepoint": "0xe0ef", 
+        "liga": "launch", 
+        "name": "launch", 
+        "src": "launch.svg"
+    }, 
+    {
+        "codepoint": "0xe0f0", 
+        "liga": "layout", 
+        "name": "layout", 
+        "src": "layout.svg"
+    }, 
+    {
+        "codepoint": "0xe0f1", 
+        "liga": "lektrico", 
+        "name": "lektrico", 
+        "src": "lektrico.svg"
+    }, 
+    {
+        "codepoint": "0xe0f2", 
+        "liga": "letsencrypt", 
+        "name": "letsencrypt", 
+        "src": "letsencrypt.svg"
+    }, 
+    {
+        "codepoint": "0xe0f3", 
+        "liga": "life_ring", 
+        "name": "life-ring", 
+        "src": "life-ring.svg"
+    }, 
+    {
+        "codepoint": "0xe0f4", 
+        "liga": "lightbulb_off", 
+        "name": "lightbulb-off", 
+        "src": "lightbulb-off.svg"
+    }, 
+    {
+        "codepoint": "0xe0f5", 
+        "liga": "lightbulb_on", 
+        "name": "lightbulb-on", 
+        "src": "lightbulb-on.svg"
+    }, 
+    {
+        "codepoint": "0xe0f6", 
+        "liga": "lightbulb", 
+        "name": "lightbulb", 
+        "src": "lightbulb.svg"
+    }, 
+    {
+        "codepoint": "0xe0f7", 
+        "liga": "lighthouse", 
+        "name": "lighthouse", 
+        "src": "lighthouse.svg"
+    }, 
+    {
+        "codepoint": "0xe0f8", 
+        "liga": "like", 
+        "name": "like", 
+        "src": "like.svg"
+    }, 
+    {
+        "codepoint": "0xe0f9", 
+        "liga": "link_alt", 
+        "name": "link-alt", 
+        "src": "link-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe0fa", 
+        "liga": "link", 
+        "name": "link", 
+        "src": "link.svg"
+    }, 
+    {
+        "codepoint": "0xe0fb", 
+        "liga": "linkedin", 
+        "name": "linkedin", 
+        "src": "linkedin.svg"
+    }, 
+    {
+        "codepoint": "0xe0fc", 
+        "liga": "list_alt", 
+        "name": "list-alt", 
+        "src": "list-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe0fd", 
+        "liga": "list", 
+        "name": "list", 
+        "src": "list.svg"
+    }, 
+    {
+        "codepoint": "0xe0fe", 
+        "liga": "location", 
+        "name": "location", 
+        "src": "location.svg"
+    }, 
+    {
+        "codepoint": "0xe0ff", 
+        "liga": "lock", 
+        "name": "lock", 
+        "src": "lock.svg"
+    }, 
+    {
+        "codepoint": "0xe100", 
+        "liga": "login", 
+        "name": "login", 
+        "src": "login.svg"
+    }, 
+    {
+        "codepoint": "0xe101", 
+        "liga": "logout", 
+        "name": "logout", 
+        "src": "logout.svg"
+    }, 
+    {
+        "codepoint": "0xe102", 
+        "liga": "loop_ccw", 
+        "name": "loop-ccw", 
+        "src": "loop-ccw.svg"
+    }, 
+    {
+        "codepoint": "0xe103", 
+        "liga": "loop_cw", 
+        "name": "loop-cw", 
+        "src": "loop-cw.svg"
+    }, 
+    {
+        "codepoint": "0xe104", 
+        "liga": "love", 
+        "name": "love", 
+        "src": "love.svg"
+    }, 
+    {
+        "codepoint": "0xe105", 
+        "liga": "magnet", 
+        "name": "magnet", 
+        "src": "magnet.svg"
+    }, 
+    {
+        "codepoint": "0xe106", 
+        "liga": "mail_read", 
+        "name": "mail-read", 
+        "src": "mail-read.svg"
+    }, 
+    {
+        "codepoint": "0xe107", 
+        "liga": "mail", 
+        "name": "mail", 
+        "src": "mail.svg"
+    }, 
+    {
+        "codepoint": "0xe108", 
+        "liga": "map", 
+        "name": "map", 
+        "src": "map.svg"
+    }, 
+    {
+        "codepoint": "0xe109", 
+        "liga": "markup", 
+        "name": "markup", 
+        "src": "markup.svg"
+    }, 
+    {
+        "codepoint": "0xe10a", 
+        "liga": "max_alt", 
+        "name": "max-alt", 
+        "src": "max-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe10b", 
+        "liga": "max", 
+        "name": "max", 
+        "src": "max.svg"
+    }, 
+    {
+        "codepoint": "0xe10c", 
+        "liga": "memory_card", 
+        "name": "memory-card", 
+        "src": "memory-card.svg"
+    }, 
+    {
+        "codepoint": "0xe10d", 
+        "liga": "memory", 
+        "name": "memory", 
+        "src": "memory.svg"
+    }, 
+    {
+        "codepoint": "0xe10e", 
+        "liga": "mesh", 
+        "name": "mesh", 
+        "src": "mesh.svg"
+    }, 
+    {
+        "codepoint": "0xe10f", 
+        "liga": "microphone", 
+        "name": "microphone", 
+        "src": "microphone.svg"
+    }, 
+    {
+        "codepoint": "0xe110", 
+        "liga": "min_alt", 
+        "name": "min-alt", 
+        "src": "min-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe111", 
+        "liga": "min", 
+        "name": "min", 
+        "src": "min.svg"
+    }, 
+    {
+        "codepoint": "0xe112", 
+        "liga": "more", 
+        "name": "more", 
+        "src": "more.svg"
+    }, 
+    {
+        "codepoint": "0xe113", 
+        "liga": "mouse", 
+        "name": "mouse", 
+        "src": "mouse.svg"
+    }, 
+    {
+        "codepoint": "0xe114", 
+        "liga": "network_alt", 
+        "name": "network-alt", 
+        "src": "network-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe115", 
+        "liga": "network", 
+        "name": "network", 
+        "src": "network.svg"
+    }, 
+    {
+        "codepoint": "0xe116", 
+        "liga": "non_stop", 
+        "name": "non-stop", 
+        "src": "non-stop.svg"
+    }, 
+    {
+        "codepoint": "0xe117", 
+        "liga": "north", 
+        "name": "north", 
+        "src": "north.svg"
+    }, 
+    {
+        "codepoint": "0xe118", 
+        "liga": "notebook", 
+        "name": "notebook", 
+        "src": "notebook.svg"
+    }, 
+    {
+        "codepoint": "0xe119", 
+        "liga": "obu_one_alt", 
+        "name": "obu-one-alt", 
+        "src": "obu-one-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe11a", 
+        "liga": "obu_one", 
+        "name": "obu-one", 
+        "src": "obu-one.svg"
+    }, 
+    {
+        "codepoint": "0xe11b", 
+        "liga": "office", 
+        "name": "office", 
+        "src": "office.svg"
+    }, 
+    {
+        "codepoint": "0xe11c", 
+        "liga": "ok", 
+        "name": "ok", 
+        "src": "ok.svg"
+    }, 
+    {
+        "codepoint": "0xe11d", 
+        "liga": "orientation", 
+        "name": "orientation", 
+        "src": "orientation.svg"
+    }, 
+    {
+        "codepoint": "0xe11e", 
+        "liga": "outgoing", 
+        "name": "outgoing", 
+        "src": "outgoing.svg"
+    }, 
+    {
+        "codepoint": "0xe11f", 
+        "liga": "paragraph", 
+        "name": "paragraph", 
+        "src": "paragraph.svg"
+    }, 
+    {
+        "codepoint": "0xe120", 
+        "liga": "parking_deny", 
+        "name": "parking-deny", 
+        "src": "parking-deny.svg"
+    }, 
+    {
+        "codepoint": "0xe121", 
+        "liga": "patch_simple", 
+        "name": "patch-simple", 
+        "src": "patch-simple.svg"
+    }, 
+    {
+        "codepoint": "0xe122", 
+        "liga": "patch", 
+        "name": "patch", 
+        "src": "patch.svg"
+    }, 
+    {
+        "codepoint": "0xe123", 
+        "liga": "paypal", 
+        "name": "paypal", 
+        "src": "paypal.svg"
+    }, 
+    {
+        "codepoint": "0xe124", 
+        "liga": "payu", 
+        "name": "payu", 
+        "src": "payu.svg"
+    }, 
+    {
+        "codepoint": "0xe125", 
+        "liga": "pen", 
+        "name": "pen", 
+        "src": "pen.svg"
+    }, 
+    {
+        "codepoint": "0xe126", 
+        "liga": "pencil", 
+        "name": "pencil", 
+        "src": "pencil.svg"
+    }, 
+    {
+        "codepoint": "0xe127", 
+        "liga": "percent", 
+        "name": "percent", 
+        "src": "percent.svg"
+    }, 
+    {
+        "codepoint": "0xe128", 
+        "liga": "phone", 
+        "name": "phone", 
+        "src": "phone.svg"
+    }, 
+    {
+        "codepoint": "0xe129", 
+        "liga": "plug", 
+        "name": "plug", 
+        "src": "plug.svg"
+    }, 
+    {
+        "codepoint": "0xe12a", 
+        "liga": "point", 
+        "name": "point", 
+        "src": "point.svg"
+    }, 
+    {
+        "codepoint": "0xe12b", 
+        "liga": "portrait", 
+        "name": "portrait", 
+        "src": "portrait.svg"
+    }, 
+    {
+        "codepoint": "0xe12c", 
+        "liga": "postcard", 
+        "name": "postcard", 
+        "src": "postcard.svg"
+    }, 
+    {
+        "codepoint": "0xe12d", 
+        "liga": "power_plug", 
+        "name": "power-plug", 
+        "src": "power-plug.svg"
+    }, 
+    {
+        "codepoint": "0xe12e", 
+        "liga": "power", 
+        "name": "power", 
+        "src": "power.svg"
+    }, 
+    {
+        "codepoint": "0xe12f", 
+        "liga": "print", 
+        "name": "print", 
+        "src": "print.svg"
+    }, 
+    {
+        "codepoint": "0xe130", 
+        "liga": "process_alt", 
+        "name": "process-alt", 
+        "src": "process-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe131", 
+        "liga": "process", 
+        "name": "process", 
+        "src": "process.svg"
+    }, 
+    {
+        "codepoint": "0xe132", 
+        "liga": "pulse", 
+        "name": "pulse", 
+        "src": "pulse.svg"
+    }, 
+    {
+        "codepoint": "0xe133", 
+        "liga": "puzzle_alt", 
+        "name": "puzzle-alt", 
+        "src": "puzzle-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe134", 
+        "liga": "puzzle", 
+        "name": "puzzle", 
+        "src": "puzzle.svg"
+    }, 
+    {
+        "codepoint": "0xe135", 
+        "liga": "question", 
+        "name": "question", 
+        "src": "question.svg"
+    }, 
+    {
+        "codepoint": "0xe136", 
+        "liga": "quotes_end", 
+        "name": "quotes-end", 
+        "src": "quotes-end.svg"
+    }, 
+    {
+        "codepoint": "0xe137", 
+        "liga": "quotes_start", 
+        "name": "quotes-start", 
+        "src": "quotes-start.svg"
+    }, 
+    {
+        "codepoint": "0xe138", 
+        "liga": "rack", 
+        "name": "rack", 
+        "src": "rack.svg"
+    }, 
+    {
+        "codepoint": "0xe139", 
+        "liga": "react", 
+        "name": "react", 
+        "src": "react.svg"
+    }, 
+    {
+        "codepoint": "0xe13a", 
+        "liga": "recipt_alt", 
+        "name": "recipt-alt", 
+        "src": "recipt-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe13b", 
+        "liga": "recipt", 
+        "name": "recipt", 
+        "src": "recipt.svg"
+    }, 
+    {
+        "codepoint": "0xe13c", 
+        "liga": "redis", 
+        "name": "redis", 
+        "src": "redis.svg"
+    }, 
+    {
+        "codepoint": "0xe13d", 
+        "liga": "redux", 
+        "name": "redux", 
+        "src": "redux.svg"
+    }, 
+    {
+        "codepoint": "0xe13e", 
+        "liga": "remove", 
+        "name": "remove", 
+        "src": "remove.svg"
+    }, 
+    {
+        "codepoint": "0xe13f", 
+        "liga": "repo_add", 
+        "name": "repo-add", 
+        "src": "repo-add.svg"
+    }, 
+    {
+        "codepoint": "0xe140", 
+        "liga": "repo_migrate", 
+        "name": "repo-migrate", 
+        "src": "repo-migrate.svg"
+    }, 
+    {
+        "codepoint": "0xe141", 
+        "liga": "repo", 
+        "name": "repo", 
+        "src": "repo.svg"
+    }, 
+    {
+        "codepoint": "0xe142", 
+        "liga": "role_admin", 
+        "name": "role-admin", 
+        "src": "role-admin.svg"
+    }, 
+    {
+        "codepoint": "0xe143", 
+        "liga": "role_superadmin", 
+        "name": "role-superadmin", 
+        "src": "role-superadmin.svg"
+    }, 
+    {
+        "codepoint": "0xe144", 
+        "liga": "role_user", 
+        "name": "role-user", 
+        "src": "role-user.svg"
+    }, 
+    {
+        "codepoint": "0xe145", 
+        "liga": "ruler", 
+        "name": "ruler", 
+        "src": "ruler.svg"
+    }, 
+    {
+        "codepoint": "0xe146", 
+        "liga": "safe", 
+        "name": "safe", 
+        "src": "safe.svg"
+    }, 
+    {
+        "codepoint": "0xe147", 
+        "liga": "safefleet", 
+        "name": "safefleet", 
+        "src": "safefleet.svg"
+    }, 
+    {
+        "codepoint": "0xe148", 
+        "liga": "savings", 
+        "name": "savings", 
+        "src": "savings.svg"
+    }, 
+    {
+        "codepoint": "0xe149", 
+        "liga": "seal_ok", 
+        "name": "seal-ok", 
+        "src": "seal-ok.svg"
+    }, 
+    {
+        "codepoint": "0xe14a", 
+        "liga": "seal_remove", 
+        "name": "seal-remove", 
+        "src": "seal-remove.svg"
+    }, 
+    {
+        "codepoint": "0xe14b", 
+        "liga": "search", 
+        "name": "search", 
+        "src": "search.svg"
+    }, 
+    {
+        "codepoint": "0xe14c", 
+        "liga": "sempahore", 
+        "name": "sempahore", 
+        "src": "sempahore.svg"
+    }, 
+    {
+        "codepoint": "0xe14d", 
+        "liga": "settings_add", 
+        "name": "settings-add", 
+        "src": "settings-add.svg"
+    }, 
+    {
+        "codepoint": "0xe14e", 
+        "liga": "settings_delete", 
+        "name": "settings-delete", 
+        "src": "settings-delete.svg"
+    }, 
+    {
+        "codepoint": "0xe14f", 
+        "liga": "settings_download", 
+        "name": "settings-download", 
+        "src": "settings-download.svg"
+    }, 
+    {
+        "codepoint": "0xe150", 
+        "liga": "settings_ok", 
+        "name": "settings-ok", 
+        "src": "settings-ok.svg"
+    }, 
+    {
+        "codepoint": "0xe151", 
+        "liga": "settings_pending", 
+        "name": "settings-pending", 
+        "src": "settings-pending.svg"
+    }, 
+    {
+        "codepoint": "0xe152", 
+        "liga": "settings_remove", 
+        "name": "settings-remove", 
+        "src": "settings-remove.svg"
+    }, 
+    {
+        "codepoint": "0xe153", 
+        "liga": "settings_schedule", 
+        "name": "settings-schedule", 
+        "src": "settings-schedule.svg"
+    }, 
+    {
+        "codepoint": "0xe154", 
+        "liga": "settings_upload", 
+        "name": "settings-upload", 
+        "src": "settings-upload.svg"
+    }, 
+    {
+        "codepoint": "0xe155", 
+        "liga": "settings", 
+        "name": "settings", 
+        "src": "settings.svg"
+    }, 
+    {
+        "codepoint": "0xe156", 
+        "liga": "share_alt", 
+        "name": "share-alt", 
+        "src": "share-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe157", 
+        "liga": "share", 
+        "name": "share", 
+        "src": "share.svg"
+    }, 
+    {
+        "codepoint": "0xe158", 
+        "liga": "shield_add", 
+        "name": "shield-add", 
+        "src": "shield-add.svg"
+    }, 
+    {
+        "codepoint": "0xe159", 
+        "liga": "shield_delete", 
+        "name": "shield-delete", 
+        "src": "shield-delete.svg"
+    }, 
+    {
+        "codepoint": "0xe15a", 
+        "liga": "shield_ok", 
+        "name": "shield-ok", 
+        "src": "shield-ok.svg"
+    }, 
+    {
+        "codepoint": "0xe15b", 
+        "liga": "shield_remove", 
+        "name": "shield-remove", 
+        "src": "shield-remove.svg"
+    }, 
+    {
+        "codepoint": "0xe15c", 
+        "liga": "shield", 
+        "name": "shield", 
+        "src": "shield.svg"
+    }, 
+    {
+        "codepoint": "0xe15d", 
+        "liga": "shine", 
+        "name": "shine", 
+        "src": "shine.svg"
+    }, 
+    {
+        "codepoint": "0xe15e", 
+        "liga": "shopping_cart", 
+        "name": "shopping-cart", 
+        "src": "shopping-cart.svg"
+    }, 
+    {
+        "codepoint": "0xe15f", 
+        "liga": "sidebar", 
+        "name": "sidebar", 
+        "src": "sidebar.svg"
+    }, 
+    {
+        "codepoint": "0xe160", 
+        "liga": "sign_alt", 
+        "name": "sign-alt", 
+        "src": "sign-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe161", 
+        "liga": "sign", 
+        "name": "sign", 
+        "src": "sign.svg"
+    }, 
+    {
+        "codepoint": "0xe162", 
+        "liga": "signal", 
+        "name": "signal", 
+        "src": "signal.svg"
+    }, 
+    {
+        "codepoint": "0xe163", 
+        "liga": "slack", 
+        "name": "slack", 
+        "src": "slack.svg"
+    }, 
+    {
+        "codepoint": "0xe164", 
+        "liga": "smartwatch", 
+        "name": "smartwatch", 
+        "src": "smartwatch.svg"
+    }, 
+    {
+        "codepoint": "0xe165", 
+        "liga": "snapshot", 
+        "name": "snapshot", 
+        "src": "snapshot.svg"
+    }, 
+    {
+        "codepoint": "0xe166", 
+        "liga": "sort_asc_alt", 
+        "name": "sort-asc-alt", 
+        "src": "sort-asc-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe167", 
+        "liga": "sort_asc", 
+        "name": "sort-asc", 
+        "src": "sort-asc.svg"
+    }, 
+    {
+        "codepoint": "0xe168", 
+        "liga": "sort_desc_alt", 
+        "name": "sort-desc-alt", 
+        "src": "sort-desc-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe169", 
+        "liga": "sort_desc", 
+        "name": "sort-desc", 
+        "src": "sort-desc.svg"
+    }, 
+    {
+        "codepoint": "0xe16a", 
+        "liga": "speaker", 
+        "name": "speaker", 
+        "src": "speaker.svg"
+    }, 
+    {
+        "codepoint": "0xe16b", 
+        "liga": "spread", 
+        "name": "spread", 
+        "src": "spread.svg"
+    }, 
+    {
+        "codepoint": "0xe16c", 
+        "liga": "square_add_alt", 
+        "name": "square-add-alt", 
+        "src": "square-add-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe16d", 
+        "liga": "square_add", 
+        "name": "square-add", 
+        "src": "square-add.svg"
+    }, 
+    {
+        "codepoint": "0xe16e", 
+        "liga": "square_alt", 
+        "name": "square-alt", 
+        "src": "square-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe16f", 
+        "liga": "square_delete_alt", 
+        "name": "square-delete-alt", 
+        "src": "square-delete-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe170", 
+        "liga": "square_delete", 
+        "name": "square-delete", 
+        "src": "square-delete.svg"
+    }, 
+    {
+        "codepoint": "0xe171", 
+        "liga": "square_ok_alt", 
+        "name": "square-ok-alt", 
+        "src": "square-ok-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe172", 
+        "liga": "square_ok", 
+        "name": "square-ok", 
+        "src": "square-ok.svg"
+    }, 
+    {
+        "codepoint": "0xe173", 
+        "liga": "square_remove_alt", 
+        "name": "square-remove-alt", 
+        "src": "square-remove-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe174", 
+        "liga": "square_remove", 
+        "name": "square-remove", 
+        "src": "square-remove.svg"
+    }, 
+    {
+        "codepoint": "0xe175", 
+        "liga": "square", 
+        "name": "square", 
+        "src": "square.svg"
+    }, 
+    {
+        "codepoint": "0xe176", 
+        "liga": "ssd", 
+        "name": "ssd", 
+        "src": "ssd.svg"
+    }, 
+    {
+        "codepoint": "0xe177", 
+        "liga": "star_half", 
+        "name": "star-half", 
+        "src": "star-half.svg"
+    }, 
+    {
+        "codepoint": "0xe178", 
+        "liga": "star_off", 
+        "name": "star-off", 
+        "src": "star-off.svg"
+    }, 
+    {
+        "codepoint": "0xe179", 
+        "liga": "star", 
+        "name": "star", 
+        "src": "star.svg"
+    }, 
+    {
+        "codepoint": "0xe17a", 
+        "liga": "stopwatch", 
+        "name": "stopwatch", 
+        "src": "stopwatch.svg"
+    }, 
+    {
+        "codepoint": "0xe17b", 
+        "liga": "storage", 
+        "name": "storage", 
+        "src": "storage.svg"
+    }, 
+    {
+        "codepoint": "0xe17c", 
+        "liga": "suitcase", 
+        "name": "suitcase", 
+        "src": "suitcase.svg"
+    }, 
+    {
+        "codepoint": "0xe17d", 
+        "liga": "sync_ltr", 
+        "name": "sync-ltr", 
+        "src": "sync-ltr.svg"
+    }, 
+    {
+        "codepoint": "0xe17e", 
+        "liga": "sync_rtl", 
+        "name": "sync-rtl", 
+        "src": "sync-rtl.svg"
+    }, 
+    {
+        "codepoint": "0xe17f", 
+        "liga": "tag", 
+        "name": "tag", 
+        "src": "tag.svg"
+    }, 
+    {
+        "codepoint": "0xe180", 
+        "liga": "temperature_critical", 
+        "name": "temperature-critical", 
+        "src": "temperature-critical.svg"
+    }, 
+    {
+        "codepoint": "0xe181", 
+        "liga": "temperature_high", 
+        "name": "temperature-high", 
+        "src": "temperature-high.svg"
+    }, 
+    {
+        "codepoint": "0xe182", 
+        "liga": "temperature_low", 
+        "name": "temperature-low", 
+        "src": "temperature-low.svg"
+    }, 
+    {
+        "codepoint": "0xe183", 
+        "liga": "terminal", 
+        "name": "terminal", 
+        "src": "terminal.svg"
+    }, 
+    {
+        "codepoint": "0xe184", 
+        "liga": "thumbs", 
+        "name": "thumbs", 
+        "src": "thumbs.svg"
+    }, 
+    {
+        "codepoint": "0xe185", 
+        "liga": "topup", 
+        "name": "topup", 
+        "src": "topup.svg"
+    }, 
+    {
+        "codepoint": "0xe186", 
+        "liga": "tpark_alt", 
+        "name": "tpark-alt", 
+        "src": "tpark-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe187", 
+        "liga": "tpark", 
+        "name": "tpark", 
+        "src": "tpark.svg"
+    }, 
+    {
+        "codepoint": "0xe188", 
+        "liga": "traffic_alt", 
+        "name": "traffic-alt", 
+        "src": "traffic-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe189", 
+        "liga": "traffic", 
+        "name": "traffic", 
+        "src": "traffic.svg"
+    }, 
+    {
+        "codepoint": "0xe18a", 
+        "liga": "tree", 
+        "name": "tree", 
+        "src": "tree.svg"
+    }, 
+    {
+        "codepoint": "0xe18b", 
+        "liga": "triangle", 
+        "name": "triangle", 
+        "src": "triangle.svg"
+    }, 
+    {
+        "codepoint": "0xe18c", 
+        "liga": "truck", 
+        "name": "truck", 
+        "src": "truck.svg"
+    }, 
+    {
+        "codepoint": "0xe18d", 
+        "liga": "tshirt", 
+        "name": "tshirt", 
+        "src": "tshirt.svg"
+    }, 
+    {
+        "codepoint": "0xe18e", 
+        "liga": "twitter", 
+        "name": "twitter", 
+        "src": "twitter.svg"
+    }, 
+    {
+        "codepoint": "0xe18f", 
+        "liga": "two_park_alt", 
+        "name": "two-park-alt", 
+        "src": "two-park-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe190", 
+        "liga": "two_park", 
+        "name": "two-park", 
+        "src": "two-park.svg"
+    }, 
+    {
+        "codepoint": "0xe191", 
+        "liga": "umbrella", 
+        "name": "umbrella", 
+        "src": "umbrella.svg"
+    }, 
+    {
+        "codepoint": "0xe192", 
+        "liga": "unite", 
+        "name": "unite", 
+        "src": "unite.svg"
+    }, 
+    {
+        "codepoint": "0xe193", 
+        "liga": "unlock", 
+        "name": "unlock", 
+        "src": "unlock.svg"
+    }, 
+    {
+        "codepoint": "0xe194", 
+        "liga": "user_add", 
+        "name": "user-add", 
+        "src": "user-add.svg"
+    }, 
+    {
+        "codepoint": "0xe195", 
+        "liga": "user_delete", 
+        "name": "user-delete", 
+        "src": "user-delete.svg"
+    }, 
+    {
+        "codepoint": "0xe196", 
+        "liga": "user_download", 
+        "name": "user-download", 
+        "src": "user-download.svg"
+    }, 
+    {
+        "codepoint": "0xe197", 
+        "liga": "user_ok", 
+        "name": "user-ok", 
+        "src": "user-ok.svg"
+    }, 
+    {
+        "codepoint": "0xe198", 
+        "liga": "user_pending", 
+        "name": "user-pending", 
+        "src": "user-pending.svg"
+    }, 
+    {
+        "codepoint": "0xe199", 
+        "liga": "user_remove", 
+        "name": "user-remove", 
+        "src": "user-remove.svg"
+    }, 
+    {
+        "codepoint": "0xe19a", 
+        "liga": "user_schedule", 
+        "name": "user-schedule", 
+        "src": "user-schedule.svg"
+    }, 
+    {
+        "codepoint": "0xe19b", 
+        "liga": "user_upload", 
+        "name": "user-upload", 
+        "src": "user-upload.svg"
+    }, 
+    {
+        "codepoint": "0xe19c", 
+        "liga": "user", 
+        "name": "user", 
+        "src": "user.svg"
+    }, 
+    {
+        "codepoint": "0xe19d", 
+        "liga": "users_add", 
+        "name": "users-add", 
+        "src": "users-add.svg"
+    }, 
+    {
+        "codepoint": "0xe19e", 
+        "liga": "users_delete", 
+        "name": "users-delete", 
+        "src": "users-delete.svg"
+    }, 
+    {
+        "codepoint": "0xe19f", 
+        "liga": "users_download", 
+        "name": "users-download", 
+        "src": "users-download.svg"
+    }, 
+    {
+        "codepoint": "0xe1a0", 
+        "liga": "users_ok", 
+        "name": "users-ok", 
+        "src": "users-ok.svg"
+    }, 
+    {
+        "codepoint": "0xe1a1", 
+        "liga": "users_pending", 
+        "name": "users-pending", 
+        "src": "users-pending.svg"
+    }, 
+    {
+        "codepoint": "0xe1a2", 
+        "liga": "users_remove", 
+        "name": "users-remove", 
+        "src": "users-remove.svg"
+    }, 
+    {
+        "codepoint": "0xe1a3", 
+        "liga": "users_schedule", 
+        "name": "users-schedule", 
+        "src": "users-schedule.svg"
+    }, 
+    {
+        "codepoint": "0xe1a4", 
+        "liga": "users_upload", 
+        "name": "users-upload", 
+        "src": "users-upload.svg"
+    }, 
+    {
+        "codepoint": "0xe1a5", 
+        "liga": "users", 
+        "name": "users", 
+        "src": "users.svg"
+    }, 
+    {
+        "codepoint": "0xe1a6", 
+        "liga": "vector", 
+        "name": "vector", 
+        "src": "vector.svg"
+    }, 
+    {
+        "codepoint": "0xe1a7", 
+        "liga": "volume_down", 
+        "name": "volume-down", 
+        "src": "volume-down.svg"
+    }, 
+    {
+        "codepoint": "0xe1a8", 
+        "liga": "volume_mute", 
+        "name": "volume-mute", 
+        "src": "volume-mute.svg"
+    }, 
+    {
+        "codepoint": "0xe1a9", 
+        "liga": "volume_up", 
+        "name": "volume-up", 
+        "src": "volume-up.svg"
+    }, 
+    {
+        "codepoint": "0xe1aa", 
+        "liga": "volume", 
+        "name": "volume", 
+        "src": "volume.svg"
+    }, 
+    {
+        "codepoint": "0xe1ab", 
+        "liga": "wallet", 
+        "name": "wallet", 
+        "src": "wallet.svg"
+    }, 
+    {
+        "codepoint": "0xe1ac", 
+        "liga": "warning", 
+        "name": "warning", 
+        "src": "warning.svg"
+    }, 
+    {
+        "codepoint": "0xe1ad", 
+        "liga": "wire_transfer", 
+        "name": "wire-transfer", 
+        "src": "wire-transfer.svg"
+    }, 
+    {
+        "codepoint": "0xe1ae", 
+        "liga": "wordpress", 
+        "name": "wordpress", 
+        "src": "wordpress.svg"
+    }, 
+    {
+        "codepoint": "0xe1af", 
+        "liga": "wrench", 
+        "name": "wrench", 
+        "src": "wrench.svg"
+    }, 
+    {
+        "codepoint": "0xe1b0", 
+        "liga": "write", 
+        "name": "write", 
+        "src": "write.svg"
+    }, 
+    {
+        "codepoint": "0xe1b1", 
+        "liga": "zoom_in", 
+        "name": "zoom-in", 
+        "src": "zoom-in.svg"
+    }, 
+    {
+        "codepoint": "0xe1b2", 
+        "liga": "zoom_out", 
+        "name": "zoom-out", 
+        "src": "zoom-out.svg"
+    }
+]
