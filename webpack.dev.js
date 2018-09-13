@@ -7,6 +7,6 @@ module.exports = merge(common, {
     contentBase: './demo',
     port: 3000,
     host: '0.0.0.0',
-    openPage: 'particles/',
+    openPage: 'icons/',
   },
 })
