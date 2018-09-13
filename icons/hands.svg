@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>hands</title>
+  <polygon points="193.28 443.97 130.65 480 48 337.36 110.63 301.33 193.28 443.97" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M182.31,418.23h155c31,0,113.64-113.23,124-133.82s-10.33-41.18-31-20.59c-10.33,10.29-62,82.35-113.65,82.35h-62" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M378.6,315.29s0-20.59-31-20.59h-62c-20.66,0-41.33-10.29-72.32-10.29s-82.65,41.17-82.65,41.17" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <polygon points="318.72 68.03 381.35 32 464 174.64 401.37 210.67 318.72 68.03" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M329.69,93.77h-155c-31,0-113.64,113.23-124,133.82s10.33,41.18,31,20.59c10.33-10.29,62-82.35,113.65-82.35h62" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M133.4,196.71s0,20.59,31,20.59h62c20.66,0,41.33,10.29,72.32,10.29s82.65-41.17,82.65-41.17" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+</svg>

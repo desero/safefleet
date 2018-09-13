@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>barrier-open</title>
+  <line x1="44" y1="464" x2="260" y2="464" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <line x1="124" y1="344" x2="172" y2="344" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M152,200h0a44,44,0,0,1,44,44h0a44,44,0,0,1-44,44h0" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M156.22,198.26l239.3-153a36,36,0,0,1,49.72,10.94h0A36,36,0,0,1,434.29,106L195,258.92" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <line x1="221.96" y1="241.69" x2="243.85" y2="142.24" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <line x1="296.11" y1="194.29" x2="318" y2="94.85" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <line x1="370.26" y1="146.9" x2="392.15" y2="47.45" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M221.51,157.11a52,52,0,0,0-35-13.11H117.46C90.15,144,68,164,68,188.75V464H236V233" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M152,288a44,44,0,0,1-44-44h0a44,44,0,0,1,44-44" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+</svg>

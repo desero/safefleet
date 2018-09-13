@@ -6,7 +6,8 @@ mkdir -p ./dist/fonts ./dist/style ./dist/icons ./dist/export
 
 # generate
 echo "Start dumping to dist"
-./bin/dump.py ./config.json > ./dist/icons/particles.json
+./bin/react.py ./config.json > ./dist/icons/icons-react-native.json
+./bin/dump.py ./config.json > ./dist/icons/icons.json
 echo "Finished dumping to dist"
 
 echo "Start replacing"
@@ -15,12 +16,12 @@ echo "Start replacing"
 echo "Finished replacing"
 
 echo "Start generate fonts"
-fontforge -script ./bin/generate.py ./config.json ./dist/icons/particles.json
+fontforge -script ./bin/generate.py ./config.json ./dist/icons/icons.json
 echo "Finished generate fonts"
 
-woff2_compress ./dist/fonts/particles.ttf
-./bin/create_css.py ./config.json > ./dist/style/particles.css
-./bin/create_scss.py ./config.json > ./dist/style/particles.scss
-./bin/create_data.py ./config.json > ./dist/icons/particles-data.json
+woff2_compress ./dist/fonts/safefleet.ttf
+./bin/create_css.py ./config.json > ./dist/style/icons.css
+./bin/create_scss.py ./config.json > ./dist/style/icons.scss
+./bin/create_data.py ./config.json > ./dist/icons/icons-data.json
 
 rm -rf ./dist/export

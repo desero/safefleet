@@ -1,6 +1,6 @@
 #!/usr/bin/python
 """
-Creates a JSON File containing particles name, srouce, unicode and ligature:
+Creates a JSON File containing icons name, srouce, unicode and ligature:
 [
     {
         "codepoint": "0xe000",
@@ -25,7 +25,7 @@ def load_config(filename='font.json'):
 
 def main(src):
     """
-    Creates a JSON File containing particles name, srouce, unicode and ligature:
+    Creates a JSON File containing icons name, srouce, unicode and ligature:
     """
 
     config = load_config(src)

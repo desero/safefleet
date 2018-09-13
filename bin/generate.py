@@ -63,6 +63,9 @@ def add_glyphs(font, data, config):
         glyph = font.createMappedChar(key + 57344)
         glyph.addPosSub('liga', tuple(name))
 
+        # sys.stderr.write('Added glyps %s\n' % key + 57344)
+        print('Added glyp: %s' % name)
+
         src = '%s%s%s' % (config['input'], os.path.sep, value.pop('src'))
         glyph.importOutlines(src)
 

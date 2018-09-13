@@ -13,7 +13,7 @@ const webpackConfig = {
   output: {
     path: path.resolve('demo'),
     filename: 'js/bundle.[hash].js',
-    publicPath: '/particles/',
+    publicPath: '/icons/',
   },
   module: {},
   resolve: {

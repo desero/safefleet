@@ -2,51 +2,44 @@
   <div id="app">
     <div class="topbar">
       <div class="bar-section branding">
-        <a href="/particles/">
-          <particle :class="[ 'logo' ]">particles_alt</particle> <span>Presslabs Particles</span>
+        <a href="/icons/">
+          <icon :class="[ 'logo' ]">airport</icon> <span>Icons</span>
         </a>
       </div>
       <div class="bar-section input-wrapper search">
-        <input type="text" v-model="search" placeholder="Search particle.." class="input" @focus="zoomedParticle = null, currentIndex = null" />
+        <input type="text" v-model="search" placeholder="Search icon.." class="input" @focus="zoomedIcon = null, currentIndex = null" />
       </div>
       <div class="bar-section input-wrapper size">
         <input type="range" v-model="size" min="16" max="96" name="size" /> Size: {{ size }}px
       </div>
-      <div class="bar-section github">
-        <a href="https://github.com/PressLabs/particles" target="_blank">
-          <particle :class="[ 'github' ]" name="github"></particle> <span>Github Project</span>
-        </a>
-      </div>
     </div>
-    <div class="particles-show">
-      <particles
-        :particles="filteredList"
+    <div class="icons-show">
+      <icons
+        :icons="filteredList"
         :size="size"
         :index="currentIndex"
-        v-on:zoom="zoomParticle($event)"
+        v-on:zoom="zoomIcon($event)"
       />
-      <div class="particle-zoom" v-if="zoomedParticle && showCard">
-        <particleCard
-          :particle="zoomedParticle"
+      <div class="icon-zoom" v-if="zoomedIcon && showCard">
+        <iconCard
+          :icon="zoomedIcon"
           :dark="dark"
           v-on:dark="switchDark"
           v-on:close="closeCard"
           v-on:prev="prev"
           v-on:next="next"
-        ></particleCard>
+        ></iconCard>
       </div>
     </div>
-    <app-footer></app-footer>
   </div>
 </template>
 
 <script>
-import Particles from './components/Particles'
-import ParticleCard from './components/ParticleCard'
-import ParticleIcon from './components/ParticleIcon'
-import Particle from './components/Particle'
-import AppFooter from './components/Footer'
-import particlesData from '../dist/icons/particles.json'
+import Icons from './components/Icons'
+import IconCard from './components/IconCard'
+import IconIcon from './components/IconIcon'
+import Icon from './components/Icon'
+import iconsData from '../dist/icons/icons.json'
 
 export default {
   data: function () {
@@ -55,16 +48,16 @@ export default {
       size: 32,
       dark: false,
       showCard: false,
-      particlesData,
-      zoomedParticle: null,
+      iconsData,
+      zoomedIcon: null,
       currentIndex: null,
     }
   },
   methods: {
-    zoomParticle: function(data) {
-      const { particle, index } = data
+    zoomIcon: function(data) {
+      const { icon, index } = data
       this.currentIndex = index
-      this.zoomedParticle = particle
+      this.zoomedIcon = icon
       this.showCard = true
     },
     closeCard: function() {
@@ -77,25 +70,25 @@ export default {
       if (this.currentIndex < this.filteredList.length - 1) {
         this.currentIndex += 1
       }
-      this.zoomedParticle = this.filteredList[this.currentIndex]
+      this.zoomedIcon = this.filteredList[this.currentIndex]
       this.showCard = true
     },
     prev: function () {
       if (this.currentIndex > 0) {
         this.currentIndex -= 1
       }
-      this.zoomedParticle = this.filteredList[this.currentIndex]
+      this.zoomedIcon = this.filteredList[this.currentIndex]
       this.showCard = true
     },
   },
   computed: {
     filteredList() {
-      return this.particlesData.filter(particle => {
-        return particle.liga.toLowerCase().includes(this.search.toLowerCase())
+      return this.iconsData.filter(icon => {
+        return icon.liga.toLowerCase().includes(this.search.toLowerCase())
       })
     },
   },
-  components: { Particle, ParticleIcon, Particles, ParticleCard, AppFooter }
+  components: { Icon, IconIcon, Icons, IconCard }
 }
 </script>
 
@@ -103,8 +96,8 @@ export default {
 @import "./components/variables";
 @import "./components/colors";
 
-$particles-font-path: "../dist/fonts/" !default;
-@import "../dist/style/particles";
+$icons-font-path: "../dist/fonts/" !default;
+@import "../dist/style/icons";
 
 #app {
   font-family: 'Nunito Sans', Helvetica, Arial, sans-serif;
@@ -219,9 +212,9 @@ $particles-font-path: "../dist/fonts/" !default;
     text-align: left;
   }
   &.search {
-    @include particle('search');
+    @include icon('search');
     @include absolute(20px, 20px);
-    @include particle-size(20px);
+    @include icon-size(20px);
     &:before {
       color: $gray-3;
     }
@@ -255,16 +248,16 @@ input[type="range"] {
     color: $gray-5;
   }
 }
-.particles-show {
+.icons-show {
   display: flex;
   flex-direction: column-reverse;
   @media screen and (min-width: 768px) {
     flex-direction: row;
   }
-  .particles-container {
+  .icons-container {
     flex: 1;
   }
-  .particle-zoom {
+  .icon-zoom {
     flex: 0 0 296px;
     margin-bottom: 20px;
     @media screen and (min-width: 480px) {

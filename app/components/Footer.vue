@@ -2,12 +2,12 @@
   <footer class="footer">
     <div class="cols">
       <div class="col">
-        <a href="https://www.presslabs.com/" class="logo"><particle size="48">presslabs</particle></a>
+        <a href="https://www.presslabs.com/" class="logo"><icon size="48">presslabs</icon></a>
       </div>
       <div class="col">
         <p class="copyright">&copy; 2017-{{ new Date().getFullYear() }} Presslabs.</p>
         <p class="trademark">Presslabs&reg; is a registered trademark in the USA by Presslabs SRL, based in the European Union under number RO28378350.</p>
-        <p class="presslabs"><particle>eu_flag_dark</particle>Engineered in Europe, deployed worldwide.</p>
+        <p class="presslabs"><icon>eu_flag_dark</icon>Engineered in Europe, deployed worldwide.</p>
       </div>
       <div class="col">
         <h6>PRESSLABS</h6>
@@ -28,12 +28,12 @@
       <div class="col">
         <h6>REACH US</h6>
         <ul class="footer-nav socials">
-          <li><a href="https://www.facebook.com/presslabs/"><particle>facebook</particle></a></li>
-          <li><a href="https://twitter.com/presslabs/"><particle>twitter</particle></a></li>
-          <li><a href="https://github.com/presslabs"><particle>github</particle></a></li>
-          <li><a href="https://www.linkedin.com/company-beta/2188682/"><particle>linkedin</particle></a></li>
-          <li><a href="http://profiles.wordpress.org/presslabs/"><particle>wordpress</particle></a></li>
-          <li><a href="https://www.xing.com/companies/presslabs/"><particle>xing</particle></a></li>
+          <li><a href="https://www.facebook.com/presslabs/"><icon>facebook</icon></a></li>
+          <li><a href="https://twitter.com/presslabs/"><icon>twitter</icon></a></li>
+          <li><a href="https://github.com/presslabs"><icon>github</icon></a></li>
+          <li><a href="https://www.linkedin.com/company-beta/2188682/"><icon>linkedin</icon></a></li>
+          <li><a href="http://profiles.wordpress.org/presslabs/"><icon>wordpress</icon></a></li>
+          <li><a href="https://www.xing.com/companies/presslabs/"><icon>xing</icon></a></li>
         </ul>
       </div>
     </div>
@@ -41,10 +41,10 @@
 </template>
 
 <script>
-import Particle from './Particle'
+import Icon from './Icon'
 
 export default {
-  components: { Particle }
+  components: { Icon }
 }
 </script>
 

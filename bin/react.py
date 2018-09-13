@@ -1,18 +1,20 @@
 #!/usr/bin/python
 """
-Creates a JSON containing icons path data such as:
-{
-    "add": [
-        "M48 256c0 9 ..."
-    ],
+Creates a JSON File containing icons name, srouce, unicode and ligature:
+[
+    {
+        "codepoint": "0xe000",
+        "liga": "add",
+        "name": "add",
+        "src": "add.svg"
+    },
     ...
-}
+]
 """
 
 import sys
 import os
 import json
-import xml.etree.ElementTree as ET
 
 def load_config(filename='font.json'):
     """
@@ -23,11 +25,11 @@ def load_config(filename='font.json'):
 
 def main(src):
     """
-    Get the src, generate the object and print it in JSON format
+    Creates a JSON File containing icons name, srouce, unicode and ligature:
     """
 
     config = load_config(src)
-    svgs = config.pop('exportdir')
+    svgs = config.pop('input')
 
     files = [f for f in os.listdir(svgs) if os.path.isfile(os.path.join(svgs, f))]
     files.sort()
@@ -35,17 +37,14 @@ def main(src):
     start = 0xe000
     glyps = {}
 
-    for filename in files:
+    for idx, filename in enumerate(files):
         if not filename.endswith('.svg'):
             continue
 
         name = os.path.splitext(filename)[0]
-        tree = ET.parse(svgs + '/' + filename)
-
         liga = name.replace('-', '_')
-        definition = tree.getroot()[0][0].attrib['d']
 
-        glyps[str(liga)] = definition
+        glyps.update({ name: int(idx + start) })
 
     print json.dumps(glyps, indent=4, sort_keys=True)
 

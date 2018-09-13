@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>cash-cycle-cw</title>
+  <polyline points="464 128 464 208 384 208" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M424,312A192.45,192.45,0,0,1,240,448C134,448,48,362,48,256S134,64,240,64a191.36,191.36,0,0,1,135.76,56.24L376,120l87,87" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M168,304c0,26.51,32.24,48,72,48s72-21.49,72-48-24-36-72-48-72-21.49-72-48,32.24-48,72-48,72,21.49,72,48" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <line x1="240" y1="160" x2="240" y2="128" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <line x1="240" y1="384" x2="240" y2="352" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+</svg>

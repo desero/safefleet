@@ -7,25 +7,25 @@
     "uwidth": 50,
     "encoding": "UnicodeFull",
     "lang": "English (US)",
-    "family": "Presslabs-Particles",
+    "family": "SafeFleet",
     "style": "Regular",
-    "familyname": "Presslabs-Particles",
-    "fontname": "Presslabs-Particles",
-    "fullname": "Presslabs Particles"
+    "familyname": "SafeFleet",
+    "fontname": "SafeFleet",
+    "fullname": "SafeFleet"
   },
   "sfnt_names": [
-    ["English (US)", "Copyright", "Copyright (c) 2018 by Preslabs"],
-    ["English (US)", "Family", "Presslabs Particles"],
+    ["English (US)", "Copyright", "Copyright (c) 2018 by desero"],
+    ["English (US)", "Family", "SafeFleet"],
     ["English (US)", "SubFamily", "Regular"],
-    ["English (US)", "UniqueID", "Presslabs Particles 2018-03-18"],
-    ["English (US)", "Fullname", "Presslabs Particles"],
+    ["English (US)", "UniqueID", "SafeFleet 2018-03-18"],
+    ["English (US)", "Fullname", "SafeFleet"],
     ["English (US)", "Version", "Version 001.000"],
-    ["English (US)", "PostScriptName", "Presslabs-Particles"]
+    ["English (US)", "PostScriptName", "SafeFleet"]
   ],
   "input": "./icons",
   "outdir": "./dist",
   "exportdir": "./dist/export",
   "fonts_outdir": "fonts",
-  "outfile": "particles",
+  "outfile": "safefleet",
   "format": ["svg", "ttf", "eot", "woff"]
 }

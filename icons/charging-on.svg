@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>charging-on</title>
+  <line x1="418.08" y1="256" x2="482.3" y2="256" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <line x1="29.7" y1="256" x2="93.92" y2="256" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <line x1="408" y1="198.13" x2="468.31" y2="176" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <line x1="43.69" y1="336" x2="104" y2="313.87" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <line x1="408" y1="313.87" x2="468.31" y2="336" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <line x1="43.69" y1="176" x2="104" y2="198.13" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <polygon points="376 232 264.9 232 352 32 136 280 247.1 280 160 480 376 232" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+</svg>

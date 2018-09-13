@@ -1,6 +1,6 @@
 #!/usr/bin/python
 """
-Creates a SCSS File containing particles declatarions
+Creates a SCSS File containing icons declatarions
 """
 
 import sys
@@ -18,7 +18,7 @@ def load_config(filename='font.json'):
 
 def main(src):
     """
-    Creates a CSS File containing particles from src
+    Creates a CSS File containing icons from src
     """
 
     config = load_config(src)
@@ -28,7 +28,7 @@ def main(src):
     files = [f for f in os.listdir(svgs) if os.path.isfile(os.path.join(svgs, f))]
     files.sort()
 
-    particles = []
+    icons = []
 
     for filename in files:
         if not filename.endswith('.svg'):
@@ -37,23 +37,23 @@ def main(src):
         src = os.path.splitext(filename)[0]
         name = src.replace('-', '_')
 
-        particle_string = Template('$className: "$value"')
-        particles.append(particle_string.substitute(value=name, className=src))
+        icon_string = Template('$className: "$value"')
+        icons.append(icon_string.substitute(value=name, className=src))
 
-    template = """$$particles-font-path : "../fonts/" !default;
+    template = """$$icons-font-path : "../fonts/" !default;
 @font-face {
     font-family: "$family_name";
-    src: url($$particles-font-path + "$outfile.eot?$hash");
-    src: url($$particles-font-path + "$outfile.eot?$hash#iefix") format("embedded-opentype"),
-         url($$particles-font-path + "$outfile.woff2?$hash") format("woff2"),
-         url($$particles-font-path + "$outfile.woff?$hash") format("woff"),
-         url($$particles-font-path + "$outfile.ttf?$hash") format("truetype"),
-         url($$particles-font-path + "$outfile.svg?$hash#particles") format("svg");
+    src: url($$icons-font-path + "$outfile.eot?$hash");
+    src: url($$icons-font-path + "$outfile.eot?$hash#iefix") format("embedded-opentype"),
+         url($$icons-font-path + "$outfile.woff2?$hash") format("woff2"),
+         url($$icons-font-path + "$outfile.woff?$hash") format("woff"),
+         url($$icons-font-path + "$outfile.ttf?$hash") format("truetype"),
+         url($$icons-font-path + "$outfile.svg?$hash#icons") format("svg");
     font-weight: normal;
     font-style: normal;
 }
 
-%particle-base {
+%icon-base {
     font-family: "$family_name";
     display: inline-block;
     line-height: 1;
@@ -67,26 +67,28 @@ def main(src):
     -moz-osx-font-smoothing: grayscale;
 }
 
-%particle {
+%icon {
     &:before {
-        @extend %particle-base;
+        @extend %icon-base;
     }
 }
 
 
-@mixin icon($$particle) {
-  $$code: map-get($$particles, $$particle);
+@mixin icon($$icon) {
+  $$code: map-get($$icons, $$icon);
     &:before {
         content: unquote('\\'\\\\#{ $$code }\\'');
     }
 }
 
-@mixin particle($$particle) {
-    @extend %particle;
-    @include icon($$particle);
+/*
+@mixin icon($$icon) {
+    @extend %icon;
+    @include icon($$icon);
 }
+*/
 
-@mixin particle-size($$size) {
+@mixin icon-size($$size) {
     &:before {
         font-size: $$size;
         line-height: $$size;
@@ -103,17 +105,17 @@ def main(src):
 }
 
 // Map of icon name to codepoint
-$$particles: (
+$$icons: (
 $list
 );
 
-.particle {
-    @extend %particle-base;
+.icon {
+    @extend %icon-base;
 }
 
-@each $$particle, $$name in $$particles {
-    .particle.#{$$particle}:before {
-       content: "#{$$particle}";
+@each $$icon, $$name in $$icons {
+    .icon.#{$$icon}:before {
+       content: "#{$$icon}";
     }
 }
 
@@ -121,7 +123,7 @@ $list
 
     string_template = Template(template)
     print string_template.substitute(
-        list=",\n".join(particles),
+        list=",\n".join(icons),
         hash=binascii.hexlify(os.urandom(16)),
         family_name=props.pop('fullname'),
         outfile=config.pop('outfile')

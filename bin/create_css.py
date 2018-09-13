@@ -1,6 +1,6 @@
 #!/usr/bin/python
 """
-Creates a CSS File containing particles declatarions
+Creates a CSS File containing icons declatarions
 """
 
 import sys
@@ -18,7 +18,7 @@ def load_config(filename='font.json'):
 
 def main(src):
     """
-    Creates a CSS File containing particles from src
+    Creates a CSS File containing icons from src
     """
 
     config = load_config(src)
@@ -28,7 +28,7 @@ def main(src):
     files = [f for f in os.listdir(svgs) if os.path.isfile(os.path.join(svgs, f))]
     files.sort()
 
-    particles = []
+    icons = []
 
     for filename in files:
         if not filename.endswith('.svg'):
@@ -37,8 +37,8 @@ def main(src):
         src = os.path.splitext(filename)[0]
         name = src.replace('-', '_')
 
-        particle_string = Template('.particle.$className:before { content: "$value"; }')
-        particles.append(particle_string.substitute(value=name, className=src))
+        icon_string = Template('.icon.$className:before { content: "$value"; }')
+        icons.append(icon_string.substitute(value=name, className=src))
 
     template = """@font-face {
     font-family: "$family_name";
@@ -47,12 +47,12 @@ def main(src):
          url("../fonts/$outfile.woff2?$hash") format("woff2"),
          url("../fonts/$outfile.woff?$hash") format("woff"),
          url("../fonts/$outfile.ttf?$hash") format("truetype"),
-         url("../fonts/$outfile.svg?$hash#particles") format("svg");
+         url("../fonts/$outfile.svg?$hash#icons") format("svg");
     font-weight: normal;
     font-style: normal;
 }
 
-.particle {
+.icon {
     font-family: "$family_name";
     display: inline-block;
     line-height: 1;
@@ -67,12 +67,12 @@ def main(src):
 }
 
 /* Particles */
-$particles
+$icons
 """
 
     string_template = Template(template)
     print string_template.substitute(
-        particles="\n".join(particles),
+        icons="\n".join(icons),
         hash=binascii.hexlify(os.urandom(16)),
         family_name=props.pop('fullname'),
         outfile=config.pop('outfile')
