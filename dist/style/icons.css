@@ -1,11 +1,11 @@
 @font-face {
     font-family: "SafeFleet";
-    src: url("../fonts/safefleet.eot?01492e9795718404c285750438874f04");
-    src: url("../fonts/safefleet.eot?01492e9795718404c285750438874f04#iefix") format("embedded-opentype"),
-         url("../fonts/safefleet.woff2?01492e9795718404c285750438874f04") format("woff2"),
-         url("../fonts/safefleet.woff?01492e9795718404c285750438874f04") format("woff"),
-         url("../fonts/safefleet.ttf?01492e9795718404c285750438874f04") format("truetype"),
-         url("../fonts/safefleet.svg?01492e9795718404c285750438874f04#icons") format("svg");
+    src: url("../fonts/safefleet.eot?148b2e150f7a4910f42aa502c7bc6372");
+    src: url("../fonts/safefleet.eot?148b2e150f7a4910f42aa502c7bc6372#iefix") format("embedded-opentype"),
+         url("../fonts/safefleet.woff2?148b2e150f7a4910f42aa502c7bc6372") format("woff2"),
+         url("../fonts/safefleet.woff?148b2e150f7a4910f42aa502c7bc6372") format("woff"),
+         url("../fonts/safefleet.ttf?148b2e150f7a4910f42aa502c7bc6372") format("truetype"),
+         url("../fonts/safefleet.svg?148b2e150f7a4910f42aa502c7bc6372#icons") format("svg");
     font-weight: normal;
     font-style: normal;
 }
@@ -313,8 +313,11 @@
 .icon.outgoing:before { content: "outgoing"; }
 .icon.paragraph:before { content: "paragraph"; }
 .icon.parking-deny:before { content: "parking_deny"; }
+.icon.parking:before { content: "parking"; }
 .icon.patch-simple:before { content: "patch_simple"; }
 .icon.patch:before { content: "patch"; }
+.icon.pay-with-phone-alt:before { content: "pay_with_phone_alt"; }
+.icon.pay-with-phone:before { content: "pay_with_phone"; }
 .icon.paypal:before { content: "paypal"; }
 .icon.payu:before { content: "payu"; }
 .icon.pen:before { content: "pen"; }

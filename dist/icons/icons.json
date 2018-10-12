@@ -1,1731 +1,1737 @@
 [
     {
-        "codepoint": "0xe001", 
+        "codepoint": "0xe000", 
         "liga": "add", 
         "name": "add", 
         "src": "add.svg"
     }, 
     {
-        "codepoint": "0xe002", 
+        "codepoint": "0xe001", 
         "liga": "adjust", 
         "name": "adjust", 
         "src": "adjust.svg"
     }, 
     {
-        "codepoint": "0xe003", 
+        "codepoint": "0xe002", 
         "liga": "agenda", 
         "name": "agenda", 
         "src": "agenda.svg"
     }, 
     {
-        "codepoint": "0xe004", 
+        "codepoint": "0xe003", 
         "liga": "airport", 
         "name": "airport", 
         "src": "airport.svg"
     }, 
     {
-        "codepoint": "0xe005", 
+        "codepoint": "0xe004", 
         "liga": "alert", 
         "name": "alert", 
         "src": "alert.svg"
     }, 
     {
-        "codepoint": "0xe006", 
+        "codepoint": "0xe005", 
         "liga": "alpine", 
         "name": "alpine", 
         "src": "alpine.svg"
     }, 
     {
-        "codepoint": "0xe007", 
+        "codepoint": "0xe006", 
         "liga": "anchor", 
         "name": "anchor", 
         "src": "anchor.svg"
     }, 
     {
-        "codepoint": "0xe008", 
+        "codepoint": "0xe007", 
         "liga": "array", 
         "name": "array", 
         "src": "array.svg"
     }, 
     {
-        "codepoint": "0xe009", 
+        "codepoint": "0xe008", 
         "liga": "arrow_back", 
         "name": "arrow-back", 
         "src": "arrow-back.svg"
     }, 
     {
-        "codepoint": "0xe00a", 
+        "codepoint": "0xe009", 
         "liga": "arrow_e", 
         "name": "arrow-e", 
         "src": "arrow-e.svg"
     }, 
     {
-        "codepoint": "0xe00b", 
+        "codepoint": "0xe00a", 
         "liga": "arrow_n", 
         "name": "arrow-n", 
         "src": "arrow-n.svg"
     }, 
     {
-        "codepoint": "0xe00c", 
+        "codepoint": "0xe00b", 
         "liga": "arrow_ne", 
         "name": "arrow-ne", 
         "src": "arrow-ne.svg"
     }, 
     {
-        "codepoint": "0xe00d", 
+        "codepoint": "0xe00c", 
         "liga": "arrow_nw", 
         "name": "arrow-nw", 
         "src": "arrow-nw.svg"
     }, 
     {
-        "codepoint": "0xe00e", 
+        "codepoint": "0xe00d", 
         "liga": "arrow_quick_se", 
         "name": "arrow-quick-se", 
         "src": "arrow-quick-se.svg"
     }, 
     {
-        "codepoint": "0xe00f", 
+        "codepoint": "0xe00e", 
         "liga": "arrow_quick_sw", 
         "name": "arrow-quick-sw", 
         "src": "arrow-quick-sw.svg"
     }, 
     {
-        "codepoint": "0xe010", 
+        "codepoint": "0xe00f", 
         "liga": "arrow_s", 
         "name": "arrow-s", 
         "src": "arrow-s.svg"
     }, 
     {
-        "codepoint": "0xe011", 
+        "codepoint": "0xe010", 
         "liga": "arrow_se", 
         "name": "arrow-se", 
         "src": "arrow-se.svg"
     }, 
     {
-        "codepoint": "0xe012", 
+        "codepoint": "0xe011", 
         "liga": "arrow_sw", 
         "name": "arrow-sw", 
         "src": "arrow-sw.svg"
     }, 
     {
-        "codepoint": "0xe013", 
+        "codepoint": "0xe012", 
         "liga": "arrow_w", 
         "name": "arrow-w", 
         "src": "arrow-w.svg"
     }, 
     {
-        "codepoint": "0xe014", 
+        "codepoint": "0xe013", 
         "liga": "at", 
         "name": "at", 
         "src": "at.svg"
     }, 
     {
-        "codepoint": "0xe015", 
+        "codepoint": "0xe014", 
         "liga": "attachment", 
         "name": "attachment", 
         "src": "attachment.svg"
     }, 
     {
-        "codepoint": "0xe016", 
+        "codepoint": "0xe015", 
         "liga": "award", 
         "name": "award", 
         "src": "award.svg"
     }, 
     {
-        "codepoint": "0xe017", 
+        "codepoint": "0xe016", 
         "liga": "aws", 
         "name": "aws", 
         "src": "aws.svg"
     }, 
     {
-        "codepoint": "0xe018", 
+        "codepoint": "0xe017", 
         "liga": "balance", 
         "name": "balance", 
         "src": "balance.svg"
     }, 
     {
-        "codepoint": "0xe019", 
+        "codepoint": "0xe018", 
         "liga": "bank", 
         "name": "bank", 
         "src": "bank.svg"
     }, 
     {
-        "codepoint": "0xe01a", 
+        "codepoint": "0xe019", 
         "liga": "barrier_closed", 
         "name": "barrier-closed", 
         "src": "barrier-closed.svg"
     }, 
     {
-        "codepoint": "0xe01b", 
+        "codepoint": "0xe01a", 
         "liga": "barrier_open", 
         "name": "barrier-open", 
         "src": "barrier-open.svg"
     }, 
     {
-        "codepoint": "0xe01c", 
+        "codepoint": "0xe01b", 
         "liga": "battery_charging", 
         "name": "battery-charging", 
         "src": "battery-charging.svg"
     }, 
     {
-        "codepoint": "0xe01d", 
+        "codepoint": "0xe01c", 
         "liga": "battery_empty", 
         "name": "battery-empty", 
         "src": "battery-empty.svg"
     }, 
     {
-        "codepoint": "0xe01e", 
+        "codepoint": "0xe01d", 
         "liga": "battery_full_alt", 
         "name": "battery-full-alt", 
         "src": "battery-full-alt.svg"
     }, 
     {
-        "codepoint": "0xe01f", 
+        "codepoint": "0xe01e", 
         "liga": "battery_full", 
         "name": "battery-full", 
         "src": "battery-full.svg"
     }, 
     {
-        "codepoint": "0xe020", 
+        "codepoint": "0xe01f", 
         "liga": "battery", 
         "name": "battery", 
         "src": "battery.svg"
     }, 
     {
-        "codepoint": "0xe021", 
+        "codepoint": "0xe020", 
         "liga": "bill", 
         "name": "bill", 
         "src": "bill.svg"
     }, 
     {
-        "codepoint": "0xe022", 
+        "codepoint": "0xe021", 
         "liga": "bin_full", 
         "name": "bin-full", 
         "src": "bin-full.svg"
     }, 
     {
-        "codepoint": "0xe023", 
+        "codepoint": "0xe022", 
         "liga": "bin", 
         "name": "bin", 
         "src": "bin.svg"
     }, 
     {
-        "codepoint": "0xe024", 
+        "codepoint": "0xe023", 
         "liga": "bolt_alt", 
         "name": "bolt-alt", 
         "src": "bolt-alt.svg"
     }, 
     {
-        "codepoint": "0xe025", 
+        "codepoint": "0xe024", 
         "liga": "bolt", 
         "name": "bolt", 
         "src": "bolt.svg"
     }, 
     {
-        "codepoint": "0xe026", 
+        "codepoint": "0xe025", 
         "liga": "book_sign", 
         "name": "book-sign", 
         "src": "book-sign.svg"
     }, 
     {
-        "codepoint": "0xe027", 
+        "codepoint": "0xe026", 
         "liga": "book_text", 
         "name": "book-text", 
         "src": "book-text.svg"
     }, 
     {
-        "codepoint": "0xe028", 
+        "codepoint": "0xe027", 
         "liga": "book_unfold", 
         "name": "book-unfold", 
         "src": "book-unfold.svg"
     }, 
     {
-        "codepoint": "0xe029", 
+        "codepoint": "0xe028", 
         "liga": "book", 
         "name": "book", 
         "src": "book.svg"
     }, 
     {
-        "codepoint": "0xe02a", 
+        "codepoint": "0xe029", 
         "liga": "box", 
         "name": "box", 
         "src": "box.svg"
     }, 
     {
-        "codepoint": "0xe02b", 
+        "codepoint": "0xe02a", 
         "liga": "broadcast", 
         "name": "broadcast", 
         "src": "broadcast.svg"
     }, 
     {
-        "codepoint": "0xe02c", 
+        "codepoint": "0xe02b", 
         "liga": "bucket", 
         "name": "bucket", 
         "src": "bucket.svg"
     }, 
     {
-        "codepoint": "0xe02d", 
+        "codepoint": "0xe02c", 
         "liga": "bug", 
         "name": "bug", 
         "src": "bug.svg"
     }, 
     {
-        "codepoint": "0xe02e", 
+        "codepoint": "0xe02d", 
         "liga": "build", 
         "name": "build", 
         "src": "build.svg"
     }, 
     {
-        "codepoint": "0xe02f", 
+        "codepoint": "0xe02e", 
         "liga": "cache", 
         "name": "cache", 
         "src": "cache.svg"
     }, 
     {
-        "codepoint": "0xe030", 
+        "codepoint": "0xe02f", 
         "liga": "calculator", 
         "name": "calculator", 
         "src": "calculator.svg"
     }, 
     {
-        "codepoint": "0xe031", 
+        "codepoint": "0xe030", 
         "liga": "calendar_day", 
         "name": "calendar-day", 
         "src": "calendar-day.svg"
     }, 
     {
-        "codepoint": "0xe032", 
+        "codepoint": "0xe031", 
         "liga": "calendar_from", 
         "name": "calendar-from", 
         "src": "calendar-from.svg"
     }, 
     {
-        "codepoint": "0xe033", 
+        "codepoint": "0xe032", 
         "liga": "calendar_month", 
         "name": "calendar-month", 
         "src": "calendar-month.svg"
     }, 
     {
-        "codepoint": "0xe034", 
+        "codepoint": "0xe033", 
         "liga": "calendar_period", 
         "name": "calendar-period", 
         "src": "calendar-period.svg"
     }, 
     {
-        "codepoint": "0xe035", 
+        "codepoint": "0xe034", 
         "liga": "calendar_to", 
         "name": "calendar-to", 
         "src": "calendar-to.svg"
     }, 
     {
-        "codepoint": "0xe036", 
+        "codepoint": "0xe035", 
         "liga": "calendar_week", 
         "name": "calendar-week", 
         "src": "calendar-week.svg"
     }, 
     {
-        "codepoint": "0xe037", 
+        "codepoint": "0xe036", 
         "liga": "call", 
         "name": "call", 
         "src": "call.svg"
     }, 
     {
-        "codepoint": "0xe038", 
+        "codepoint": "0xe037", 
         "liga": "camera", 
         "name": "camera", 
         "src": "camera.svg"
     }, 
     {
-        "codepoint": "0xe039", 
+        "codepoint": "0xe038", 
         "liga": "car", 
         "name": "car", 
         "src": "car.svg"
     }, 
     {
-        "codepoint": "0xe03a", 
+        "codepoint": "0xe039", 
         "liga": "caret_e", 
         "name": "caret-e", 
         "src": "caret-e.svg"
     }, 
     {
-        "codepoint": "0xe03b", 
+        "codepoint": "0xe03a", 
         "liga": "caret_n", 
         "name": "caret-n", 
         "src": "caret-n.svg"
     }, 
     {
-        "codepoint": "0xe03c", 
+        "codepoint": "0xe03b", 
         "liga": "caret_ns", 
         "name": "caret-ns", 
         "src": "caret-ns.svg"
     }, 
     {
-        "codepoint": "0xe03d", 
+        "codepoint": "0xe03c", 
         "liga": "caret_s", 
         "name": "caret-s", 
         "src": "caret-s.svg"
     }, 
     {
-        "codepoint": "0xe03e", 
+        "codepoint": "0xe03d", 
         "liga": "caret_w", 
         "name": "caret-w", 
         "src": "caret-w.svg"
     }, 
     {
-        "codepoint": "0xe03f", 
+        "codepoint": "0xe03e", 
         "liga": "carrot", 
         "name": "carrot", 
         "src": "carrot.svg"
     }, 
     {
-        "codepoint": "0xe040", 
+        "codepoint": "0xe03f", 
         "liga": "cash_cycle_ccw", 
         "name": "cash-cycle-ccw", 
         "src": "cash-cycle-ccw.svg"
     }, 
     {
-        "codepoint": "0xe041", 
+        "codepoint": "0xe040", 
         "liga": "cash_cycle_cw", 
         "name": "cash-cycle-cw", 
         "src": "cash-cycle-cw.svg"
     }, 
     {
-        "codepoint": "0xe042", 
+        "codepoint": "0xe041", 
         "liga": "center_alt", 
         "name": "center-alt", 
         "src": "center-alt.svg"
     }, 
     {
-        "codepoint": "0xe043", 
+        "codepoint": "0xe042", 
         "liga": "center", 
         "name": "center", 
         "src": "center.svg"
     }, 
     {
-        "codepoint": "0xe044", 
+        "codepoint": "0xe043", 
         "liga": "certificate", 
         "name": "certificate", 
         "src": "certificate.svg"
     }, 
     {
-        "codepoint": "0xe045", 
+        "codepoint": "0xe044", 
         "liga": "charging_off", 
         "name": "charging-off", 
         "src": "charging-off.svg"
     }, 
     {
-        "codepoint": "0xe046", 
+        "codepoint": "0xe045", 
         "liga": "charging_on", 
         "name": "charging-on", 
         "src": "charging-on.svg"
     }, 
     {
-        "codepoint": "0xe047", 
+        "codepoint": "0xe046", 
         "liga": "chart_area", 
         "name": "chart-area", 
         "src": "chart-area.svg"
     }, 
     {
-        "codepoint": "0xe048", 
+        "codepoint": "0xe047", 
         "liga": "chart_bars", 
         "name": "chart-bars", 
         "src": "chart-bars.svg"
     }, 
     {
-        "codepoint": "0xe049", 
+        "codepoint": "0xe048", 
         "liga": "chart_line", 
         "name": "chart-line", 
         "src": "chart-line.svg"
     }, 
     {
-        "codepoint": "0xe04a", 
+        "codepoint": "0xe049", 
         "liga": "chart_nodes", 
         "name": "chart-nodes", 
         "src": "chart-nodes.svg"
     }, 
     {
-        "codepoint": "0xe04b", 
+        "codepoint": "0xe04a", 
         "liga": "chart_pie_alt", 
         "name": "chart-pie-alt", 
         "src": "chart-pie-alt.svg"
     }, 
     {
-        "codepoint": "0xe04c", 
+        "codepoint": "0xe04b", 
         "liga": "chart_pie", 
         "name": "chart-pie", 
         "src": "chart-pie.svg"
     }, 
     {
-        "codepoint": "0xe04d", 
+        "codepoint": "0xe04c", 
         "liga": "chart_stacked_area", 
         "name": "chart-stacked-area", 
         "src": "chart-stacked-area.svg"
     }, 
     {
-        "codepoint": "0xe04e", 
+        "codepoint": "0xe04d", 
         "liga": "chart_stacked_bars", 
         "name": "chart-stacked-bars", 
         "src": "chart-stacked-bars.svg"
     }, 
     {
-        "codepoint": "0xe04f", 
+        "codepoint": "0xe04e", 
         "liga": "chart_stripes", 
         "name": "chart-stripes", 
         "src": "chart-stripes.svg"
     }, 
     {
-        "codepoint": "0xe050", 
+        "codepoint": "0xe04f", 
         "liga": "chart_symetric_bars", 
         "name": "chart-symetric-bars", 
         "src": "chart-symetric-bars.svg"
     }, 
     {
-        "codepoint": "0xe051", 
+        "codepoint": "0xe050", 
         "liga": "chip", 
         "name": "chip", 
         "src": "chip.svg"
     }, 
     {
-        "codepoint": "0xe052", 
+        "codepoint": "0xe051", 
         "liga": "circle_add", 
         "name": "circle-add", 
         "src": "circle-add.svg"
     }, 
     {
-        "codepoint": "0xe053", 
+        "codepoint": "0xe052", 
         "liga": "circle_delete", 
         "name": "circle-delete", 
         "src": "circle-delete.svg"
     }, 
     {
-        "codepoint": "0xe054", 
+        "codepoint": "0xe053", 
         "liga": "circle_ok", 
         "name": "circle-ok", 
         "src": "circle-ok.svg"
     }, 
     {
-        "codepoint": "0xe055", 
+        "codepoint": "0xe054", 
         "liga": "circle_remove", 
         "name": "circle-remove", 
         "src": "circle-remove.svg"
     }, 
     {
-        "codepoint": "0xe056", 
+        "codepoint": "0xe055", 
         "liga": "circle", 
         "name": "circle", 
         "src": "circle.svg"
     }, 
     {
-        "codepoint": "0xe057", 
+        "codepoint": "0xe056", 
         "liga": "clipboard_copy", 
         "name": "clipboard-copy", 
         "src": "clipboard-copy.svg"
     }, 
     {
-        "codepoint": "0xe058", 
+        "codepoint": "0xe057", 
         "liga": "clipboard_paste", 
         "name": "clipboard-paste", 
         "src": "clipboard-paste.svg"
     }, 
     {
-        "codepoint": "0xe059", 
+        "codepoint": "0xe058", 
         "liga": "clipboard", 
         "name": "clipboard", 
         "src": "clipboard.svg"
     }, 
     {
-        "codepoint": "0xe05a", 
+        "codepoint": "0xe059", 
         "liga": "clock", 
         "name": "clock", 
         "src": "clock.svg"
     }, 
     {
-        "codepoint": "0xe05b", 
+        "codepoint": "0xe05a", 
         "liga": "clone_add", 
         "name": "clone-add", 
         "src": "clone-add.svg"
     }, 
     {
-        "codepoint": "0xe05c", 
+        "codepoint": "0xe05b", 
         "liga": "clone_remove", 
         "name": "clone-remove", 
         "src": "clone-remove.svg"
     }, 
     {
-        "codepoint": "0xe05d", 
+        "codepoint": "0xe05c", 
         "liga": "clone", 
         "name": "clone", 
         "src": "clone.svg"
     }, 
     {
-        "codepoint": "0xe05e", 
+        "codepoint": "0xe05d", 
         "liga": "cloud_download", 
         "name": "cloud-download", 
         "src": "cloud-download.svg"
     }, 
     {
-        "codepoint": "0xe05f", 
+        "codepoint": "0xe05e", 
         "liga": "cloud_ok", 
         "name": "cloud-ok", 
         "src": "cloud-ok.svg"
     }, 
     {
-        "codepoint": "0xe060", 
+        "codepoint": "0xe05f", 
         "liga": "cloud_upload", 
         "name": "cloud-upload", 
         "src": "cloud-upload.svg"
     }, 
     {
-        "codepoint": "0xe061", 
+        "codepoint": "0xe060", 
         "liga": "cloud", 
         "name": "cloud", 
         "src": "cloud.svg"
     }, 
     {
-        "codepoint": "0xe062", 
+        "codepoint": "0xe061", 
         "liga": "code_add", 
         "name": "code-add", 
         "src": "code-add.svg"
     }, 
     {
-        "codepoint": "0xe063", 
+        "codepoint": "0xe062", 
         "liga": "code_delete", 
         "name": "code-delete", 
         "src": "code-delete.svg"
     }, 
     {
-        "codepoint": "0xe064", 
+        "codepoint": "0xe063", 
         "liga": "code_download", 
         "name": "code-download", 
         "src": "code-download.svg"
     }, 
     {
-        "codepoint": "0xe065", 
+        "codepoint": "0xe064", 
         "liga": "code_ok", 
         "name": "code-ok", 
         "src": "code-ok.svg"
     }, 
     {
-        "codepoint": "0xe066", 
+        "codepoint": "0xe065", 
         "liga": "code_pending", 
         "name": "code-pending", 
         "src": "code-pending.svg"
     }, 
     {
-        "codepoint": "0xe067", 
+        "codepoint": "0xe066", 
         "liga": "code_remove", 
         "name": "code-remove", 
         "src": "code-remove.svg"
     }, 
     {
-        "codepoint": "0xe068", 
+        "codepoint": "0xe067", 
         "liga": "code_schedule", 
         "name": "code-schedule", 
         "src": "code-schedule.svg"
     }, 
     {
-        "codepoint": "0xe069", 
+        "codepoint": "0xe068", 
         "liga": "code_upload", 
         "name": "code-upload", 
         "src": "code-upload.svg"
     }, 
     {
-        "codepoint": "0xe06a", 
+        "codepoint": "0xe069", 
         "liga": "code", 
         "name": "code", 
         "src": "code.svg"
     }, 
     {
-        "codepoint": "0xe06b", 
+        "codepoint": "0xe06a", 
         "liga": "coffee_to_go", 
         "name": "coffee-to-go", 
         "src": "coffee-to-go.svg"
     }, 
     {
-        "codepoint": "0xe06c", 
+        "codepoint": "0xe06b", 
         "liga": "coffee", 
         "name": "coffee", 
         "src": "coffee.svg"
     }, 
     {
-        "codepoint": "0xe06d", 
+        "codepoint": "0xe06c", 
         "liga": "comment_empty", 
         "name": "comment-empty", 
         "src": "comment-empty.svg"
     }, 
     {
-        "codepoint": "0xe06e", 
+        "codepoint": "0xe06d", 
         "liga": "comment", 
         "name": "comment", 
         "src": "comment.svg"
     }, 
     {
-        "codepoint": "0xe06f", 
+        "codepoint": "0xe06e", 
         "liga": "compass_alt", 
         "name": "compass-alt", 
         "src": "compass-alt.svg"
     }, 
     {
-        "codepoint": "0xe070", 
+        "codepoint": "0xe06f", 
         "liga": "compass", 
         "name": "compass", 
         "src": "compass.svg"
     }, 
     {
-        "codepoint": "0xe071", 
+        "codepoint": "0xe070", 
         "liga": "creditcard", 
         "name": "creditcard", 
         "src": "creditcard.svg"
     }, 
     {
-        "codepoint": "0xe072", 
+        "codepoint": "0xe071", 
         "liga": "cube", 
         "name": "cube", 
         "src": "cube.svg"
     }, 
     {
-        "codepoint": "0xe073", 
+        "codepoint": "0xe072", 
         "liga": "cycle_ccw", 
         "name": "cycle-ccw", 
         "src": "cycle-ccw.svg"
     }, 
     {
-        "codepoint": "0xe074", 
+        "codepoint": "0xe073", 
         "liga": "cycle_cw", 
         "name": "cycle-cw", 
         "src": "cycle-cw.svg"
     }, 
     {
-        "codepoint": "0xe075", 
+        "codepoint": "0xe074", 
         "liga": "database_add", 
         "name": "database-add", 
         "src": "database-add.svg"
     }, 
     {
-        "codepoint": "0xe076", 
+        "codepoint": "0xe075", 
         "liga": "database_delete", 
         "name": "database-delete", 
         "src": "database-delete.svg"
     }, 
     {
-        "codepoint": "0xe077", 
+        "codepoint": "0xe076", 
         "liga": "database_download", 
         "name": "database-download", 
         "src": "database-download.svg"
     }, 
     {
-        "codepoint": "0xe078", 
+        "codepoint": "0xe077", 
         "liga": "database_ok", 
         "name": "database-ok", 
         "src": "database-ok.svg"
     }, 
     {
-        "codepoint": "0xe079", 
+        "codepoint": "0xe078", 
         "liga": "database_pending", 
         "name": "database-pending", 
         "src": "database-pending.svg"
     }, 
     {
-        "codepoint": "0xe07a", 
+        "codepoint": "0xe079", 
         "liga": "database_remove", 
         "name": "database-remove", 
         "src": "database-remove.svg"
     }, 
     {
-        "codepoint": "0xe07b", 
+        "codepoint": "0xe07a", 
         "liga": "database_scheduled", 
         "name": "database-scheduled", 
         "src": "database-scheduled.svg"
     }, 
     {
-        "codepoint": "0xe07c", 
+        "codepoint": "0xe07b", 
         "liga": "database_upload", 
         "name": "database-upload", 
         "src": "database-upload.svg"
     }, 
     {
-        "codepoint": "0xe07d", 
+        "codepoint": "0xe07c", 
         "liga": "database", 
         "name": "database", 
         "src": "database.svg"
     }, 
     {
-        "codepoint": "0xe07e", 
+        "codepoint": "0xe07d", 
         "liga": "delete", 
         "name": "delete", 
         "src": "delete.svg"
     }, 
     {
-        "codepoint": "0xe07f", 
+        "codepoint": "0xe07e", 
         "liga": "deny", 
         "name": "deny", 
         "src": "deny.svg"
     }, 
     {
-        "codepoint": "0xe080", 
+        "codepoint": "0xe07f", 
         "liga": "desktop", 
         "name": "desktop", 
         "src": "desktop.svg"
     }, 
     {
-        "codepoint": "0xe081", 
+        "codepoint": "0xe080", 
         "liga": "devide", 
         "name": "devide", 
         "src": "devide.svg"
     }, 
     {
-        "codepoint": "0xe082", 
+        "codepoint": "0xe081", 
         "liga": "diamond", 
         "name": "diamond", 
         "src": "diamond.svg"
     }, 
     {
-        "codepoint": "0xe083", 
+        "codepoint": "0xe082", 
         "liga": "direction_ccw_e", 
         "name": "direction-ccw-e", 
         "src": "direction-ccw-e.svg"
     }, 
     {
-        "codepoint": "0xe084", 
+        "codepoint": "0xe083", 
         "liga": "direction_ccw_n", 
         "name": "direction-ccw-n", 
         "src": "direction-ccw-n.svg"
     }, 
     {
-        "codepoint": "0xe085", 
+        "codepoint": "0xe084", 
         "liga": "direction_ccw_s", 
         "name": "direction-ccw-s", 
         "src": "direction-ccw-s.svg"
     }, 
     {
-        "codepoint": "0xe086", 
+        "codepoint": "0xe085", 
         "liga": "direction_ccw_w", 
         "name": "direction-ccw-w", 
         "src": "direction-ccw-w.svg"
     }, 
     {
-        "codepoint": "0xe087", 
+        "codepoint": "0xe086", 
         "liga": "direction_cw_e", 
         "name": "direction-cw-e", 
         "src": "direction-cw-e.svg"
     }, 
     {
-        "codepoint": "0xe088", 
+        "codepoint": "0xe087", 
         "liga": "direction_cw_n", 
         "name": "direction-cw-n", 
         "src": "direction-cw-n.svg"
     }, 
     {
-        "codepoint": "0xe089", 
+        "codepoint": "0xe088", 
         "liga": "direction_cw_s", 
         "name": "direction-cw-s", 
         "src": "direction-cw-s.svg"
     }, 
     {
-        "codepoint": "0xe08a", 
+        "codepoint": "0xe089", 
         "liga": "direction_cw_w", 
         "name": "direction-cw-w", 
         "src": "direction-cw-w.svg"
     }, 
     {
-        "codepoint": "0xe08b", 
+        "codepoint": "0xe08a", 
         "liga": "disk_download", 
         "name": "disk-download", 
         "src": "disk-download.svg"
     }, 
     {
-        "codepoint": "0xe08c", 
+        "codepoint": "0xe08b", 
         "liga": "disk_upload", 
         "name": "disk-upload", 
         "src": "disk-upload.svg"
     }, 
     {
-        "codepoint": "0xe08d", 
+        "codepoint": "0xe08c", 
         "liga": "disk", 
         "name": "disk", 
         "src": "disk.svg"
     }, 
     {
-        "codepoint": "0xe08e", 
+        "codepoint": "0xe08d", 
         "liga": "domain", 
         "name": "domain", 
         "src": "domain.svg"
     }, 
     {
-        "codepoint": "0xe08f", 
+        "codepoint": "0xe08e", 
         "liga": "draw", 
         "name": "draw", 
         "src": "draw.svg"
     }, 
     {
-        "codepoint": "0xe090", 
+        "codepoint": "0xe08f", 
         "liga": "edit", 
         "name": "edit", 
         "src": "edit.svg"
     }, 
     {
-        "codepoint": "0xe091", 
+        "codepoint": "0xe090", 
         "liga": "ellipsis", 
         "name": "ellipsis", 
         "src": "ellipsis.svg"
     }, 
     {
-        "codepoint": "0xe092", 
+        "codepoint": "0xe091", 
         "liga": "eu_flag_dark", 
         "name": "eu-flag-dark", 
         "src": "eu-flag-dark.svg"
     }, 
     {
-        "codepoint": "0xe093", 
+        "codepoint": "0xe092", 
         "liga": "eu_flag_light", 
         "name": "eu-flag-light", 
         "src": "eu-flag-light.svg"
     }, 
     {
-        "codepoint": "0xe094", 
+        "codepoint": "0xe093", 
         "liga": "eye_off", 
         "name": "eye-off", 
         "src": "eye-off.svg"
     }, 
     {
-        "codepoint": "0xe095", 
+        "codepoint": "0xe094", 
         "liga": "eye", 
         "name": "eye", 
         "src": "eye.svg"
     }, 
     {
-        "codepoint": "0xe096", 
+        "codepoint": "0xe095", 
         "liga": "eyeglass", 
         "name": "eyeglass", 
         "src": "eyeglass.svg"
     }, 
     {
-        "codepoint": "0xe097", 
+        "codepoint": "0xe096", 
         "liga": "facebook", 
         "name": "facebook", 
         "src": "facebook.svg"
     }, 
     {
-        "codepoint": "0xe098", 
+        "codepoint": "0xe097", 
         "liga": "file_add", 
         "name": "file-add", 
         "src": "file-add.svg"
     }, 
     {
-        "codepoint": "0xe099", 
+        "codepoint": "0xe098", 
         "liga": "file_archive", 
         "name": "file-archive", 
         "src": "file-archive.svg"
     }, 
     {
-        "codepoint": "0xe09a", 
+        "codepoint": "0xe099", 
         "liga": "file_code", 
         "name": "file-code", 
         "src": "file-code.svg"
     }, 
     {
-        "codepoint": "0xe09b", 
+        "codepoint": "0xe09a", 
         "liga": "file_database", 
         "name": "file-database", 
         "src": "file-database.svg"
     }, 
     {
-        "codepoint": "0xe09c", 
+        "codepoint": "0xe09b", 
         "liga": "file_delete", 
         "name": "file-delete", 
         "src": "file-delete.svg"
     }, 
     {
-        "codepoint": "0xe09d", 
+        "codepoint": "0xe09c", 
         "liga": "file_download", 
         "name": "file-download", 
         "src": "file-download.svg"
     }, 
     {
-        "codepoint": "0xe09e", 
+        "codepoint": "0xe09d", 
         "liga": "file_image", 
         "name": "file-image", 
         "src": "file-image.svg"
     }, 
     {
-        "codepoint": "0xe09f", 
+        "codepoint": "0xe09e", 
         "liga": "file_markup", 
         "name": "file-markup", 
         "src": "file-markup.svg"
     }, 
     {
-        "codepoint": "0xe0a0", 
+        "codepoint": "0xe09f", 
         "liga": "file_ok", 
         "name": "file-ok", 
         "src": "file-ok.svg"
     }, 
     {
-        "codepoint": "0xe0a1", 
+        "codepoint": "0xe0a0", 
         "liga": "file_patch", 
         "name": "file-patch", 
         "src": "file-patch.svg"
     }, 
     {
-        "codepoint": "0xe0a2", 
+        "codepoint": "0xe0a1", 
         "liga": "file_pdf", 
         "name": "file-pdf", 
         "src": "file-pdf.svg"
     }, 
     {
-        "codepoint": "0xe0a3", 
+        "codepoint": "0xe0a2", 
         "liga": "file_pending", 
         "name": "file-pending", 
         "src": "file-pending.svg"
     }, 
     {
-        "codepoint": "0xe0a4", 
+        "codepoint": "0xe0a3", 
         "liga": "file_remove", 
         "name": "file-remove", 
         "src": "file-remove.svg"
     }, 
     {
-        "codepoint": "0xe0a5", 
+        "codepoint": "0xe0a4", 
         "liga": "file_schedule", 
         "name": "file-schedule", 
         "src": "file-schedule.svg"
     }, 
     {
-        "codepoint": "0xe0a6", 
+        "codepoint": "0xe0a5", 
         "liga": "file_signed", 
         "name": "file-signed", 
         "src": "file-signed.svg"
     }, 
     {
-        "codepoint": "0xe0a7", 
+        "codepoint": "0xe0a6", 
         "liga": "file_style", 
         "name": "file-style", 
         "src": "file-style.svg"
     }, 
     {
-        "codepoint": "0xe0a8", 
+        "codepoint": "0xe0a7", 
         "liga": "file_text", 
         "name": "file-text", 
         "src": "file-text.svg"
     }, 
     {
-        "codepoint": "0xe0a9", 
+        "codepoint": "0xe0a8", 
         "liga": "file_upload", 
         "name": "file-upload", 
         "src": "file-upload.svg"
     }, 
     {
-        "codepoint": "0xe0aa", 
+        "codepoint": "0xe0a9", 
         "liga": "file", 
         "name": "file", 
         "src": "file.svg"
     }, 
     {
-        "codepoint": "0xe0ab", 
+        "codepoint": "0xe0aa", 
         "liga": "files_add", 
         "name": "files-add", 
         "src": "files-add.svg"
     }, 
     {
-        "codepoint": "0xe0ac", 
+        "codepoint": "0xe0ab", 
         "liga": "files_delete", 
         "name": "files-delete", 
         "src": "files-delete.svg"
     }, 
     {
-        "codepoint": "0xe0ad", 
+        "codepoint": "0xe0ac", 
         "liga": "files_download", 
         "name": "files-download", 
         "src": "files-download.svg"
     }, 
     {
-        "codepoint": "0xe0ae", 
+        "codepoint": "0xe0ad", 
         "liga": "files_ok", 
         "name": "files-ok", 
         "src": "files-ok.svg"
     }, 
     {
-        "codepoint": "0xe0af", 
+        "codepoint": "0xe0ae", 
         "liga": "files_pending", 
         "name": "files-pending", 
         "src": "files-pending.svg"
     }, 
     {
-        "codepoint": "0xe0b0", 
+        "codepoint": "0xe0af", 
         "liga": "files_remove", 
         "name": "files-remove", 
         "src": "files-remove.svg"
     }, 
     {
-        "codepoint": "0xe0b1", 
+        "codepoint": "0xe0b0", 
         "liga": "files_schedule", 
         "name": "files-schedule", 
         "src": "files-schedule.svg"
     }, 
     {
-        "codepoint": "0xe0b2", 
+        "codepoint": "0xe0b1", 
         "liga": "files_upload", 
         "name": "files-upload", 
         "src": "files-upload.svg"
     }, 
     {
-        "codepoint": "0xe0b3", 
+        "codepoint": "0xe0b2", 
         "liga": "files", 
         "name": "files", 
         "src": "files.svg"
     }, 
     {
-        "codepoint": "0xe0b4", 
+        "codepoint": "0xe0b3", 
         "liga": "filter", 
         "name": "filter", 
         "src": "filter.svg"
     }, 
     {
-        "codepoint": "0xe0b5", 
+        "codepoint": "0xe0b4", 
         "liga": "flag", 
         "name": "flag", 
         "src": "flag.svg"
     }, 
     {
-        "codepoint": "0xe0b6", 
+        "codepoint": "0xe0b5", 
         "liga": "floppy_disk", 
         "name": "floppy-disk", 
         "src": "floppy-disk.svg"
     }, 
     {
-        "codepoint": "0xe0b7", 
+        "codepoint": "0xe0b6", 
         "liga": "focus", 
         "name": "focus", 
         "src": "focus.svg"
     }, 
     {
-        "codepoint": "0xe0b8", 
+        "codepoint": "0xe0b7", 
         "liga": "folder_clone", 
         "name": "folder-clone", 
         "src": "folder-clone.svg"
     }, 
     {
-        "codepoint": "0xe0b9", 
+        "codepoint": "0xe0b8", 
         "liga": "folder_symlink_alt", 
         "name": "folder-symlink-alt", 
         "src": "folder-symlink-alt.svg"
     }, 
     {
-        "codepoint": "0xe0ba", 
+        "codepoint": "0xe0b9", 
         "liga": "folder_symlink", 
         "name": "folder-symlink", 
         "src": "folder-symlink.svg"
     }, 
     {
-        "codepoint": "0xe0bb", 
+        "codepoint": "0xe0ba", 
         "liga": "folder", 
         "name": "folder", 
         "src": "folder.svg"
     }, 
     {
-        "codepoint": "0xe0bc", 
+        "codepoint": "0xe0bb", 
         "liga": "gauge", 
         "name": "gauge", 
         "src": "gauge.svg"
     }, 
     {
-        "codepoint": "0xe0bd", 
+        "codepoint": "0xe0bc", 
         "liga": "git_branch", 
         "name": "git-branch", 
         "src": "git-branch.svg"
     }, 
     {
-        "codepoint": "0xe0be", 
+        "codepoint": "0xe0bd", 
         "liga": "git_clone", 
         "name": "git-clone", 
         "src": "git-clone.svg"
     }, 
     {
-        "codepoint": "0xe0bf", 
+        "codepoint": "0xe0be", 
         "liga": "git_compare_left", 
         "name": "git-compare-left", 
         "src": "git-compare-left.svg"
     }, 
     {
-        "codepoint": "0xe0c0", 
+        "codepoint": "0xe0bf", 
         "liga": "git_compare_right", 
         "name": "git-compare-right", 
         "src": "git-compare-right.svg"
     }, 
     {
-        "codepoint": "0xe0c1", 
+        "codepoint": "0xe0c0", 
         "liga": "git_compare", 
         "name": "git-compare", 
         "src": "git-compare.svg"
     }, 
     {
-        "codepoint": "0xe0c2", 
+        "codepoint": "0xe0c1", 
         "liga": "git_fork", 
         "name": "git-fork", 
         "src": "git-fork.svg"
     }, 
     {
-        "codepoint": "0xe0c3", 
+        "codepoint": "0xe0c2", 
         "liga": "git_merge_alt", 
         "name": "git-merge-alt", 
         "src": "git-merge-alt.svg"
     }, 
     {
-        "codepoint": "0xe0c4", 
+        "codepoint": "0xe0c3", 
         "liga": "git_merge", 
         "name": "git-merge", 
         "src": "git-merge.svg"
     }, 
     {
-        "codepoint": "0xe0c5", 
+        "codepoint": "0xe0c4", 
         "liga": "git_pull_request_new", 
         "name": "git-pull-request-new", 
         "src": "git-pull-request-new.svg"
     }, 
     {
-        "codepoint": "0xe0c6", 
+        "codepoint": "0xe0c5", 
         "liga": "git_pull_request", 
         "name": "git-pull-request", 
         "src": "git-pull-request.svg"
     }, 
     {
-        "codepoint": "0xe0c7", 
+        "codepoint": "0xe0c6", 
         "liga": "git_tree", 
         "name": "git-tree", 
         "src": "git-tree.svg"
     }, 
     {
-        "codepoint": "0xe0c8", 
+        "codepoint": "0xe0c7", 
         "liga": "git", 
         "name": "git", 
         "src": "git.svg"
     }, 
     {
-        "codepoint": "0xe0c9", 
+        "codepoint": "0xe0c8", 
         "liga": "github", 
         "name": "github", 
         "src": "github.svg"
     }, 
     {
-        "codepoint": "0xe0ca", 
+        "codepoint": "0xe0c9", 
         "liga": "give_eur", 
         "name": "give-eur", 
         "src": "give-eur.svg"
     }, 
     {
-        "codepoint": "0xe0cb", 
+        "codepoint": "0xe0ca", 
         "liga": "give_usd", 
         "name": "give-usd", 
         "src": "give-usd.svg"
     }, 
     {
-        "codepoint": "0xe0cc", 
+        "codepoint": "0xe0cb", 
         "liga": "give", 
         "name": "give", 
         "src": "give.svg"
     }, 
     {
-        "codepoint": "0xe0cd", 
+        "codepoint": "0xe0cc", 
         "liga": "globe", 
         "name": "globe", 
         "src": "globe.svg"
     }, 
     {
-        "codepoint": "0xe0ce", 
+        "codepoint": "0xe0cd", 
         "liga": "growth", 
         "name": "growth", 
         "src": "growth.svg"
     }, 
     {
-        "codepoint": "0xe0cf", 
+        "codepoint": "0xe0ce", 
         "liga": "hamburger_alt", 
         "name": "hamburger-alt", 
         "src": "hamburger-alt.svg"
     }, 
     {
-        "codepoint": "0xe0d0", 
+        "codepoint": "0xe0cf", 
         "liga": "hamburger", 
         "name": "hamburger", 
         "src": "hamburger.svg"
     }, 
     {
-        "codepoint": "0xe0d1", 
+        "codepoint": "0xe0d0", 
         "liga": "handle", 
         "name": "handle", 
         "src": "handle.svg"
     }, 
     {
-        "codepoint": "0xe0d2", 
+        "codepoint": "0xe0d1", 
         "liga": "hands", 
         "name": "hands", 
         "src": "hands.svg"
     }, 
     {
-        "codepoint": "0xe0d3", 
+        "codepoint": "0xe0d2", 
         "liga": "headphones", 
         "name": "headphones", 
         "src": "headphones.svg"
     }, 
     {
-        "codepoint": "0xe0d4", 
+        "codepoint": "0xe0d3", 
         "liga": "headset", 
         "name": "headset", 
         "src": "headset.svg"
     }, 
     {
-        "codepoint": "0xe0d5", 
+        "codepoint": "0xe0d4", 
         "liga": "home", 
         "name": "home", 
         "src": "home.svg"
     }, 
     {
-        "codepoint": "0xe0d6", 
+        "codepoint": "0xe0d5", 
         "liga": "hourglass", 
         "name": "hourglass", 
         "src": "hourglass.svg"
     }, 
     {
-        "codepoint": "0xe0d7", 
+        "codepoint": "0xe0d6", 
         "liga": "human", 
         "name": "human", 
         "src": "human.svg"
     }, 
     {
-        "codepoint": "0xe0d8", 
+        "codepoint": "0xe0d7", 
         "liga": "image", 
         "name": "image", 
         "src": "image.svg"
     }, 
     {
-        "codepoint": "0xe0d9", 
+        "codepoint": "0xe0d8", 
         "liga": "images", 
         "name": "images", 
         "src": "images.svg"
     }, 
     {
-        "codepoint": "0xe0da", 
+        "codepoint": "0xe0d9", 
         "liga": "inbox", 
         "name": "inbox", 
         "src": "inbox.svg"
     }, 
     {
-        "codepoint": "0xe0db", 
+        "codepoint": "0xe0da", 
         "liga": "incoming", 
         "name": "incoming", 
         "src": "incoming.svg"
     }, 
     {
-        "codepoint": "0xe0dc", 
+        "codepoint": "0xe0db", 
         "liga": "infinite", 
         "name": "infinite", 
         "src": "infinite.svg"
     }, 
     {
-        "codepoint": "0xe0dd", 
+        "codepoint": "0xe0dc", 
         "liga": "info", 
         "name": "info", 
         "src": "info.svg"
     }, 
     {
-        "codepoint": "0xe0de", 
+        "codepoint": "0xe0dd", 
         "liga": "instagram", 
         "name": "instagram", 
         "src": "instagram.svg"
     }, 
     {
-        "codepoint": "0xe0df", 
+        "codepoint": "0xe0de", 
         "liga": "issue_closed", 
         "name": "issue-closed", 
         "src": "issue-closed.svg"
     }, 
     {
-        "codepoint": "0xe0e0", 
+        "codepoint": "0xe0df", 
         "liga": "issue_cycle", 
         "name": "issue-cycle", 
         "src": "issue-cycle.svg"
     }, 
     {
-        "codepoint": "0xe0e1", 
+        "codepoint": "0xe0e0", 
         "liga": "issue_remove", 
         "name": "issue-remove", 
         "src": "issue-remove.svg"
     }, 
     {
-        "codepoint": "0xe0e2", 
+        "codepoint": "0xe0e1", 
         "liga": "issue_reopen", 
         "name": "issue-reopen", 
         "src": "issue-reopen.svg"
     }, 
     {
-        "codepoint": "0xe0e3", 
+        "codepoint": "0xe0e2", 
         "liga": "issue", 
         "name": "issue", 
         "src": "issue.svg"
     }, 
     {
-        "codepoint": "0xe0e4", 
+        "codepoint": "0xe0e3", 
         "liga": "javascript", 
         "name": "javascript", 
         "src": "javascript.svg"
     }, 
     {
-        "codepoint": "0xe0e5", 
+        "codepoint": "0xe0e4", 
         "liga": "key_alt", 
         "name": "key-alt", 
         "src": "key-alt.svg"
     }, 
     {
-        "codepoint": "0xe0e6", 
+        "codepoint": "0xe0e5", 
         "liga": "key_command", 
         "name": "key-command", 
         "src": "key-command.svg"
     }, 
     {
-        "codepoint": "0xe0e7", 
+        "codepoint": "0xe0e6", 
         "liga": "key_return", 
         "name": "key-return", 
         "src": "key-return.svg"
     }, 
     {
-        "codepoint": "0xe0e8", 
+        "codepoint": "0xe0e7", 
         "liga": "key_shift", 
         "name": "key-shift", 
         "src": "key-shift.svg"
     }, 
     {
-        "codepoint": "0xe0e9", 
+        "codepoint": "0xe0e8", 
         "liga": "key_windows", 
         "name": "key-windows", 
         "src": "key-windows.svg"
     }, 
     {
-        "codepoint": "0xe0ea", 
+        "codepoint": "0xe0e9", 
         "liga": "key", 
         "name": "key", 
         "src": "key.svg"
     }, 
     {
-        "codepoint": "0xe0eb", 
+        "codepoint": "0xe0ea", 
         "liga": "keyboard_alt", 
         "name": "keyboard-alt", 
         "src": "keyboard-alt.svg"
     }, 
     {
-        "codepoint": "0xe0ec", 
+        "codepoint": "0xe0eb", 
         "liga": "keyboard", 
         "name": "keyboard", 
         "src": "keyboard.svg"
     }, 
     {
-        "codepoint": "0xe0ed", 
+        "codepoint": "0xe0ec", 
         "liga": "landscape", 
         "name": "landscape", 
         "src": "landscape.svg"
     }, 
     {
-        "codepoint": "0xe0ee", 
+        "codepoint": "0xe0ed", 
         "liga": "laptop", 
         "name": "laptop", 
         "src": "laptop.svg"
     }, 
     {
-        "codepoint": "0xe0ef", 
+        "codepoint": "0xe0ee", 
         "liga": "launch", 
         "name": "launch", 
         "src": "launch.svg"
     }, 
     {
-        "codepoint": "0xe0f0", 
+        "codepoint": "0xe0ef", 
         "liga": "layout", 
         "name": "layout", 
         "src": "layout.svg"
     }, 
     {
-        "codepoint": "0xe0f1", 
+        "codepoint": "0xe0f0", 
         "liga": "lektrico", 
         "name": "lektrico", 
         "src": "lektrico.svg"
     }, 
     {
-        "codepoint": "0xe0f2", 
+        "codepoint": "0xe0f1", 
         "liga": "letsencrypt", 
         "name": "letsencrypt", 
         "src": "letsencrypt.svg"
     }, 
     {
-        "codepoint": "0xe0f3", 
+        "codepoint": "0xe0f2", 
         "liga": "life_ring", 
         "name": "life-ring", 
         "src": "life-ring.svg"
     }, 
     {
-        "codepoint": "0xe0f4", 
+        "codepoint": "0xe0f3", 
         "liga": "lightbulb_off", 
         "name": "lightbulb-off", 
         "src": "lightbulb-off.svg"
     }, 
     {
-        "codepoint": "0xe0f5", 
+        "codepoint": "0xe0f4", 
         "liga": "lightbulb_on", 
         "name": "lightbulb-on", 
         "src": "lightbulb-on.svg"
     }, 
     {
-        "codepoint": "0xe0f6", 
+        "codepoint": "0xe0f5", 
         "liga": "lightbulb", 
         "name": "lightbulb", 
         "src": "lightbulb.svg"
     }, 
     {
-        "codepoint": "0xe0f7", 
+        "codepoint": "0xe0f6", 
         "liga": "lighthouse", 
         "name": "lighthouse", 
         "src": "lighthouse.svg"
     }, 
     {
-        "codepoint": "0xe0f8", 
+        "codepoint": "0xe0f7", 
         "liga": "like", 
         "name": "like", 
         "src": "like.svg"
     }, 
     {
-        "codepoint": "0xe0f9", 
+        "codepoint": "0xe0f8", 
         "liga": "link_alt", 
         "name": "link-alt", 
         "src": "link-alt.svg"
     }, 
     {
-        "codepoint": "0xe0fa", 
+        "codepoint": "0xe0f9", 
         "liga": "link", 
         "name": "link", 
         "src": "link.svg"
     }, 
     {
-        "codepoint": "0xe0fb", 
+        "codepoint": "0xe0fa", 
         "liga": "linkedin", 
         "name": "linkedin", 
         "src": "linkedin.svg"
     }, 
     {
-        "codepoint": "0xe0fc", 
+        "codepoint": "0xe0fb", 
         "liga": "list_alt", 
         "name": "list-alt", 
         "src": "list-alt.svg"
     }, 
     {
-        "codepoint": "0xe0fd", 
+        "codepoint": "0xe0fc", 
         "liga": "list", 
         "name": "list", 
         "src": "list.svg"
     }, 
     {
-        "codepoint": "0xe0fe", 
+        "codepoint": "0xe0fd", 
         "liga": "location", 
         "name": "location", 
         "src": "location.svg"
     }, 
     {
-        "codepoint": "0xe0ff", 
+        "codepoint": "0xe0fe", 
         "liga": "lock", 
         "name": "lock", 
         "src": "lock.svg"
     }, 
     {
-        "codepoint": "0xe100", 
+        "codepoint": "0xe0ff", 
         "liga": "login", 
         "name": "login", 
         "src": "login.svg"
     }, 
     {
-        "codepoint": "0xe101", 
+        "codepoint": "0xe100", 
         "liga": "logout", 
         "name": "logout", 
         "src": "logout.svg"
     }, 
     {
-        "codepoint": "0xe102", 
+        "codepoint": "0xe101", 
         "liga": "loop_ccw", 
         "name": "loop-ccw", 
         "src": "loop-ccw.svg"
     }, 
     {
-        "codepoint": "0xe103", 
+        "codepoint": "0xe102", 
         "liga": "loop_cw", 
         "name": "loop-cw", 
         "src": "loop-cw.svg"
     }, 
     {
-        "codepoint": "0xe104", 
+        "codepoint": "0xe103", 
         "liga": "love", 
         "name": "love", 
         "src": "love.svg"
     }, 
     {
-        "codepoint": "0xe105", 
+        "codepoint": "0xe104", 
         "liga": "magnet", 
         "name": "magnet", 
         "src": "magnet.svg"
     }, 
     {
-        "codepoint": "0xe106", 
+        "codepoint": "0xe105", 
         "liga": "mail_read", 
         "name": "mail-read", 
         "src": "mail-read.svg"
     }, 
     {
-        "codepoint": "0xe107", 
+        "codepoint": "0xe106", 
         "liga": "mail", 
         "name": "mail", 
         "src": "mail.svg"
     }, 
     {
-        "codepoint": "0xe108", 
+        "codepoint": "0xe107", 
         "liga": "map", 
         "name": "map", 
         "src": "map.svg"
     }, 
     {
-        "codepoint": "0xe109", 
+        "codepoint": "0xe108", 
         "liga": "markup", 
         "name": "markup", 
         "src": "markup.svg"
     }, 
     {
-        "codepoint": "0xe10a", 
+        "codepoint": "0xe109", 
         "liga": "max_alt", 
         "name": "max-alt", 
         "src": "max-alt.svg"
     }, 
     {
-        "codepoint": "0xe10b", 
+        "codepoint": "0xe10a", 
         "liga": "max", 
         "name": "max", 
         "src": "max.svg"
     }, 
     {
-        "codepoint": "0xe10c", 
+        "codepoint": "0xe10b", 
         "liga": "memory_card", 
         "name": "memory-card", 
         "src": "memory-card.svg"
     }, 
     {
-        "codepoint": "0xe10d", 
+        "codepoint": "0xe10c", 
         "liga": "memory", 
         "name": "memory", 
         "src": "memory.svg"
     }, 
     {
-        "codepoint": "0xe10e", 
+        "codepoint": "0xe10d", 
         "liga": "mesh", 
         "name": "mesh", 
         "src": "mesh.svg"
     }, 
     {
-        "codepoint": "0xe10f", 
+        "codepoint": "0xe10e", 
         "liga": "microphone", 
         "name": "microphone", 
         "src": "microphone.svg"
     }, 
     {
-        "codepoint": "0xe110", 
+        "codepoint": "0xe10f", 
         "liga": "min_alt", 
         "name": "min-alt", 
         "src": "min-alt.svg"
     }, 
     {
-        "codepoint": "0xe111", 
+        "codepoint": "0xe110", 
         "liga": "min", 
         "name": "min", 
         "src": "min.svg"
     }, 
     {
-        "codepoint": "0xe112", 
+        "codepoint": "0xe111", 
         "liga": "more", 
         "name": "more", 
         "src": "more.svg"
     }, 
     {
-        "codepoint": "0xe113", 
+        "codepoint": "0xe112", 
         "liga": "mouse", 
         "name": "mouse", 
         "src": "mouse.svg"
     }, 
     {
-        "codepoint": "0xe114", 
+        "codepoint": "0xe113", 
         "liga": "network_alt", 
         "name": "network-alt", 
         "src": "network-alt.svg"
     }, 
     {
-        "codepoint": "0xe115", 
+        "codepoint": "0xe114", 
         "liga": "network", 
         "name": "network", 
         "src": "network.svg"
     }, 
     {
-        "codepoint": "0xe116", 
+        "codepoint": "0xe115", 
         "liga": "non_stop", 
         "name": "non-stop", 
         "src": "non-stop.svg"
     }, 
     {
-        "codepoint": "0xe117", 
+        "codepoint": "0xe116", 
         "liga": "north", 
         "name": "north", 
         "src": "north.svg"
     }, 
     {
-        "codepoint": "0xe118", 
+        "codepoint": "0xe117", 
         "liga": "notebook", 
         "name": "notebook", 
         "src": "notebook.svg"
     }, 
     {
-        "codepoint": "0xe119", 
+        "codepoint": "0xe118", 
         "liga": "obu_one_alt", 
         "name": "obu-one-alt", 
         "src": "obu-one-alt.svg"
     }, 
     {
-        "codepoint": "0xe11a", 
+        "codepoint": "0xe119", 
         "liga": "obu_one", 
         "name": "obu-one", 
         "src": "obu-one.svg"
     }, 
     {
-        "codepoint": "0xe11b", 
+        "codepoint": "0xe11a", 
         "liga": "office", 
         "name": "office", 
         "src": "office.svg"
     }, 
     {
-        "codepoint": "0xe11c", 
+        "codepoint": "0xe11b", 
         "liga": "ok", 
         "name": "ok", 
         "src": "ok.svg"
     }, 
     {
-        "codepoint": "0xe11d", 
+        "codepoint": "0xe11c", 
         "liga": "orientation", 
         "name": "orientation", 
         "src": "orientation.svg"
     }, 
     {
-        "codepoint": "0xe11e", 
+        "codepoint": "0xe11d", 
         "liga": "outgoing", 
         "name": "outgoing", 
         "src": "outgoing.svg"
     }, 
     {
-        "codepoint": "0xe11f", 
+        "codepoint": "0xe11e", 
         "liga": "paragraph", 
         "name": "paragraph", 
         "src": "paragraph.svg"
     }, 
     {
-        "codepoint": "0xe120", 
+        "codepoint": "0xe11f", 
         "liga": "parking_deny", 
         "name": "parking-deny", 
         "src": "parking-deny.svg"
+    }, 
+    {
+        "codepoint": "0xe120", 
+        "liga": "parking", 
+        "name": "parking", 
+        "src": "parking.svg"
     }, 
     {
         "codepoint": "0xe121", 
@@ -1741,864 +1747,876 @@
     }, 
     {
         "codepoint": "0xe123", 
+        "liga": "pay_with_phone_alt", 
+        "name": "pay-with-phone-alt", 
+        "src": "pay-with-phone-alt.svg"
+    }, 
+    {
+        "codepoint": "0xe124", 
+        "liga": "pay_with_phone", 
+        "name": "pay-with-phone", 
+        "src": "pay-with-phone.svg"
+    }, 
+    {
+        "codepoint": "0xe125", 
         "liga": "paypal", 
         "name": "paypal", 
         "src": "paypal.svg"
     }, 
     {
-        "codepoint": "0xe124", 
+        "codepoint": "0xe126", 
         "liga": "payu", 
         "name": "payu", 
         "src": "payu.svg"
     }, 
     {
-        "codepoint": "0xe125", 
+        "codepoint": "0xe127", 
         "liga": "pen", 
         "name": "pen", 
         "src": "pen.svg"
     }, 
     {
-        "codepoint": "0xe126", 
+        "codepoint": "0xe128", 
         "liga": "pencil", 
         "name": "pencil", 
         "src": "pencil.svg"
     }, 
     {
-        "codepoint": "0xe127", 
+        "codepoint": "0xe129", 
         "liga": "percent", 
         "name": "percent", 
         "src": "percent.svg"
     }, 
     {
-        "codepoint": "0xe128", 
+        "codepoint": "0xe12a", 
         "liga": "phone", 
         "name": "phone", 
         "src": "phone.svg"
     }, 
     {
-        "codepoint": "0xe129", 
+        "codepoint": "0xe12b", 
         "liga": "plug", 
         "name": "plug", 
         "src": "plug.svg"
     }, 
     {
-        "codepoint": "0xe12a", 
+        "codepoint": "0xe12c", 
         "liga": "point", 
         "name": "point", 
         "src": "point.svg"
     }, 
     {
-        "codepoint": "0xe12b", 
+        "codepoint": "0xe12d", 
         "liga": "portrait", 
         "name": "portrait", 
         "src": "portrait.svg"
     }, 
     {
-        "codepoint": "0xe12c", 
+        "codepoint": "0xe12e", 
         "liga": "postcard", 
         "name": "postcard", 
         "src": "postcard.svg"
     }, 
     {
-        "codepoint": "0xe12d", 
+        "codepoint": "0xe12f", 
         "liga": "power_plug", 
         "name": "power-plug", 
         "src": "power-plug.svg"
     }, 
     {
-        "codepoint": "0xe12e", 
+        "codepoint": "0xe130", 
         "liga": "power", 
         "name": "power", 
         "src": "power.svg"
     }, 
     {
-        "codepoint": "0xe12f", 
+        "codepoint": "0xe131", 
         "liga": "print", 
         "name": "print", 
         "src": "print.svg"
     }, 
     {
-        "codepoint": "0xe130", 
+        "codepoint": "0xe132", 
         "liga": "process_alt", 
         "name": "process-alt", 
         "src": "process-alt.svg"
     }, 
     {
-        "codepoint": "0xe131", 
+        "codepoint": "0xe133", 
         "liga": "process", 
         "name": "process", 
         "src": "process.svg"
     }, 
     {
-        "codepoint": "0xe132", 
+        "codepoint": "0xe134", 
         "liga": "pulse", 
         "name": "pulse", 
         "src": "pulse.svg"
     }, 
     {
-        "codepoint": "0xe133", 
+        "codepoint": "0xe135", 
         "liga": "puzzle_alt", 
         "name": "puzzle-alt", 
         "src": "puzzle-alt.svg"
     }, 
     {
-        "codepoint": "0xe134", 
+        "codepoint": "0xe136", 
         "liga": "puzzle", 
         "name": "puzzle", 
         "src": "puzzle.svg"
     }, 
     {
-        "codepoint": "0xe135", 
+        "codepoint": "0xe137", 
         "liga": "question", 
         "name": "question", 
         "src": "question.svg"
     }, 
     {
-        "codepoint": "0xe136", 
+        "codepoint": "0xe138", 
         "liga": "quotes_end", 
         "name": "quotes-end", 
         "src": "quotes-end.svg"
     }, 
     {
-        "codepoint": "0xe137", 
+        "codepoint": "0xe139", 
         "liga": "quotes_start", 
         "name": "quotes-start", 
         "src": "quotes-start.svg"
     }, 
     {
-        "codepoint": "0xe138", 
+        "codepoint": "0xe13a", 
         "liga": "rack", 
         "name": "rack", 
         "src": "rack.svg"
     }, 
     {
-        "codepoint": "0xe139", 
+        "codepoint": "0xe13b", 
         "liga": "react", 
         "name": "react", 
         "src": "react.svg"
     }, 
     {
-        "codepoint": "0xe13a", 
+        "codepoint": "0xe13c", 
         "liga": "recipt_alt", 
         "name": "recipt-alt", 
         "src": "recipt-alt.svg"
     }, 
     {
-        "codepoint": "0xe13b", 
+        "codepoint": "0xe13d", 
         "liga": "recipt", 
         "name": "recipt", 
         "src": "recipt.svg"
     }, 
     {
-        "codepoint": "0xe13c", 
+        "codepoint": "0xe13e", 
         "liga": "redis", 
         "name": "redis", 
         "src": "redis.svg"
     }, 
     {
-        "codepoint": "0xe13d", 
+        "codepoint": "0xe13f", 
         "liga": "redux", 
         "name": "redux", 
         "src": "redux.svg"
     }, 
     {
-        "codepoint": "0xe13e", 
+        "codepoint": "0xe140", 
         "liga": "remove", 
         "name": "remove", 
         "src": "remove.svg"
     }, 
     {
-        "codepoint": "0xe13f", 
+        "codepoint": "0xe141", 
         "liga": "repo_add", 
         "name": "repo-add", 
         "src": "repo-add.svg"
     }, 
     {
-        "codepoint": "0xe140", 
+        "codepoint": "0xe142", 
         "liga": "repo_migrate", 
         "name": "repo-migrate", 
         "src": "repo-migrate.svg"
     }, 
     {
-        "codepoint": "0xe141", 
+        "codepoint": "0xe143", 
         "liga": "repo", 
         "name": "repo", 
         "src": "repo.svg"
     }, 
     {
-        "codepoint": "0xe142", 
+        "codepoint": "0xe144", 
         "liga": "role_admin", 
         "name": "role-admin", 
         "src": "role-admin.svg"
     }, 
     {
-        "codepoint": "0xe143", 
+        "codepoint": "0xe145", 
         "liga": "role_superadmin", 
         "name": "role-superadmin", 
         "src": "role-superadmin.svg"
     }, 
     {
-        "codepoint": "0xe144", 
+        "codepoint": "0xe146", 
         "liga": "role_user", 
         "name": "role-user", 
         "src": "role-user.svg"
     }, 
     {
-        "codepoint": "0xe145", 
+        "codepoint": "0xe147", 
         "liga": "ruler", 
         "name": "ruler", 
         "src": "ruler.svg"
     }, 
     {
-        "codepoint": "0xe146", 
+        "codepoint": "0xe148", 
         "liga": "safe", 
         "name": "safe", 
         "src": "safe.svg"
     }, 
     {
-        "codepoint": "0xe147", 
+        "codepoint": "0xe149", 
         "liga": "safefleet", 
         "name": "safefleet", 
         "src": "safefleet.svg"
     }, 
     {
-        "codepoint": "0xe148", 
+        "codepoint": "0xe14a", 
         "liga": "savings", 
         "name": "savings", 
         "src": "savings.svg"
     }, 
     {
-        "codepoint": "0xe149", 
+        "codepoint": "0xe14b", 
         "liga": "seal_ok", 
         "name": "seal-ok", 
         "src": "seal-ok.svg"
     }, 
     {
-        "codepoint": "0xe14a", 
+        "codepoint": "0xe14c", 
         "liga": "seal_remove", 
         "name": "seal-remove", 
         "src": "seal-remove.svg"
     }, 
     {
-        "codepoint": "0xe14b", 
+        "codepoint": "0xe14d", 
         "liga": "search", 
         "name": "search", 
         "src": "search.svg"
     }, 
     {
-        "codepoint": "0xe14c", 
+        "codepoint": "0xe14e", 
         "liga": "sempahore", 
         "name": "sempahore", 
         "src": "sempahore.svg"
     }, 
     {
-        "codepoint": "0xe14d", 
+        "codepoint": "0xe14f", 
         "liga": "settings_add", 
         "name": "settings-add", 
         "src": "settings-add.svg"
     }, 
     {
-        "codepoint": "0xe14e", 
+        "codepoint": "0xe150", 
         "liga": "settings_delete", 
         "name": "settings-delete", 
         "src": "settings-delete.svg"
     }, 
     {
-        "codepoint": "0xe14f", 
+        "codepoint": "0xe151", 
         "liga": "settings_download", 
         "name": "settings-download", 
         "src": "settings-download.svg"
     }, 
     {
-        "codepoint": "0xe150", 
+        "codepoint": "0xe152", 
         "liga": "settings_ok", 
         "name": "settings-ok", 
         "src": "settings-ok.svg"
     }, 
     {
-        "codepoint": "0xe151", 
+        "codepoint": "0xe153", 
         "liga": "settings_pending", 
         "name": "settings-pending", 
         "src": "settings-pending.svg"
     }, 
     {
-        "codepoint": "0xe152", 
+        "codepoint": "0xe154", 
         "liga": "settings_remove", 
         "name": "settings-remove", 
         "src": "settings-remove.svg"
     }, 
     {
-        "codepoint": "0xe153", 
+        "codepoint": "0xe155", 
         "liga": "settings_schedule", 
         "name": "settings-schedule", 
         "src": "settings-schedule.svg"
     }, 
     {
-        "codepoint": "0xe154", 
+        "codepoint": "0xe156", 
         "liga": "settings_upload", 
         "name": "settings-upload", 
         "src": "settings-upload.svg"
     }, 
     {
-        "codepoint": "0xe155", 
+        "codepoint": "0xe157", 
         "liga": "settings", 
         "name": "settings", 
         "src": "settings.svg"
     }, 
     {
-        "codepoint": "0xe156", 
+        "codepoint": "0xe158", 
         "liga": "share_alt", 
         "name": "share-alt", 
         "src": "share-alt.svg"
     }, 
     {
-        "codepoint": "0xe157", 
+        "codepoint": "0xe159", 
         "liga": "share", 
         "name": "share", 
         "src": "share.svg"
     }, 
     {
-        "codepoint": "0xe158", 
+        "codepoint": "0xe15a", 
         "liga": "shield_add", 
         "name": "shield-add", 
         "src": "shield-add.svg"
     }, 
     {
-        "codepoint": "0xe159", 
+        "codepoint": "0xe15b", 
         "liga": "shield_delete", 
         "name": "shield-delete", 
         "src": "shield-delete.svg"
     }, 
     {
-        "codepoint": "0xe15a", 
+        "codepoint": "0xe15c", 
         "liga": "shield_ok", 
         "name": "shield-ok", 
         "src": "shield-ok.svg"
     }, 
     {
-        "codepoint": "0xe15b", 
+        "codepoint": "0xe15d", 
         "liga": "shield_remove", 
         "name": "shield-remove", 
         "src": "shield-remove.svg"
     }, 
     {
-        "codepoint": "0xe15c", 
+        "codepoint": "0xe15e", 
         "liga": "shield", 
         "name": "shield", 
         "src": "shield.svg"
     }, 
     {
-        "codepoint": "0xe15d", 
+        "codepoint": "0xe15f", 
         "liga": "shine", 
         "name": "shine", 
         "src": "shine.svg"
     }, 
     {
-        "codepoint": "0xe15e", 
+        "codepoint": "0xe160", 
         "liga": "shopping_cart", 
         "name": "shopping-cart", 
         "src": "shopping-cart.svg"
     }, 
     {
-        "codepoint": "0xe15f", 
+        "codepoint": "0xe161", 
         "liga": "sidebar", 
         "name": "sidebar", 
         "src": "sidebar.svg"
     }, 
     {
-        "codepoint": "0xe160", 
+        "codepoint": "0xe162", 
         "liga": "sign_alt", 
         "name": "sign-alt", 
         "src": "sign-alt.svg"
     }, 
     {
-        "codepoint": "0xe161", 
+        "codepoint": "0xe163", 
         "liga": "sign", 
         "name": "sign", 
         "src": "sign.svg"
     }, 
     {
-        "codepoint": "0xe162", 
+        "codepoint": "0xe164", 
         "liga": "signal", 
         "name": "signal", 
         "src": "signal.svg"
     }, 
     {
-        "codepoint": "0xe163", 
+        "codepoint": "0xe165", 
         "liga": "slack", 
         "name": "slack", 
         "src": "slack.svg"
     }, 
     {
-        "codepoint": "0xe164", 
+        "codepoint": "0xe166", 
         "liga": "smartwatch", 
         "name": "smartwatch", 
         "src": "smartwatch.svg"
     }, 
     {
-        "codepoint": "0xe165", 
+        "codepoint": "0xe167", 
         "liga": "snapshot", 
         "name": "snapshot", 
         "src": "snapshot.svg"
     }, 
     {
-        "codepoint": "0xe166", 
+        "codepoint": "0xe168", 
         "liga": "sort_asc_alt", 
         "name": "sort-asc-alt", 
         "src": "sort-asc-alt.svg"
     }, 
     {
-        "codepoint": "0xe167", 
+        "codepoint": "0xe169", 
         "liga": "sort_asc", 
         "name": "sort-asc", 
         "src": "sort-asc.svg"
     }, 
     {
-        "codepoint": "0xe168", 
+        "codepoint": "0xe16a", 
         "liga": "sort_desc_alt", 
         "name": "sort-desc-alt", 
         "src": "sort-desc-alt.svg"
     }, 
     {
-        "codepoint": "0xe169", 
+        "codepoint": "0xe16b", 
         "liga": "sort_desc", 
         "name": "sort-desc", 
         "src": "sort-desc.svg"
     }, 
     {
-        "codepoint": "0xe16a", 
+        "codepoint": "0xe16c", 
         "liga": "speaker", 
         "name": "speaker", 
         "src": "speaker.svg"
     }, 
     {
-        "codepoint": "0xe16b", 
+        "codepoint": "0xe16d", 
         "liga": "spread", 
         "name": "spread", 
         "src": "spread.svg"
     }, 
     {
-        "codepoint": "0xe16c", 
+        "codepoint": "0xe16e", 
         "liga": "square_add_alt", 
         "name": "square-add-alt", 
         "src": "square-add-alt.svg"
     }, 
     {
-        "codepoint": "0xe16d", 
+        "codepoint": "0xe16f", 
         "liga": "square_add", 
         "name": "square-add", 
         "src": "square-add.svg"
     }, 
     {
-        "codepoint": "0xe16e", 
+        "codepoint": "0xe170", 
         "liga": "square_alt", 
         "name": "square-alt", 
         "src": "square-alt.svg"
     }, 
     {
-        "codepoint": "0xe16f", 
+        "codepoint": "0xe171", 
         "liga": "square_delete_alt", 
         "name": "square-delete-alt", 
         "src": "square-delete-alt.svg"
     }, 
     {
-        "codepoint": "0xe170", 
+        "codepoint": "0xe172", 
         "liga": "square_delete", 
         "name": "square-delete", 
         "src": "square-delete.svg"
     }, 
     {
-        "codepoint": "0xe171", 
+        "codepoint": "0xe173", 
         "liga": "square_ok_alt", 
         "name": "square-ok-alt", 
         "src": "square-ok-alt.svg"
     }, 
     {
-        "codepoint": "0xe172", 
+        "codepoint": "0xe174", 
         "liga": "square_ok", 
         "name": "square-ok", 
         "src": "square-ok.svg"
     }, 
     {
-        "codepoint": "0xe173", 
+        "codepoint": "0xe175", 
         "liga": "square_remove_alt", 
         "name": "square-remove-alt", 
         "src": "square-remove-alt.svg"
     }, 
     {
-        "codepoint": "0xe174", 
+        "codepoint": "0xe176", 
         "liga": "square_remove", 
         "name": "square-remove", 
         "src": "square-remove.svg"
     }, 
     {
-        "codepoint": "0xe175", 
+        "codepoint": "0xe177", 
         "liga": "square", 
         "name": "square", 
         "src": "square.svg"
     }, 
     {
-        "codepoint": "0xe176", 
+        "codepoint": "0xe178", 
         "liga": "ssd", 
         "name": "ssd", 
         "src": "ssd.svg"
     }, 
     {
-        "codepoint": "0xe177", 
+        "codepoint": "0xe179", 
         "liga": "star_half", 
         "name": "star-half", 
         "src": "star-half.svg"
     }, 
     {
-        "codepoint": "0xe178", 
+        "codepoint": "0xe17a", 
         "liga": "star_off", 
         "name": "star-off", 
         "src": "star-off.svg"
     }, 
     {
-        "codepoint": "0xe179", 
+        "codepoint": "0xe17b", 
         "liga": "star", 
         "name": "star", 
         "src": "star.svg"
     }, 
     {
-        "codepoint": "0xe17a", 
+        "codepoint": "0xe17c", 
         "liga": "stopwatch", 
         "name": "stopwatch", 
         "src": "stopwatch.svg"
     }, 
     {
-        "codepoint": "0xe17b", 
+        "codepoint": "0xe17d", 
         "liga": "storage", 
         "name": "storage", 
         "src": "storage.svg"
     }, 
     {
-        "codepoint": "0xe17c", 
+        "codepoint": "0xe17e", 
         "liga": "suitcase", 
         "name": "suitcase", 
         "src": "suitcase.svg"
     }, 
     {
-        "codepoint": "0xe17d", 
+        "codepoint": "0xe17f", 
         "liga": "sync_ltr", 
         "name": "sync-ltr", 
         "src": "sync-ltr.svg"
     }, 
     {
-        "codepoint": "0xe17e", 
+        "codepoint": "0xe180", 
         "liga": "sync_rtl", 
         "name": "sync-rtl", 
         "src": "sync-rtl.svg"
     }, 
     {
-        "codepoint": "0xe17f", 
+        "codepoint": "0xe181", 
         "liga": "tag", 
         "name": "tag", 
         "src": "tag.svg"
     }, 
     {
-        "codepoint": "0xe180", 
+        "codepoint": "0xe182", 
         "liga": "temperature_critical", 
         "name": "temperature-critical", 
         "src": "temperature-critical.svg"
     }, 
     {
-        "codepoint": "0xe181", 
+        "codepoint": "0xe183", 
         "liga": "temperature_high", 
         "name": "temperature-high", 
         "src": "temperature-high.svg"
     }, 
     {
-        "codepoint": "0xe182", 
+        "codepoint": "0xe184", 
         "liga": "temperature_low", 
         "name": "temperature-low", 
         "src": "temperature-low.svg"
     }, 
     {
-        "codepoint": "0xe183", 
+        "codepoint": "0xe185", 
         "liga": "terminal", 
         "name": "terminal", 
         "src": "terminal.svg"
     }, 
     {
-        "codepoint": "0xe184", 
+        "codepoint": "0xe186", 
         "liga": "thumbs", 
         "name": "thumbs", 
         "src": "thumbs.svg"
     }, 
     {
-        "codepoint": "0xe185", 
+        "codepoint": "0xe187", 
         "liga": "topup", 
         "name": "topup", 
         "src": "topup.svg"
     }, 
     {
-        "codepoint": "0xe186", 
+        "codepoint": "0xe188", 
         "liga": "tpark_alt", 
         "name": "tpark-alt", 
         "src": "tpark-alt.svg"
     }, 
     {
-        "codepoint": "0xe187", 
+        "codepoint": "0xe189", 
         "liga": "tpark", 
         "name": "tpark", 
         "src": "tpark.svg"
     }, 
     {
-        "codepoint": "0xe188", 
+        "codepoint": "0xe18a", 
         "liga": "traffic_alt", 
         "name": "traffic-alt", 
         "src": "traffic-alt.svg"
     }, 
     {
-        "codepoint": "0xe189", 
+        "codepoint": "0xe18b", 
         "liga": "traffic", 
         "name": "traffic", 
         "src": "traffic.svg"
     }, 
     {
-        "codepoint": "0xe18a", 
+        "codepoint": "0xe18c", 
         "liga": "tree", 
         "name": "tree", 
         "src": "tree.svg"
     }, 
     {
-        "codepoint": "0xe18b", 
+        "codepoint": "0xe18d", 
         "liga": "triangle", 
         "name": "triangle", 
         "src": "triangle.svg"
     }, 
     {
-        "codepoint": "0xe18c", 
+        "codepoint": "0xe18e", 
         "liga": "truck", 
         "name": "truck", 
         "src": "truck.svg"
     }, 
     {
-        "codepoint": "0xe18d", 
+        "codepoint": "0xe18f", 
         "liga": "tshirt", 
         "name": "tshirt", 
         "src": "tshirt.svg"
     }, 
     {
-        "codepoint": "0xe18e", 
+        "codepoint": "0xe190", 
         "liga": "twitter", 
         "name": "twitter", 
         "src": "twitter.svg"
     }, 
     {
-        "codepoint": "0xe18f", 
+        "codepoint": "0xe191", 
         "liga": "two_park_alt", 
         "name": "two-park-alt", 
         "src": "two-park-alt.svg"
     }, 
     {
-        "codepoint": "0xe190", 
+        "codepoint": "0xe192", 
         "liga": "two_park", 
         "name": "two-park", 
         "src": "two-park.svg"
     }, 
     {
-        "codepoint": "0xe191", 
+        "codepoint": "0xe193", 
         "liga": "umbrella", 
         "name": "umbrella", 
         "src": "umbrella.svg"
     }, 
     {
-        "codepoint": "0xe192", 
+        "codepoint": "0xe194", 
         "liga": "unite", 
         "name": "unite", 
         "src": "unite.svg"
     }, 
     {
-        "codepoint": "0xe193", 
+        "codepoint": "0xe195", 
         "liga": "unlock", 
         "name": "unlock", 
         "src": "unlock.svg"
     }, 
     {
-        "codepoint": "0xe194", 
+        "codepoint": "0xe196", 
         "liga": "user_add", 
         "name": "user-add", 
         "src": "user-add.svg"
     }, 
     {
-        "codepoint": "0xe195", 
+        "codepoint": "0xe197", 
         "liga": "user_delete", 
         "name": "user-delete", 
         "src": "user-delete.svg"
     }, 
     {
-        "codepoint": "0xe196", 
+        "codepoint": "0xe198", 
         "liga": "user_download", 
         "name": "user-download", 
         "src": "user-download.svg"
     }, 
     {
-        "codepoint": "0xe197", 
+        "codepoint": "0xe199", 
         "liga": "user_ok", 
         "name": "user-ok", 
         "src": "user-ok.svg"
     }, 
     {
-        "codepoint": "0xe198", 
+        "codepoint": "0xe19a", 
         "liga": "user_pending", 
         "name": "user-pending", 
         "src": "user-pending.svg"
     }, 
     {
-        "codepoint": "0xe199", 
+        "codepoint": "0xe19b", 
         "liga": "user_remove", 
         "name": "user-remove", 
         "src": "user-remove.svg"
     }, 
     {
-        "codepoint": "0xe19a", 
+        "codepoint": "0xe19c", 
         "liga": "user_schedule", 
         "name": "user-schedule", 
         "src": "user-schedule.svg"
     }, 
     {
-        "codepoint": "0xe19b", 
+        "codepoint": "0xe19d", 
         "liga": "user_upload", 
         "name": "user-upload", 
         "src": "user-upload.svg"
     }, 
     {
-        "codepoint": "0xe19c", 
+        "codepoint": "0xe19e", 
         "liga": "user", 
         "name": "user", 
         "src": "user.svg"
     }, 
     {
-        "codepoint": "0xe19d", 
+        "codepoint": "0xe19f", 
         "liga": "users_add", 
         "name": "users-add", 
         "src": "users-add.svg"
     }, 
     {
-        "codepoint": "0xe19e", 
+        "codepoint": "0xe1a0", 
         "liga": "users_delete", 
         "name": "users-delete", 
         "src": "users-delete.svg"
     }, 
     {
-        "codepoint": "0xe19f", 
+        "codepoint": "0xe1a1", 
         "liga": "users_download", 
         "name": "users-download", 
         "src": "users-download.svg"
     }, 
     {
-        "codepoint": "0xe1a0", 
+        "codepoint": "0xe1a2", 
         "liga": "users_ok", 
         "name": "users-ok", 
         "src": "users-ok.svg"
     }, 
     {
-        "codepoint": "0xe1a1", 
+        "codepoint": "0xe1a3", 
         "liga": "users_pending", 
         "name": "users-pending", 
         "src": "users-pending.svg"
     }, 
     {
-        "codepoint": "0xe1a2", 
+        "codepoint": "0xe1a4", 
         "liga": "users_remove", 
         "name": "users-remove", 
         "src": "users-remove.svg"
     }, 
     {
-        "codepoint": "0xe1a3", 
+        "codepoint": "0xe1a5", 
         "liga": "users_schedule", 
         "name": "users-schedule", 
         "src": "users-schedule.svg"
     }, 
     {
-        "codepoint": "0xe1a4", 
+        "codepoint": "0xe1a6", 
         "liga": "users_upload", 
         "name": "users-upload", 
         "src": "users-upload.svg"
     }, 
     {
-        "codepoint": "0xe1a5", 
+        "codepoint": "0xe1a7", 
         "liga": "users", 
         "name": "users", 
         "src": "users.svg"
     }, 
     {
-        "codepoint": "0xe1a6", 
+        "codepoint": "0xe1a8", 
         "liga": "vector", 
         "name": "vector", 
         "src": "vector.svg"
     }, 
     {
-        "codepoint": "0xe1a7", 
+        "codepoint": "0xe1a9", 
         "liga": "volume_down", 
         "name": "volume-down", 
         "src": "volume-down.svg"
     }, 
     {
-        "codepoint": "0xe1a8", 
+        "codepoint": "0xe1aa", 
         "liga": "volume_mute", 
         "name": "volume-mute", 
         "src": "volume-mute.svg"
     }, 
     {
-        "codepoint": "0xe1a9", 
+        "codepoint": "0xe1ab", 
         "liga": "volume_up", 
         "name": "volume-up", 
         "src": "volume-up.svg"
     }, 
     {
-        "codepoint": "0xe1aa", 
+        "codepoint": "0xe1ac", 
         "liga": "volume", 
         "name": "volume", 
         "src": "volume.svg"
     }, 
     {
-        "codepoint": "0xe1ab", 
+        "codepoint": "0xe1ad", 
         "liga": "wallet", 
         "name": "wallet", 
         "src": "wallet.svg"
     }, 
     {
-        "codepoint": "0xe1ac", 
+        "codepoint": "0xe1ae", 
         "liga": "warning", 
         "name": "warning", 
         "src": "warning.svg"
     }, 
     {
-        "codepoint": "0xe1ad", 
+        "codepoint": "0xe1af", 
         "liga": "wire_transfer", 
         "name": "wire-transfer", 
         "src": "wire-transfer.svg"
     }, 
     {
-        "codepoint": "0xe1ae", 
+        "codepoint": "0xe1b0", 
         "liga": "wordpress", 
         "name": "wordpress", 
         "src": "wordpress.svg"
     }, 
     {
-        "codepoint": "0xe1af", 
+        "codepoint": "0xe1b1", 
         "liga": "wrench", 
         "name": "wrench", 
         "src": "wrench.svg"
     }, 
     {
-        "codepoint": "0xe1b0", 
+        "codepoint": "0xe1b2", 
         "liga": "write", 
         "name": "write", 
         "src": "write.svg"
     }, 
     {
-        "codepoint": "0xe1b1", 
+        "codepoint": "0xe1b3", 
         "liga": "zoom_in", 
         "name": "zoom-in", 
         "src": "zoom-in.svg"
     }, 
     {
-        "codepoint": "0xe1b2", 
+        "codepoint": "0xe1b4", 
         "liga": "zoom_out", 
         "name": "zoom-out", 
         "src": "zoom-out.svg"

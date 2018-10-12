@@ -1,15 +1,15 @@
 {
-  "name": "presslabs-particles-icons",
+  "name": "safeleet-icons",
   "version": "3.2.0",
   "description": "Presslabs particles icons collection as SVG and web fonts",
-  "main": "dist/style/particles.scss",
+  "main": "dist/style/safeleet.scss",
   "scripts": {
     "prepublish": "del-cli dist && ./bin/start",
     "dev": "webpack-dev-server --open --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
     "lint": "eslint ."
   },
-  "author": "Presslabs",
+  "author": "desero",
   "license": "MIT",
   "config": {},
   "files": [

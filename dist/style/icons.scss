@@ -1,12 +1,12 @@
 $icons-font-path : "../fonts/" !default;
 @font-face {
     font-family: "SafeFleet";
-    src: url($icons-font-path + "safefleet.eot?0c7b617b3afb9aee5b06522437a746e1");
-    src: url($icons-font-path + "safefleet.eot?0c7b617b3afb9aee5b06522437a746e1#iefix") format("embedded-opentype"),
-         url($icons-font-path + "safefleet.woff2?0c7b617b3afb9aee5b06522437a746e1") format("woff2"),
-         url($icons-font-path + "safefleet.woff?0c7b617b3afb9aee5b06522437a746e1") format("woff"),
-         url($icons-font-path + "safefleet.ttf?0c7b617b3afb9aee5b06522437a746e1") format("truetype"),
-         url($icons-font-path + "safefleet.svg?0c7b617b3afb9aee5b06522437a746e1#icons") format("svg");
+    src: url($icons-font-path + "safefleet.eot?b1749844cb8deb5fd33148914a100bfd");
+    src: url($icons-font-path + "safefleet.eot?b1749844cb8deb5fd33148914a100bfd#iefix") format("embedded-opentype"),
+         url($icons-font-path + "safefleet.woff2?b1749844cb8deb5fd33148914a100bfd") format("woff2"),
+         url($icons-font-path + "safefleet.woff?b1749844cb8deb5fd33148914a100bfd") format("woff"),
+         url($icons-font-path + "safefleet.ttf?b1749844cb8deb5fd33148914a100bfd") format("truetype"),
+         url($icons-font-path + "safefleet.svg?b1749844cb8deb5fd33148914a100bfd#icons") format("svg");
     font-weight: normal;
     font-style: normal;
 }
@@ -352,8 +352,11 @@ orientation: "orientation",
 outgoing: "outgoing",
 paragraph: "paragraph",
 parking-deny: "parking_deny",
+parking: "parking",
 patch-simple: "patch_simple",
 patch: "patch",
+pay-with-phone-alt: "pay_with_phone_alt",
+pay-with-phone: "pay_with_phone",
 paypal: "paypal",
 payu: "payu",
 pen: "pen",

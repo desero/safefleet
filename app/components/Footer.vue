@@ -2,39 +2,11 @@
   <footer class="footer">
     <div class="cols">
       <div class="col">
-        <a href="https://www.presslabs.com/" class="logo"><icon size="48">presslabs</icon></a>
+        <a href="https://www.safefleet.eu/" class="logo"><icon size="48">safeleet</icon></a>
       </div>
       <div class="col">
-        <p class="copyright">&copy; 2017-{{ new Date().getFullYear() }} Presslabs.</p>
-        <p class="trademark">Presslabs&reg; is a registered trademark in the USA by Presslabs SRL, based in the European Union under number RO28378350.</p>
+        <p class="copyright">&copy; 2017-{{ new Date().getFullYear() }} SafeFleet.</p>
         <p class="presslabs"><icon>eu_flag_dark</icon>Engineered in Europe, deployed worldwide.</p>
-      </div>
-      <div class="col">
-        <h6>PRESSLABS</h6>
-        <ul class="footer-nav">
-          <li><a href="https://www.presslabs.com/">WordPress Hosting</a></li>
-          <li><a href="https://www.presslabs.com/about">About Presslabs</a></li>
-        </ul>
-      </div>
-      <div class="col">
-        <h6>OPEN SOURCE</h6>
-        <ul class="footer-nav">
-          <li><a href="https://www.presslabs.org/gitfs">gitfs</a></li>
-          <li><a href="https://www.presslabs.org/gitium">gitium</a></li>
-          <li><a href="https://www.presslabs.org/silver">silver</a></li>
-          <li><a href="https://www.presslabs.org/toplytics">toplytics</a></li>
-        </ul>
-      </div>
-      <div class="col">
-        <h6>REACH US</h6>
-        <ul class="footer-nav socials">
-          <li><a href="https://www.facebook.com/presslabs/"><icon>facebook</icon></a></li>
-          <li><a href="https://twitter.com/presslabs/"><icon>twitter</icon></a></li>
-          <li><a href="https://github.com/presslabs"><icon>github</icon></a></li>
-          <li><a href="https://www.linkedin.com/company-beta/2188682/"><icon>linkedin</icon></a></li>
-          <li><a href="http://profiles.wordpress.org/presslabs/"><icon>wordpress</icon></a></li>
-          <li><a href="https://www.xing.com/companies/presslabs/"><icon>xing</icon></a></li>
-        </ul>
       </div>
     </div>
   </footer>

@@ -3,7 +3,7 @@
     <div class="topbar">
       <div class="bar-section branding">
         <a href="/icons/">
-          <icon :class="[ 'logo' ]">airport</icon> <span>Icons</span>
+          <icon :class="[ 'logo' ]">safefleet</icon> <span>SafeFleet</span>
         </a>
       </div>
       <div class="bar-section input-wrapper search">
@@ -212,6 +212,7 @@ $icons-font-path: "../dist/fonts/" !default;
     text-align: left;
   }
   &.search {
+    @extend %icon;
     @include icon('search');
     @include absolute(20px, 20px);
     @include icon-size(20px);
