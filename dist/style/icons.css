@@ -1,11 +1,11 @@
 @font-face {
     font-family: "SafeFleet";
-    src: url("../fonts/safefleet.eot?148b2e150f7a4910f42aa502c7bc6372");
-    src: url("../fonts/safefleet.eot?148b2e150f7a4910f42aa502c7bc6372#iefix") format("embedded-opentype"),
-         url("../fonts/safefleet.woff2?148b2e150f7a4910f42aa502c7bc6372") format("woff2"),
-         url("../fonts/safefleet.woff?148b2e150f7a4910f42aa502c7bc6372") format("woff"),
-         url("../fonts/safefleet.ttf?148b2e150f7a4910f42aa502c7bc6372") format("truetype"),
-         url("../fonts/safefleet.svg?148b2e150f7a4910f42aa502c7bc6372#icons") format("svg");
+    src: url("../fonts/safefleet.eot?737c4b051dcfd53f73bfb8712b4f01f6");
+    src: url("../fonts/safefleet.eot?737c4b051dcfd53f73bfb8712b4f01f6#iefix") format("embedded-opentype"),
+         url("../fonts/safefleet.woff2?737c4b051dcfd53f73bfb8712b4f01f6") format("woff2"),
+         url("../fonts/safefleet.woff?737c4b051dcfd53f73bfb8712b4f01f6") format("woff"),
+         url("../fonts/safefleet.ttf?737c4b051dcfd53f73bfb8712b4f01f6") format("truetype"),
+         url("../fonts/safefleet.svg?737c4b051dcfd53f73bfb8712b4f01f6#icons") format("svg");
     font-weight: normal;
     font-style: normal;
 }
@@ -81,6 +81,13 @@
 .icon.calendar-week:before { content: "calendar_week"; }
 .icon.call:before { content: "call"; }
 .icon.camera:before { content: "camera"; }
+.icon.car-alt:before { content: "car_alt"; }
+.icon.car-electric-charging:before { content: "car_electric_charging"; }
+.icon.car-electric-connected:before { content: "car_electric_connected"; }
+.icon.car-electric-error:before { content: "car_electric_error"; }
+.icon.car-electric-warning:before { content: "car_electric_warning"; }
+.icon.car-electric:before { content: "car_electric"; }
+.icon.car-fleet:before { content: "car_fleet"; }
 .icon.car:before { content: "car"; }
 .icon.caret-e:before { content: "caret_e"; }
 .icon.caret-n:before { content: "caret_n"; }
@@ -97,6 +104,7 @@
 .icon.charging-on:before { content: "charging_on"; }
 .icon.chart-area:before { content: "chart_area"; }
 .icon.chart-bars:before { content: "chart_bars"; }
+.icon.chart-growth:before { content: "chart_growth"; }
 .icon.chart-line:before { content: "chart_line"; }
 .icon.chart-nodes:before { content: "chart_nodes"; }
 .icon.chart-pie-alt:before { content: "chart_pie_alt"; }

@@ -1,12 +1,12 @@
 $icons-font-path : "../fonts/" !default;
 @font-face {
     font-family: "SafeFleet";
-    src: url($icons-font-path + "safefleet.eot?b1749844cb8deb5fd33148914a100bfd");
-    src: url($icons-font-path + "safefleet.eot?b1749844cb8deb5fd33148914a100bfd#iefix") format("embedded-opentype"),
-         url($icons-font-path + "safefleet.woff2?b1749844cb8deb5fd33148914a100bfd") format("woff2"),
-         url($icons-font-path + "safefleet.woff?b1749844cb8deb5fd33148914a100bfd") format("woff"),
-         url($icons-font-path + "safefleet.ttf?b1749844cb8deb5fd33148914a100bfd") format("truetype"),
-         url($icons-font-path + "safefleet.svg?b1749844cb8deb5fd33148914a100bfd#icons") format("svg");
+    src: url($icons-font-path + "safefleet.eot?a85f7f5765ec57a0f65ca816f45a172e");
+    src: url($icons-font-path + "safefleet.eot?a85f7f5765ec57a0f65ca816f45a172e#iefix") format("embedded-opentype"),
+         url($icons-font-path + "safefleet.woff2?a85f7f5765ec57a0f65ca816f45a172e") format("woff2"),
+         url($icons-font-path + "safefleet.woff?a85f7f5765ec57a0f65ca816f45a172e") format("woff"),
+         url($icons-font-path + "safefleet.ttf?a85f7f5765ec57a0f65ca816f45a172e") format("truetype"),
+         url($icons-font-path + "safefleet.svg?a85f7f5765ec57a0f65ca816f45a172e#icons") format("svg");
     font-weight: normal;
     font-style: normal;
 }
@@ -120,6 +120,13 @@ calendar-to: "calendar_to",
 calendar-week: "calendar_week",
 call: "call",
 camera: "camera",
+car-alt: "car_alt",
+car-electric-charging: "car_electric_charging",
+car-electric-connected: "car_electric_connected",
+car-electric-error: "car_electric_error",
+car-electric-warning: "car_electric_warning",
+car-electric: "car_electric",
+car-fleet: "car_fleet",
 car: "car",
 caret-e: "caret_e",
 caret-n: "caret_n",
@@ -136,6 +143,7 @@ charging-off: "charging_off",
 charging-on: "charging_on",
 chart-area: "chart_area",
 chart-bars: "chart_bars",
+chart-growth: "chart_growth",
 chart-line: "chart_line",
 chart-nodes: "chart_nodes",
 chart-pie-alt: "chart_pie_alt",

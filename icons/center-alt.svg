@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <title>center-alt</title>
-  <circle cx="256" cy="256" r="80" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M256,272a16,16,0,0,1,0-32" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M256,240a16,16,0,0,1,0,32" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <line x1="256" y1="240" x2="256" y2="272" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <line x1="240" y1="256" x2="272" y2="256" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M256,280a24,24,0,0,1,0-48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M256,232a24,24,0,0,1,0,48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M256,288a32,32,0,0,1,0-64" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M256,224a32,32,0,0,1,0,64" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M256,296a40,40,0,0,1,0-80" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M256,216a40,40,0,0,1,0,80" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M256,304a48,48,0,0,1,0-96" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M256,208a48,48,0,0,1,0,96" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M256,312a56,56,0,0,1,0-112" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M256,200a56,56,0,0,1,0,112" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M256,320a64,64,0,0,1,0-128" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M256,192a64,64,0,0,1,0,128" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M256,328a72,72,0,0,1,0-144" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M256,184a72,72,0,0,1,0,144" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <circle cx="256" cy="256" r="80" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M256,272a16,16,0,0,1,0-32" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M256,240a16,16,0,0,1,0,32" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <line x1="256" y1="240" x2="256" y2="272" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <line x1="240" y1="256" x2="272" y2="256" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M256,280a24,24,0,0,1,0-48" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M256,232a24,24,0,0,1,0,48" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M256,288a32,32,0,0,1,0-64" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M256,224a32,32,0,0,1,0,64" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M256,296a40,40,0,0,1,0-80" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M256,216a40,40,0,0,1,0,80" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M256,304a48,48,0,0,1,0-96" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M256,208a48,48,0,0,1,0,96" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M256,312a56,56,0,0,1,0-112" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M256,200a56,56,0,0,1,0,112" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M256,320a64,64,0,0,1,0-128" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M256,192a64,64,0,0,1,0,128" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M256,328a72,72,0,0,1,0-144" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M256,184a72,72,0,0,1,0,144" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
   <g>
-    <path d="M200,47.35A216.35,216.35,0,0,0,47.35,200" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-    <path d="M464.65,200A216.35,216.35,0,0,0,312,47.35" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-    <path d="M47.35,312A216.35,216.35,0,0,0,200,464.65" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-    <path d="M312,464.65A216.35,216.35,0,0,0,464.65,312" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path d="M200,47.35A216.35,216.35,0,0,0,47.35,200" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+    <path d="M464.65,200A216.35,216.35,0,0,0,312,47.35" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+    <path d="M47.35,312A216.35,216.35,0,0,0,200,464.65" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+    <path d="M312,464.65A216.35,216.35,0,0,0,464.65,312" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
   </g>
 </svg>

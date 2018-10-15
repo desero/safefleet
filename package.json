@@ -4,7 +4,7 @@
   "description": "Presslabs particles icons collection as SVG and web fonts",
   "main": "dist/style/safeleet.scss",
   "scripts": {
-    "prepublish": "del-cli dist && ./bin/start",
+    "prepublish": "make generate",
     "dev": "webpack-dev-server --open --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
     "lint": "eslint ."

@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <title>parking</title>
-  <path d="M104,448a40,40,0,0,1-40-40V104a40,40,0,0,1,40-40H408a40,40,0,0,1,40,40V408a40,40,0,0,1-40,40" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <line x1="408" y1="448" x2="104" y2="448" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <path d="M104,448a40,40,0,0,1-40-40V104a40,40,0,0,1,40-40H408a40,40,0,0,1,40,40V408a40,40,0,0,1-40,40" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <line x1="408" y1="448" x2="104" y2="448" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
   <g>
-    <path d="M256,128a80,80,0,0,1,0,160" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-    <polyline points="256 288 184 288 184 128 256 128" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-    <line x1="184" y1="280" x2="184" y2="384" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path d="M256,128a80,80,0,0,1,0,160" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+    <polyline points="256 288 184 288 184 128 256 128" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+    <line x1="184" y1="280" x2="184" y2="384" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
   </g>
 </svg>

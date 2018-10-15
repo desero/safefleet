@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <title>car-fleet</title>
-  <circle cx="433.52" cy="348.44" r="41.97" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M404.6,264.41c-6.69-.07-73.55-2.28-176.06,19.61" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M142.7,350.42s-11.26,0-10-31.47,105.5-113.13,240-113.13c81.38,0,111.67,33.71,111.67,78.69a175.24,175.24,0,0,1-9.48,57" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M94.7,300s-11.26,0-10-31.46,105.5-113.13,240-113.13c31,0,54.57,4.89,71.89,13.43" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M38.7,260s-11.26,0-10-31.46,105.5-113.13,240-113.13a235.19,235.19,0,0,1,31.89,2" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M226.56,354.65c71.22-3.15,124.58-5.45,165-3.54" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M339.18,267.26c1.13-7.88,2.29-14.51,3.19-19.26" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <circle cx="184.6" cy="348.44" r="41.97" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M105.66,332a42,42,0,0,1,18.94-65.53" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <path d="M52.6,291.31a42,42,0,0,1,16-68.88" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <circle cx="433.52" cy="348.44" r="41.97" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M404.6,264.41c-6.69-.07-73.55-2.28-176.06,19.61" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M142.7,350.42s-11.26,0-10-31.47,105.5-113.13,240-113.13c81.38,0,111.67,33.71,111.67,78.69a175.24,175.24,0,0,1-9.48,57" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M94.7,300s-11.26,0-10-31.46,105.5-113.13,240-113.13c31,0,54.57,4.89,71.89,13.43" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M38.7,260s-11.26,0-10-31.46,105.5-113.13,240-113.13a235.19,235.19,0,0,1,31.89,2" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M226.56,354.65c71.22-3.15,124.58-5.45,165-3.54" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M339.18,267.26c1.13-7.88,2.29-14.51,3.19-19.26" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <circle cx="184.6" cy="348.44" r="41.97" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M105.66,332a42,42,0,0,1,18.94-65.53" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M52.6,291.31a42,42,0,0,1,16-68.88" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
 </svg>

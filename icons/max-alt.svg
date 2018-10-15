@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <title>max-alt</title>
-  <line x1="224" y1="288" x2="88.24" y2="423.76" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <polyline points="201.37 423.76 88.23 423.76 88.23 310.63" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <line x1="288.24" y1="223.76" x2="424" y2="88" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
-  <polyline points="424 201.14 424 88 310.86 88" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <line x1="224" y1="288" x2="88.24" y2="423.76" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <polyline points="201.37 423.76 88.23 423.76 88.23 310.63" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <line x1="288.24" y1="223.76" x2="424" y2="88" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <polyline points="424 201.14 424 88 310.86 88" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
 </svg>
