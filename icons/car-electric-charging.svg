@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>car-electric-charging</title>
+  <g>
+    <circle cx="419.14" cy="368.89" r="55.11" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path d="M192,269.5q-27.75,4.44-58.53,10.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path d="M339.29,181.62c95.59,0,61.37,70.88,61.37,70.88-3.58,0-17.59-.44-40.66.25" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path d="M37.25,371.49s-14.78,0-13.12-41.32c1.3-32.45,86-105.56,207.87-135.44" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path d="M304,371.58c22.13-.24,42.06,0,60,.83" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path d="M147.38,377.05Q175,375.84,200,374.77" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path d="M423.1,126.89a230.51,230.51,0,0,1,50.37,232.93" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <circle cx="92.27" cy="368.89" r="55.11" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <g>
+      <path d="M346.66,65.42h43.08a38.86,38.86,0,0,1,38.86,38.86v4.22a38.86,38.86,0,0,1-38.86,38.86H346.66a0,0,0,0,1,0,0V65.42A0,0,0,0,1,346.66,65.42Z" transform="translate(105.49 -179.92) rotate(30.07)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+      <polyline points="335.26 48 364.35 64.84 339.87 107.11 310.79 90.27" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    </g>
+  </g>
+  <polyline points="296 176 240 264 312 256 248 376" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+</svg>

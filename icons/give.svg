@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <title>give</title>
-  <polygon points="202.93 452.38 149.94 480.71 80 368.54 133 340.2 202.93 452.38" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <path d="M193.64,432.14H324.77c26.23,0,96.16-89.05,104.9-105.24s-8.74-32.38-26.22-16.19c-8.74,8.09-52.45,64.76-96.16,64.76H254.84" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <path d="M359.74,351.18s0-16.19-26.23-16.19H281.06c-17.48,0-35-8.09-61.19-8.09s-66.54,31.29-66.54,31.29" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <path d="M88.55,296a184.43,184.43,0,0,1-17.62-78.93C70.93,114.86,153.79,32,256,32s185.07,82.86,185.07,185.07a187.33,187.33,0,0,1-1.87,26.44" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <polygon points="202.93 452.38 149.94 480.71 80 368.54 133 340.2 202.93 452.38" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <path d="M193.64,432.14H324.77c26.23,0,96.16-89.05,104.9-105.24s-8.74-32.38-26.22-16.19c-8.74,8.09-52.45,64.76-96.16,64.76H254.84" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <path d="M359.74,351.18s0-16.19-26.23-16.19H281.06c-17.48,0-35-8.09-61.19-8.09s-66.54,31.29-66.54,31.29" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <path d="M88.55,296a184.43,184.43,0,0,1-17.62-78.93C70.93,114.86,153.79,32,256,32s185.07,82.86,185.07,185.07a187.33,187.33,0,0,1-1.87,26.44" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
 </svg>

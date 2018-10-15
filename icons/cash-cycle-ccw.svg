@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <title>cash-cycle-ccw</title>
-  <polyline points="48 128 48 208 128 208" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <path d="M88,312A192.45,192.45,0,0,0,272,448c106,0,192-86,192-192S378,64,272,64a191.36,191.36,0,0,0-135.76,56.24L136,120,49,207" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <path d="M200,304c0,26.51,32.24,48,72,48s72-21.49,72-48-24-36-72-48-72-21.49-72-48,32.24-48,72-48,72,21.49,72,48" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <line x1="272" y1="376" x2="272" y2="136" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <polyline points="48 128 48 208 128 208" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <path d="M88,312A192.45,192.45,0,0,0,272,448c106,0,192-86,192-192S378,64,272,64a191.36,191.36,0,0,0-135.76,56.24L136,120,49,207" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <path d="M200,304c0,26.51,32.24,48,72,48s72-21.49,72-48-24-36-72-48-72-21.49-72-48,32.24-48,72-48,72,21.49,72,48" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <line x1="272" y1="376" x2="272" y2="136" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
 </svg>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <title>tree</title>
-  <line x1="260.05" y1="208.3" x2="260.05" y2="114.96" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <path d="M100.05,190.89c0-87.75,71.64-158.89,160-158.89s160,71.14,160,158.89" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <path d="M420.05,190.89c0,87.75-71.63,158.89-160,158.89s-160-71.14-160-158.89" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <polyline points="159.35 154.22 259.31 253.48 317.49 195.7" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <line x1="260.05" y1="208.3" x2="260.05" y2="480" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <line x1="188.05" y1="480" x2="332.05" y2="480" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <line x1="260.05" y1="208.3" x2="260.05" y2="114.96" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <path d="M100.05,190.89c0-87.75,71.64-158.89,160-158.89s160,71.14,160,158.89" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <path d="M420.05,190.89c0,87.75-71.63,158.89-160,158.89s-160-71.14-160-158.89" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <polyline points="159.35 154.22 259.31 253.48 317.49 195.7" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <line x1="260.05" y1="208.3" x2="260.05" y2="480" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <line x1="188.05" y1="480" x2="332.05" y2="480" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
 </svg>

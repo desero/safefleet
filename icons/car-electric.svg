@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>car-electric</title>
+  <g>
+    <circle cx="421.22" cy="395.95" r="55.11" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path d="M39.33,398.55s-14.78,0-13.13-41.32S164.74,208.68,341.36,208.68c95.6,0,61.38,70.88,61.38,70.88-10.7-.11-114.52-3.53-274.74,29" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path d="M149.46,404.11C243,400,313.05,397,366.11,399.46" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path d="M294.53,284.28c2.25-15.71,4.59-28.41,6.14-36.28" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path d="M425.18,154a230.58,230.58,0,0,1,50.37,232.93" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <circle cx="94.35" cy="395.95" r="55.11" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <g>
+      <path d="M348.73,92.48h43.08a38.86,38.86,0,0,1,38.86,38.86v4.22a38.86,38.86,0,0,1-38.86,38.86H348.73a0,0,0,0,1,0,0V92.48A0,0,0,0,1,348.73,92.48Z" transform="translate(119.33 -177.31) rotate(30.07)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+      <polyline points="337.34 75.06 366.42 91.9 341.94 134.17 312.86 117.33" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    </g>
+  </g>
+</svg>

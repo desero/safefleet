@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>car-electric-error</title>
+  <line x1="240" y1="200" x2="320" y2="280" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <line x1="320" y1="200" x2="240" y2="280" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <g>
+    <circle cx="420.18" cy="322.08" r="55.11" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path d="M38.29,324.68s-14.78,0-13.12-41.32S163.7,134.81,340.33,134.81C447.19,134.81,487,179.07,487,238.13A229.87,229.87,0,0,1,474.51,313" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path d="M148.42,330.24c93.52-4.14,163.59-7.16,216.65-4.64" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <circle cx="93.31" cy="322.08" r="55.11" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  </g>
+</svg>

@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <title>pay-with-phone-alt</title>
   <g>
-    <path d="M196,472a30.37,30.37,0,0,1-30.37-30.37V174.37A30.37,30.37,0,0,1,196,144H329.63A30.37,30.37,0,0,1,360,174.37V441.63A30.37,30.37,0,0,1,329.63,472" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-    <polyline points="299.26 144 299.26 162.22 226.37 162.22 226.37 144" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-    <line x1="329.63" y1="472" x2="196" y2="472" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-    <path d="M216,356c0,19.88,21.49,36,48,36s48-16.12,48-36-16-27-48-36-48-16.12-48-36,21.49-36,48-36,48,16.12,48,36" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-    <line x1="264" y1="248" x2="264" y2="224" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-    <line x1="264" y1="416" x2="264" y2="392" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+    <path d="M196,472a30.37,30.37,0,0,1-30.37-30.37V174.37A30.37,30.37,0,0,1,196,144H329.63A30.37,30.37,0,0,1,360,174.37V441.63A30.37,30.37,0,0,1,329.63,472" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <polyline points="299.26 144 299.26 162.22 226.37 162.22 226.37 144" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <line x1="329.63" y1="472" x2="196" y2="472" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <path d="M216,356c0,19.88,21.49,36,48,36s48-16.12,48-36-16-27-48-36-48-16.12-48-36,21.49-36,48-36,48,16.12,48,36" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <line x1="264" y1="248" x2="264" y2="224" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+    <line x1="264" y1="416" x2="264" y2="392" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
   </g>
-  <path d="M112,168a80,80,0,0,1,80-80" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <path d="M56,168A136,136,0,0,1,192,32" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M112,168a80,80,0,0,1,80-80" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <path d="M56,168A136,136,0,0,1,192,32" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
 </svg>

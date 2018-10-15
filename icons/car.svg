@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <title>car</title>
-  <path d="M454.59,224H432L406.58,93.82a45.64,45.64,0,0,0-45-37.82H142.39a45.64,45.64,0,0,0-45,37.82L72,224H57.41A25.41,25.41,0,0,0,32,249.41V374.59A25.41,25.41,0,0,0,57.41,400H72v72h80V400H360v72h80V400h14.59A25.41,25.41,0,0,0,480,374.59V249.41A25.41,25.41,0,0,0,454.59,224Z" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <rect x="192" y="272" width="128" height="64" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <circle cx="112" cy="304" r="16" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <circle cx="400" cy="304" r="16" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <circle cx="112" cy="304" r="8" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
-  <circle cx="400" cy="304" r="8" fill="none" stroke="#000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="32"/>
+  <path d="M454.59,224H432L406.58,93.82a45.64,45.64,0,0,0-45-37.82H142.39a45.64,45.64,0,0,0-45,37.82L72,224H57.41A25.41,25.41,0,0,0,32,249.41V374.59A25.41,25.41,0,0,0,57.41,400H72v72h80V400H360v72h80V400h14.59A25.41,25.41,0,0,0,480,374.59V249.41A25.41,25.41,0,0,0,454.59,224Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <rect x="192" y="272" width="128" height="64" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <circle cx="112" cy="304" r="16" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <circle cx="400" cy="304" r="16" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <circle cx="112" cy="304" r="8" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
+  <circle cx="400" cy="304" r="8" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/>
 </svg>
