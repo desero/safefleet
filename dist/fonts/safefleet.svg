@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2018-10-15: Created with FontForge (http://fontforge.org)
+2018-10-29: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20180321 at Mon Oct 15 18:35:46 2018
+Created by FontForge 20180321 at Mon Oct 29 14:18:26 2018
  By Mihai Grescenko
 Copyright (c) 2018, Mihai Grescenko
 </metadata>
@@ -22,7 +22,7 @@ Copyright (c) 2018, Mihai Grescenko
     bbox="0 15.3899 512 509.531"
     underline-thickness="50"
     underline-position="-150"
-    unicode-range="U+0020-E1BC"
+    unicode-range="U+0020-E1BD"
   />
     <missing-glyph />
     <glyph glyph-name="uniE000" unicode="add" 
@@ -1707,10 +1707,13 @@ c0 -13 -11 -24 -24 -24c-7 0 -12 2 -17 7v0c-5 5 -7 10 -7 17z" />
 d="M48 40c0 9 7 16 16 16h384c9 0 16 -7 16 -16s-7 -16 -16 -16h-384c-9 0 -16 7 -16 16zM48 85c-1 3 0 5 1 8l83 251c1 3 3 6 6 8s7 3 10 3c28 0 62 6 86 11h-1c-5 5 -6 14 -1 21l73 94l1 1v1c3 3 6 4 10 4s8 -1 11 -3l1 -1h1l130 -130l1 -1h1c2 -3 3 -7 3 -11
 s-2 -7 -5 -10v-1l-1 -1l-95 -73c-6 -4 -15 -5 -21 1v0c-5 -24 -11 -58 -11 -86c0 -3 -1 -6 -3 -9s-5 -5 -8 -6l-251 -83h-1c-2 -1 -4 -1 -6 -1h-2s-3 1 -4 2l-3 3c-2 2 -4 5 -5 8zM101 147l79 80c-3 6 -4 14 -4 21c0 27 21 48 48 48s48 -21 48 -48s-21 -48 -48 -48
 c-7 0 -15 1 -21 4l-80 -79l176 58c2 39 12 83 16 101l-54 55c-18 -4 -63 -14 -102 -16zM208 248c0 -4 1 -9 4 -12v0c3 -3 8 -4 12 -4c9 0 16 7 16 16s-7 16 -16 16s-16 -7 -16 -16zM266 379l89 -89l69 53l-105 104z" />
-    <glyph glyph-name="uniE1BB" unicode="zoom_in" 
+    <glyph glyph-name="uniE1BB" unicode="youtube" 
+d="M17 256c0 0 0 78 10 115c5 18 24 37 42 42c37 10 187 10 187 10s150 0 187 -10c18 -5 37 -24 42 -42c10 -37 10 -115 10 -115s0 -78 -10 -115c-5 -18 -24 -37 -42 -42c-37 -10 -187 -10 -187 -10s-150 0 -187 10c-18 5 -37 24 -42 42c-10 37 -10 115 -10 115zM208 184
+l124 72l-124 72v-144z" />
+    <glyph glyph-name="uniE1BC" unicode="zoom_in" 
 d="M32 296c0 102 82 184 184 184s184 -82 184 -184c0 -45 -16 -86 -43 -118l118 -119c6 -6 6 -16 0 -22s-16 -6 -22 0l-119 118c-32 -27 -73 -43 -118 -43c-102 0 -184 82 -184 184zM64 296c0 -84 68 -152 152 -152s152 68 152 152s-68 152 -152 152s-152 -68 -152 -152z
 M128 296c0 9 7 16 16 16h56v56c0 9 7 16 16 16s16 -7 16 -16v-56h56c9 0 16 -7 16 -16s-7 -16 -16 -16h-56v-56c0 -9 -7 -16 -16 -16s-16 7 -16 16v56h-56c-9 0 -16 7 -16 16z" />
-    <glyph glyph-name="uniE1BC" unicode="zoom_out" 
+    <glyph glyph-name="uniE1BD" unicode="zoom_out" 
 d="M32 296c0 102 82 184 184 184s184 -82 184 -184c0 -45 -16 -86 -43 -118l118 -119c6 -6 6 -16 0 -22s-16 -6 -22 0l-119 118c-32 -27 -73 -43 -118 -43c-102 0 -184 82 -184 184zM64 296c0 -84 68 -152 152 -152s152 68 152 152s-68 152 -152 152s-152 -68 -152 -152z
 M128 296c0 9 7 16 16 16h144c9 0 16 -7 16 -16s-7 -16 -16 -16h-144c-9 0 -16 7 -16 16z" />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="0" 

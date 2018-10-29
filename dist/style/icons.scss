@@ -1,12 +1,12 @@
 $icons-font-path : "../fonts/" !default;
 @font-face {
     font-family: "SafeFleet";
-    src: url($icons-font-path + "safefleet.eot?a85f7f5765ec57a0f65ca816f45a172e");
-    src: url($icons-font-path + "safefleet.eot?a85f7f5765ec57a0f65ca816f45a172e#iefix") format("embedded-opentype"),
-         url($icons-font-path + "safefleet.woff2?a85f7f5765ec57a0f65ca816f45a172e") format("woff2"),
-         url($icons-font-path + "safefleet.woff?a85f7f5765ec57a0f65ca816f45a172e") format("woff"),
-         url($icons-font-path + "safefleet.ttf?a85f7f5765ec57a0f65ca816f45a172e") format("truetype"),
-         url($icons-font-path + "safefleet.svg?a85f7f5765ec57a0f65ca816f45a172e#icons") format("svg");
+    src: url($icons-font-path + "safefleet.eot?0116c71ac15c0019f3a66d816a91fb8c");
+    src: url($icons-font-path + "safefleet.eot?0116c71ac15c0019f3a66d816a91fb8c#iefix") format("embedded-opentype"),
+         url($icons-font-path + "safefleet.woff2?0116c71ac15c0019f3a66d816a91fb8c") format("woff2"),
+         url($icons-font-path + "safefleet.woff?0116c71ac15c0019f3a66d816a91fb8c") format("woff"),
+         url($icons-font-path + "safefleet.ttf?0116c71ac15c0019f3a66d816a91fb8c") format("truetype"),
+         url($icons-font-path + "safefleet.svg?0116c71ac15c0019f3a66d816a91fb8c#icons") format("svg");
     font-weight: normal;
     font-style: normal;
 }
@@ -507,6 +507,7 @@ wire-transfer: "wire_transfer",
 wordpress: "wordpress",
 wrench: "wrench",
 write: "write",
+youtube: "youtube",
 zoom-in: "zoom_in",
 zoom-out: "zoom_out"
 );

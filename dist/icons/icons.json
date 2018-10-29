@@ -2659,12 +2659,18 @@
     }, 
     {
         "codepoint": "0xe1bb", 
+        "liga": "youtube", 
+        "name": "youtube", 
+        "src": "youtube.svg"
+    }, 
+    {
+        "codepoint": "0xe1bc", 
         "liga": "zoom_in", 
         "name": "zoom-in", 
         "src": "zoom-in.svg"
     }, 
     {
-        "codepoint": "0xe1bc", 
+        "codepoint": "0xe1bd", 
         "liga": "zoom_out", 
         "name": "zoom-out", 
         "src": "zoom-out.svg"
